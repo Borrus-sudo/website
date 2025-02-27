@@ -1,0 +1,88 @@
+body {
+    line-height: 2.3;
+    max-width: 800px;
+    margin: 5% auto;
+    padding: 0 10px;
+    font-family: 'Merriweather', serif;
+    background-color: rgb(61, 62, 54);
+    word-spacing: 0.2rem;
+    color: rgb(250, 248, 233);
+}
+
+.sub-text {
+    font-size: 1rem;
+    font-weight: 350;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 2rem;
+    /* color: rgb(237,199,39); */
+    /* color: rgb(190,75,219) */
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    outline: none;
+}
+
+.yellow {
+    color: rgb(237, 199, 39);
+}
+
+.wavy-effect {
+    text-decoration: underline wavy rgb(47, 121, 158);
+}
+header {
+    margin-bottom: 100px;
+}
+.profile {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    width: 4rem;
+    margin-bottom: 20px;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    object-fit: cover;
+    transition: transform 0.5s ease-in-out; /* Smooth transition */
+}
+
+.profile:hover {
+    animation: rotate 1s linear infinite; /* Rotate only on hover */
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.glass-bg {
+    background: rgba(255, 254, 254, 0.06);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(13.5px);
+    -webkit-backdrop-filter: blur(13.5px);
+    border: 1px solid rgba(255, 254, 254, 0.3);
+    padding: 5px 8.5px;
+    margin-right: 5px;
+    margin-top: 6px;
+    white-space: nowrap;
+}
+
+.glass-bg:hover {
+    background-color: rgba(255, 254, 254, 0.22);
+    cursor: pointer;
+}
+
+.handwritten {
+  font-family: "Reenie Beanie", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
