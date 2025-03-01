@@ -1,5 +1,5 @@
 /**
- * This code belongs to antfu!!!! (Huge thanks!)
+ * Thanks antfu!
  */
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -12,6 +12,9 @@ document.addEventListener('DOMContentLoaded', function () {
     canvas.style.height = '100vh';
     canvas.style.pointerEvents = 'none';
     canvas.style.zIndex = '-1';
+    canvas.style.maskImage = 'radial-gradient(circle, transparent, black)';
+    canvas.style.webkitMaskImage =
+        'radial-gradient(circle, transparent, black)';
 
     const ctx = canvas.getContext('2d');
     const random = Math.random;
@@ -20,16 +23,23 @@ document.addEventListener('DOMContentLoaded', function () {
     const r15 = Math.PI / 12;
     const color = '#88888825';
     const MIN_BRANCH = 30;
-    const len = 6;
+    let len = 6;
+    let stopped = false;
     let steps = [];
     let prevSteps = [];
     let lastTime = performance.now();
     const interval = 1000 / 40; // 50fps
+    let animationFrame;
 
     function resizeCanvas() {
-        canvas.width = window.innerWidth * window.devicePixelRatio;
-        canvas.height = window.innerHeight * window.devicePixelRatio;
-        ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
+        const width = window.innerWidth;
+        const height = window.innerHeight;
+        const dpr = window.devicePixelRatio || 1;
+
+        canvas.width = width * dpr;
+        canvas.height = height * dpr;
+        ctx.scale(dpr, dpr);
+        ctx.clearRect(0, 0, width, height);
     }
     window.addEventListener('resize', resizeCanvas);
     resizeCanvas();
@@ -48,9 +58,6 @@ document.addEventListener('DOMContentLoaded', function () {
         ctx.lineTo(nx, ny);
         ctx.stroke();
 
-        const rad1 = rad + random() * r15;
-        const rad2 = rad - random() * r15;
-
         if (
             nx < -100 ||
             nx > canvas.width + 100 ||
@@ -59,26 +66,35 @@ document.addEventListener('DOMContentLoaded', function () {
         )
             return;
 
-        const rate = counter.value <= MIN_BRANCH ? 0.8 : 0.5;
+        let rate = counter.value <= MIN_BRANCH ? 0.8 : 0.5;
 
-        if (random() < rate) steps.push(() => step(nx, ny, rad1, counter));
-        if (random() < rate) steps.push(() => step(nx, ny, rad2, counter));
+        if (random() < rate)
+            steps.push(() => step(nx, ny, rad + random() * r15, counter));
+        if (random() < rate)
+            steps.push(() => step(nx, ny, rad - random() * r15, counter));
     }
 
     function frame() {
-        if (performance.now() - lastTime < interval) return;
+        if (performance.now() - lastTime < interval) {
+            animationFrame = requestAnimationFrame(frame);
+            return;
+        }
+
         prevSteps = steps;
         steps = [];
         lastTime = performance.now();
 
-        if (!prevSteps.length) return;
-        prevSteps.forEach((fn) => (random() < 0.5 ? steps.push(fn) : fn()));
-    }
+        if (!prevSteps.length) {
+            stopped = true;
+            return;
+        }
 
-    let animationFrame;
-    function animate() {
-        frame();
-        animationFrame = requestAnimationFrame(animate);
+        prevSteps.forEach((fn) => {
+            if (random() < 0.5) steps.push(fn);
+            else fn();
+        });
+
+        animationFrame = requestAnimationFrame(frame);
     }
 
     function start() {
@@ -87,15 +103,21 @@ document.addEventListener('DOMContentLoaded', function () {
         ctx.lineWidth = 1;
         ctx.strokeStyle = color;
         prevSteps = [];
-        const middle = () => random() * 0.6 + 0.2;
+        stopped = false;
+
+        function randomMiddle() {
+            return random() * 0.6 + 0.2;
+        }
+
         steps = [
-            () => step(middle() * canvas.width, -5, r90),
-            () => step(middle() * canvas.width, canvas.height + 5, -r90),
-            () => step(-5, middle() * canvas.height, 0),
-            () => step(canvas.width + 5, middle() * canvas.height, r180),
+            () => step(randomMiddle() * canvas.width, -5, r90),
+            () => step(randomMiddle() * canvas.width, canvas.height + 5, -r90),
+            () => step(-5, randomMiddle() * canvas.height, 0),
+            () => step(canvas.width + 5, randomMiddle() * canvas.height, r180),
         ];
+
         if (canvas.width < 500) steps = steps.slice(0, 2);
-        animate();
+        animationFrame = requestAnimationFrame(frame);
     }
 
     start();
