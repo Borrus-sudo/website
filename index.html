@@ -5,17 +5,12 @@
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link
-            href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,300,300italic,400italic,700,700italic,800,800italic|Merriweather:400,300,300italic,400italic,700,700italic,900,900italic|Fira+Code:300,400,500,600,700"
-            rel="stylesheet"
-        />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link
-            href="https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Reenie+Beanie&display=swap"
             rel="stylesheet"
         />
         <link rel="stylesheet" href="./page.css" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="./src/index.js"></script>
         <title>website.exe</title>
     </head>
     <body>
@@ -26,140 +21,162 @@
                 class="profile"
             />
         </header>
-        <div class="handwritten" style="font-size: 3rem">Welcome!</div>
         <section class="container">
-            <h1 class="wavy-effect">personal!</h1>
-            <p class="sub-text">
+            <h1>personal</h1>
+            <p>
                 i'm an 18-year-old open-source developer and undergraduate
                 student at VJTI. Currently, I'm diving deep into DSA and C++.
                 I'm fluent in TypeScript, Deno, and have a strong interest in
                 build systems. I love Poker and COSS, and I'm passionate about
-                Code Golfing, Edge Computing, and Behavioural Economics!
+                Code Golfing, Edge Computing, and Behavioural Economics! You can
+                find me pushing on
+                <span class="link"
+                    ><a href="https://github.com/Borrus-sudo">Github</a></span
+                >
+                or tweeting on
+                <span class="link"
+                    ><a href="https://x.com/ts_gandalf">Twitter</a></span
+                >
             </p>
-
-            <span
-                ><span class="wavy-effect">Frontend</span> :
-                <span class="glass-bg"
-                    ><img src="./assets/typescript.svg" />
+            <p>Technologies I am fluent in / Tools I use:</p>
+            <div>
+                <div class="glass-bg">
+                    <img src="./assets/typescript.svg" />
                     <a href="https://www.typescriptlang.org/">Typescript</a>
-                </span>
-                <span class="glass-bg">
+                </div>
+                <div class="glass-bg">
                     <img src="./assets/vue.svg" />
                     <a href="https://vuejs.org/">Vue</a>
-                </span>
-                <span class="glass-bg">
+                </div>
+                <div class="glass-bg">
                     <img src="./assets/nuxt.svg" />
                     <a href="https://nuxt.com/">Nuxt</a>
-                </span>
-            </span>
-            <br />
-            <span style="margin-top: 5px"
-                ><span class="wavy-effect">Backend</span> :
-                <span class="glass-bg">
+                </div>
+
+                <div class="glass-bg">
                     <img src="./assets/deno.svg" />
                     <a href="https://deno.com/">Deno</a>
-                </span>
-                <span class="glass-bg">
+                </div>
+                <div class="glass-bg">
                     <img src="./assets/express.svg" />
                     <a href="https://expressjs.com/">Express</a>
-                </span>
-                <span class="glass-bg">
+                </div>
+                <div class="glass-bg">
                     <img src="./assets/laravel.svg" />
                     <a href="https://laravel.com/">Laravel</a>
-                </span>
-                <span class="glass-bg">
+                </div>
+                <div class="glass-bg">
                     <img src="./assets/netlify.svg" />
                     <a href="https://www.netlify.com/">Netlify</a>
-                </span>
-            </span>
+                </div>
+            </div>
         </section>
 
         <section class="container">
-            <h1 class="wavy-effect">projects!</h1>
+            <h1>projects</h1>
+            <div>
+                <h3>
+                    <span style="padding-right: 10px; margin-right: 10px">
+                        <a href="">
+                            <a
+                                class="link-hover"
+                                href="https://github.com/Borrus-sudo/tinypages"
+                            >
+                                tinypages
+                            </a>
+                        </a>
+                    </span>
+                </h3>
+                <p class="sub-text">
+                    tinypages is a vite based ssg that allows developers to
+                    quickly build content based websites by providing a bunch of
+                    out-of-the box features especially SEO!
+                </p>
+            </div>
 
-            <h3>
-                <span style="padding-right: 10px">tinypages</span>
-                <a
-                    class="yellow"
-                    href="https://github.com/Borrus-sudo/tinypages"
-                >
-                    /tinypages
-                </a>
-            </h3>
-            <p class="sub-text">
-                ⚛ tinypages is a vite based ssg that allows developers to
-                quickly build content based websites by providing a bunch of
-                out-of-the box features especially SEO!
-            </p>
+            <div>
+                <h3>
+                    <span style="padding-right: 10px; margin-right: 10px">
+                        <a
+                            class="link-hover"
+                            href="https://github.com/Borrus-sudo/Zeus"
+                        >
+                            zeus
+                        </a>
+                    </span>
+                </h3>
+                <p class="sub-text">
+                    A modern cross platform `ls` with powerful searching and
+                    querying capabilities to scale your productivity to the moon
+                    (and yeah it has file explorer like capabilities too)
+                </p>
+            </div>
 
-            <h3>
-                <span style="padding-right: 10px">Zeus</span>
-                <a class="yellow" href="https://github.com/Borrus-sudo/Zeus">
-                    /Zeus
-                </a>
-            </h3>
-            <p class="sub-text">
-                🔭 A modern cross platform `ls` with powerful searching and
-                querying capabilities to scale your productivity to the moon 🚀
-                (and yeah it has file explorer like capabilities too 🤫)
-            </p>
+            <div>
+                <h3>
+                    <span style="padding-right: 10px; margin-right: 10px">
+                        <a
+                            class="link-hover"
+                            href="https://github.com/Borrus-sudo/vue-generator-graph"
+                        >
+                            vue-gen-graph
+                        </a>
+                    </span>
+                </h3>
+                <p class="sub-text">
+                    An extension which will create a graph of a vuejs app by
+                    statically analyzing imports and auto imported components
+                </p>
+            </div>
 
-            <h3>
-                <span style="padding-right: 10px">vue-gen-graph</span>
-                <a
-                    class="yellow"
-                    href="https://github.com/Borrus-sudo/vue-generator-graph"
-                >
-                    /vue-gen-graph
-                </a>
-            </h3>
-            <p class="sub-text">
-                🌌 An extension which will create a graph of a vuejs app by
-                statically analyzing imports and auto imported components
-            </p>
+            <div>
+                <h3>
+                    <span style="padding-right: 10px; margin-right: 10px">
+                        <a
+                            class="link-hover"
+                            href="https://github.com/Borrus-sudo/awesome-stack"
+                        >
+                            awesome-stack
+                        </a>
+                    </span>
+                </h3>
+                <p class="sub-text">
+                    Github README stats for your favourite web dev stack
+                </p>
+            </div>
 
-            <h3>
-                <span style="padding-right: 10px">awesome-stack</span>
+            <div>
+                <h3>
+                    <span style="padding-right: 10px; margin-right: 10px">
+                        <a
+                            class="link-hover"
+                            href="https://github.com/Borrus-sudo/ts-lib-starter"
+                        >
+                            ts-lib-starter
+                        </a>
+                    </span>
+                </h3>
+                <p class="sub-text">
+                    Finest quality ts-lib-starter with insane defaults!
+                </p>
+            </div>
 
-                <a
-                    class="yellow"
-                    href="https://github.com/Borrus-sudo/awesome-stack"
-                >
-                    /awesome-stack
-                </a>
-            </h3>
-            <p class="sub-text">
-                ⚡ Github README stats for your favourite web dev stack
-            </p>
-
-            <h3>
-                <span style="padding-right: 10px">ts-lib-starter</span>
-
-                <a
-                    class="yellow"
-                    href="https://github.com/Borrus-sudo/ts-lib-starter"
-                >
-                    /ts-lib-starter
-                </a>
-            </h3>
-            <p class="sub-text">
-                🎩 Finest quality ts-lib-starter with insane defaults!
-            </p>
-
-            <h3>
-                <span style="padding-right: 10px">expressive-glob</span>
-                <a
-                    class="yellow"
-                    href="https://github.com/Borrus-sudo/expressive-glob"
-                >
-                    /expressive-glob
-                </a>
-            </h3>
-            <p class="sub-text">
-                💡 Write glob patterns in super expressive and an easy way!
-            </p>
+            <div>
+                <h3>
+                    <span style="padding-right: 10px; margin-right: 10px">
+                        <a
+                            class="link-hover"
+                            href="https://github.com/Borrus-sudo/expressive-glob"
+                        >
+                            expressive-glob
+                        </a>
+                    </span>
+                </h3>
+                <p class="sub-text">
+                    Write glob patterns in super expressive and an easy way!
+                </p>
+            </div>
         </section>
-
         <div class="handwritten" style="font-size: 3rem">- Jinmay!</div>
     </body>
 </html>
