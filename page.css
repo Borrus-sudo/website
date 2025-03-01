@@ -14,6 +14,32 @@ body {
     color: rgb(250, 248, 233);
 }
 
+@media (max-width: 800px) {
+    #app {
+        max-inline-size: 55ch;
+    }
+}
+
+@media (max-width: 710px) {
+    #app {
+        max-inline-size: 45ch;
+    }
+}
+
+@media (max-width: 620px) {
+    #app {
+        max-inline-size: 35ch;
+    }
+}
+
+@media (max-width: 530px) {
+    #app {
+        max-inline-size: 23ch;
+        line-height: 2;
+        font-size: 1.2rem;
+    }
+}
+
 a {
     text-decoration: none;
     color: inherit;
