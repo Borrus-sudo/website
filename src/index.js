@@ -1,56 +1,113 @@
-/**
- * Thanks antfu!
- */
+// HTML structure
+// <div id="tree-container">
+//   <canvas id="canvas"></canvas>
+// </div>
 
-document.addEventListener('DOMContentLoaded', function () {
-    const canvas = document.createElement('canvas');
-    document.body.appendChild(canvas);
-    canvas.style.position = 'fixed';
-    canvas.style.top = '0';
-    canvas.style.left = '0';
-    canvas.style.width = '100vw';
-    canvas.style.height = '100vh';
-    canvas.style.pointerEvents = 'none';
-    canvas.style.zIndex = '-1';
-    canvas.style.maskImage = 'radial-gradient(circle, transparent, black)';
-    canvas.style.webkitMaskImage =
-        'radial-gradient(circle, transparent, black)';
-
-    const ctx = canvas.getContext('2d');
-    const random = Math.random;
+document.addEventListener('DOMContentLoaded', () => {
+    // Constants
     const r180 = Math.PI;
     const r90 = Math.PI / 2;
     const r15 = Math.PI / 12;
     const color = '#88888825';
     const MIN_BRANCH = 30;
-    let len = 6;
+    const branchLength = 6;
+
+    // Variables
+    let size = {
+        width: window.innerWidth,
+        height: window.innerHeight,
+    };
     let stopped = false;
     let steps = [];
     let prevSteps = [];
-    let lastTime = performance.now();
-    const interval = 1000 / 40; // 50fps
-    let animationFrame;
+    let rafId = null;
+    let lastTime = 0;
+    const interval = 1000 / 40; // 40fps
 
-    function resizeCanvas() {
-        const width = window.innerWidth;
-        const height = window.innerHeight;
+    // Create container with standard CSS
+    const container = document.createElement('div');
+    container.id = 'tree-container';
+    container.style.position = 'fixed';
+    container.style.top = '0';
+    container.style.bottom = '0';
+    container.style.left = '0';
+    container.style.right = '0';
+    container.style.pointerEvents = 'none';
+    container.style.zIndex = '-1';
+
+    const canvas = document.createElement('canvas');
+    canvas.width = 400;
+    canvas.height = 400;
+    container.appendChild(canvas);
+    document.body.appendChild(container);
+
+    // Helper functions
+    function initCanvas(canvas, width = 400, height = 400, _dpi) {
+        const ctx = canvas.getContext('2d');
         const dpr = window.devicePixelRatio || 1;
+        const bsr =
+            ctx.webkitBackingStorePixelRatio ||
+            ctx.mozBackingStorePixelRatio ||
+            ctx.msBackingStorePixelRatio ||
+            ctx.oBackingStorePixelRatio ||
+            ctx.backingStorePixelRatio ||
+            1;
+        const dpi = _dpi || dpr / bsr;
 
-        canvas.width = width * dpr;
-        canvas.height = height * dpr;
-        ctx.scale(dpr, dpr);
-        ctx.clearRect(0, 0, width, height);
+        canvas.style.width = `${width}px`;
+        canvas.style.height = `${height}px`;
+        canvas.width = dpi * width;
+        canvas.height = dpi * height;
+        ctx.scale(dpi, dpi);
+
+        return { ctx, dpi };
     }
-    window.addEventListener('resize', resizeCanvas);
-    resizeCanvas();
 
     function polar2cart(x = 0, y = 0, r = 0, theta = 0) {
-        return [x + r * Math.cos(theta), y + r * Math.sin(theta)];
+        const dx = r * Math.cos(theta);
+        const dy = r * Math.sin(theta);
+        return [x + dx, y + dy];
     }
 
+    function randomMiddle() {
+        return Math.random() * 0.6 + 0.2;
+    }
+
+    // Initialize canvas
+    const { ctx } = initCanvas(canvas, size.width, size.height);
+
+    // Update mask
+    function updateMask() {
+        const mask = 'radial-gradient(circle, transparent, black)';
+        container.style.maskImage = mask;
+        container.style.webkitMaskImage = mask;
+    }
+    updateMask();
+
+    // Add print media query for hiding the effect when printing
+    const style = document.createElement('style');
+    style.textContent = `
+    @media print {
+      #tree-container {
+        display: none;
+      }
+    }
+  `;
+    document.head.appendChild(style);
+
+    // Window resize handler
+    window.addEventListener('resize', () => {
+        size.width = window.innerWidth;
+        size.height = window.innerHeight;
+        initCanvas(canvas, size.width, size.height);
+        updateMask();
+    });
+
+    // Create step function
     function step(x, y, rad, counter = { value: 0 }) {
-        const length = random() * len;
+        const length = Math.random() * branchLength;
         counter.value += 1;
+
         const [nx, ny] = polar2cart(x, y, length, rad);
 
         ctx.beginPath();
@@ -58,67 +115,94 @@ document.addEventListener('DOMContentLoaded', function () {
         ctx.lineTo(nx, ny);
         ctx.stroke();
 
+        const rad1 = rad + Math.random() * r15;
+        const rad2 = rad - Math.random() * r15;
+
+        // Check if out of bounds
         if (
             nx < -100 ||
-            nx > canvas.width + 100 ||
+            nx > size.width + 100 ||
             ny < -100 ||
-            ny > canvas.height + 100
-        )
-            return;
-
-        let rate = counter.value <= MIN_BRANCH ? 0.8 : 0.5;
-
-        if (random() < rate)
-            steps.push(() => step(nx, ny, rad + random() * r15, counter));
-        if (random() < rate)
-            steps.push(() => step(nx, ny, rad - random() * r15, counter));
-    }
-
-    function frame() {
-        if (performance.now() - lastTime < interval) {
-            animationFrame = requestAnimationFrame(frame);
+            ny > size.height + 100
+        ) {
             return;
         }
 
-        prevSteps = steps;
-        steps = [];
-        lastTime = performance.now();
+        // Determine branching rate
+        const rate = counter.value <= MIN_BRANCH ? 0.8 : 0.5;
 
-        if (!prevSteps.length) {
-            stopped = true;
-            return;
+        // Left branch
+        if (Math.random() < rate) {
+            steps.push(() => step(nx, ny, rad1, counter));
         }
 
-        prevSteps.forEach((fn) => {
-            if (random() < 0.5) steps.push(fn);
-            else fn();
-        });
-
-        animationFrame = requestAnimationFrame(frame);
+        // Right branch
+        if (Math.random() < rate) {
+            steps.push(() => step(nx, ny, rad2, counter));
+        }
     }
 
+    // Animation frame function
+    function frame(timestamp) {
+        if (!lastTime) lastTime = timestamp;
+
+        if (timestamp - lastTime >= interval) {
+            prevSteps = steps;
+            steps = [];
+            lastTime = timestamp;
+
+            if (!prevSteps.length) {
+                cancelAnimationFrame(rafId);
+                rafId = null;
+                stopped = true;
+                return;
+            }
+
+            // Execute steps from previous frame
+            prevSteps.forEach((stepFn) => {
+                // 50% chance to keep the step for the next frame for organic look
+                if (Math.random() < 0.5) {
+                    steps.push(stepFn);
+                } else {
+                    stepFn();
+                }
+            });
+        }
+
+        rafId = requestAnimationFrame(frame);
+    }
+
+    // Start function
     function start() {
-        cancelAnimationFrame(animationFrame);
+        if (rafId) {
+            cancelAnimationFrame(rafId);
+            rafId = null;
+        }
+
         ctx.clearRect(0, 0, canvas.width, canvas.height);
         ctx.lineWidth = 1;
         ctx.strokeStyle = color;
+
         prevSteps = [];
-        stopped = false;
-
-        function randomMiddle() {
-            return random() * 0.6 + 0.2;
-        }
-
         steps = [
-            () => step(randomMiddle() * canvas.width, -5, r90),
-            () => step(randomMiddle() * canvas.width, canvas.height + 5, -r90),
-            () => step(-5, randomMiddle() * canvas.height, 0),
-            () => step(canvas.width + 5, randomMiddle() * canvas.height, r180),
+            () => step(randomMiddle() * size.width, -5, r90),
+            () => step(randomMiddle() * size.width, size.height + 5, -r90),
+            () => step(-5, randomMiddle() * size.height, 0),
+            () => step(size.width + 5, randomMiddle() * size.height, r180),
         ];
 
-        if (canvas.width < 500) steps = steps.slice(0, 2);
-        animationFrame = requestAnimationFrame(frame);
+        if (size.width < 500) {
+            steps = steps.slice(0, 2);
+        }
+
+        lastTime = 0;
+        rafId = requestAnimationFrame(frame);
+        stopped = false;
     }
 
+    // Initialize
     start();
+
+    // Add start to window for external access
+    window.startTreeEffect = start;
 });

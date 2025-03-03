@@ -22,19 +22,27 @@ body {
 
 @media (max-width: 710px) {
     #app {
-        max-inline-size: 45ch;
+        max-inline-size: 50ch;
     }
 }
 
 @media (max-width: 620px) {
     #app {
-        max-inline-size: 35ch;
+        max-inline-size: 45ch;
     }
 }
 
 @media (max-width: 530px) {
     #app {
-        max-inline-size: 23ch;
+        max-inline-size: 35ch;
+        line-height: 2;
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 440px) {
+    #app {
+        max-inline-size: 30ch;
         line-height: 2;
         font-size: 1.2rem;
     }
@@ -47,7 +55,7 @@ a {
 }
 
 header {
-    margin-bottom: 110px;
+    margin-bottom: 7rem;
 }
 
 .handwritten {
@@ -118,7 +126,6 @@ header {
     aspect-ratio: 1 / 1;
     border-radius: 50%;
     object-fit: cover;
-    transition: transform 0.5s ease-in-out;
 }
 
 .profile:hover {
