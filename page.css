@@ -6,9 +6,9 @@ body {
     line-height: 1.82;
     max-inline-size: 66ch;
     margin: 5% auto;
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'JetBrains Mono', monospace;
     font-optical-sizing: auto;
-    font-weight: 400;
+    font-weight: 460;
     font-style: normal;
     word-spacing: 0.18rem;
     color: rgb(250, 248, 233);
@@ -93,6 +93,11 @@ header {
     text-decoration: underline dotted;
     color: rgb(156, 163, 175);
 }
+
+.padding-right {
+    padding-right: 5px;
+}
+
 .link::before {
     content: '⇢';
     margin-right: 2.5px;
