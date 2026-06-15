@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      v86:
+        specifier: ^0.5.359
+        version: 0.5.359
     devDependencies:
       typescript:
         specifier: ~5.7.2
@@ -301,6 +305,9 @@ packages:
     engines: {node: '>=14.17'}
     hasBin: true
 
+  v86@0.5.359:
+    resolution: {integrity: sha512-FeIho4j6LqM09ioCEwzVjYhoPjgCymCloLJLCRYztqIcf9b9sywE4H/B7id1BdMjnW9wLRzrSPpPKNCsixytrA==}
+
   vite@6.2.0:
     resolution: {integrity: sha512-7dPxoo+WsT/64rDcwoOjk76XHj+TqNTIvHKcuMQ1k4/SeHDaQt5GFAeLYzrimZrMpn/O6DtdI03WUjdxuPM0oQ==}
     engines: {node: ^18.0.0 || ^20.0.0 || >=22.0.0}
@@ -546,6 +553,8 @@ snapshots:
   source-map-js@1.2.1: {}
 
   typescript@5.7.3: {}
+
+  v86@0.5.359: {}
 
   vite@6.2.0:
     dependencies:

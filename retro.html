@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>jinmay.dev</title>
+        <style>
+            html,
+            body {
+                margin: 0;
+                width: 100%;
+                height: 100%;
+                overflow: hidden;
+            }
+
+            #screen_container {
+                width: 100vw;
+                height: 100vh;
+
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                overflow: hidden;
+            }
+
+            #screen_container canvas,
+            #screen_container > div {
+                display: block;
+            }
+        </style>
+        <link rel="shortcut icon" href="favicon.jpg" />
+    </head>
+    <body>
+        <div id="screen_container">
+            <div
+                style="
+                    white-space: pre;
+                    font: 14px monospace;
+                    line-height: 14px;
+                "
+            ></div>
+            <canvas style="display: none"></canvas>
+        </div>
+        <script type="module" src="./src/retro.js"></script>
+    </body>
+</html>

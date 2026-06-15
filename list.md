@@ -1,0 +1,5 @@
+- [] Optimize the image downloading with compression and removing un-necessary space prolly.
+- [] Have better mouse and graphics support if possible?
+- [] Shader for the screen to look like an actual computer screen
+- [] Pixel art background that matches the background
+- [✅] Fix the mouse pointer lock bug right now

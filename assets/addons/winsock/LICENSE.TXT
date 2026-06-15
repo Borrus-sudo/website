@@ -1,0 +1,15 @@
+License Terms and Conditions
+
+The following terms and conditions apply to your use of the Trumpet Ensemble package.  By using the Trumpet Ensemble package you accept the terms and conditions below.  If you do not accept the terms and conditions of this license, return this package to Trumpet Software International Pty Ltd and destroy all further copies of the product.
+
+1. TSI grants the registered user of the software ("You") a non-exclusive, non-transferable and perpetual licence to use the object code comprised in the software.  You must not have installed at any one time more than the number of licensed copies of the software.
+
+2. You acknowledge that the software is supplied "AS IS" and that TSI not making, and that no person acting on behalf of TSI has made, any warranty or representation as to the Software's functionality, performance characteristics, merchantability or suitability for any particular purpose.  All such warranties and representations are hereby excluded to the maximum extent permitted by law.
+
+3. To the extent permitted by law, TSI, its directors, servants, agents and licensors are excluded from all forms of direct, special, indirect, or consequential loss or damage (including loss of profits, loss of data and loss or damage that may reasonably be supposed to have been in the contemplation of the parties as of the date of this agreement as a probable result of an act or omission by TSI) arising out of or in connection with Your use of the Software, including without limitation any loss or damage caused by TSI's negligence.  Where relevant legislation does not permit TSI's liability to be limited in this way then, if permitted by that legislation, TSI's liability will be limited to, at TSI's option, the replacement of the relevant goods or the supplying of relevant services again, or the payment of the cost of having the services supplied again.  For the purposes of this Clause 3, TSI is or will be taken to be acting as agent or trustee on behalf of and for the benefit of its directors, servants, agents and licensors.
+
+4. The agreement formed by TSI's acceptance of Your application for registration is governed by and will be construed in accordance with the laws of the State of Tasmania, Australia.  The 1980 United Nations Convention on the International Sale of Goods does not apply to that agreement.
+
+5. You acknowledge that all rights in the Software are owned by TSI or its licensors and shall not at any time make any statement or do anything which is inconsistent with that ownership.  Without limitation, Your licence does not allow You to resupply the software to any other person or to distribute the software.
+
+6. Your licence is limited to use for Your own internal requirements and does not permit You to use the Software to process the data of any other person or a part of a bureau service.  If use for these purposes is required then You should contact TSI to make arrangements for the granting of an appropriate licence covering such uses.
