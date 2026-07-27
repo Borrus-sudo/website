@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Catppuccin",
+  "accentColor": "",
+  "theme": "obsidian",
+  "textFontFamily": "SN Pro",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "cursor"
+  ]
+}
