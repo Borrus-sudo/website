@@ -1,4 +1,4 @@
-#raw #seed 
+#raw #seed
 - Karpathy's LLM wiki has 3 core components:
 - Sources.
 - LLM markdown files.

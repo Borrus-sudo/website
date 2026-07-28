@@ -11,6 +11,7 @@
 	- Also shares that a third person could access an individual's memex, create new trails and share for living!
 - Surprisingly the modern web uptill now could do everything except the trails, how have not figured that out yet?
 - Bush also explains the technology advancements needed to build such a machine. Mainly he posited that they needed advancements on compression and selective access to make this possible. He explains the history of technology nicely. He bet heavily on magnetic tapes and figured that such a machine would be possible in due course of time once the costs to acquire magnetic tapes go down (the economics of scale should support it).
+- Ships with full source code for more agency. Everything is just one "claude prompt away".
 
 ### References: 
 - [Original PDF](https://worrydream.com/refs/Bush_1967_-_Memex_Revisited.pdf)

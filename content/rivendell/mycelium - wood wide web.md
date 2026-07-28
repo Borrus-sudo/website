@@ -1,0 +1,31 @@
+#idea #seed 
+- A pattern language for supporting how to "view" digital gardens on the web and allow for better authoring experience by sprinkling JS seamlessly into md.
+- Patterns: 
+	- Bi-directional links
+		- Even for foreign websites by sending them a web-mention and having a service to receive a web mention
+	- Link unfurling
+	- Multiple view with stack based horizontal scrolling
+	- Notes uniquely identified by slugs that are snaked and lower cases from their Obsidian filenames
+	- Obsidian markdown support
+	- Native authoring experience with obsidian 
+	- Index the content's graph, syntatic and semantic layer 
+	- Support for essay style meandering of the digital garden
+	- Support for a better graph component to spatially view connections
+	- Have support to see the evolution of the digital garden.
+	- Somehow support for user generated trails. Allowing them to be shared is easy
+	- Custom OG:images support and even support for generating og:image cards for custom stacked image?
+	- Completely vite based with a good backend server 
+	- Must have rebuild support and obsidian first
+	- Templating system and template support. 
+	- Good SEO support.
+	- First class support for media. 
+
+- Stuff like:
+	- Stickerification of images
+	- Engelbart component
+	- Telescopic text 
+	- Playful components
+	- Command-K navigation should nicely fit into the framework. They can be implemented by me perhaps, but should be supported in the system. 
+
+- Ontology support:
+	- Not sure what to do?

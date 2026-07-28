@@ -1,0 +1,1 @@
+Be-aware of the [[Pattern Bias|pattern bias]] whilst mining patterns. 
