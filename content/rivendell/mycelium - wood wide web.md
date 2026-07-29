@@ -3,6 +3,7 @@
 - Patterns: 
 	- Bi-directional links
 		- Even for foreign websites by sending them a web-mention and having a service to receive a web mention
+		- We need to have contextual backlinks!
 	- Link unfurling
 	- Multiple view with stack based horizontal scrolling
 	- Notes uniquely identified by slugs that are snaked and lower cases from their Obsidian filenames

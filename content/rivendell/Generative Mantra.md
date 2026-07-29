@@ -1,5 +1,5 @@
 #seed 
-Generative mantra is a short statement of the form _**if you do this then you achieve this**_. It's key feature is giving the reader an actionable item, intentionally devoid of any "why" i.e. a proof for the way things are done. Give a person something that can be done, and it will be done, allowing them to form a [[Habit]] out of it. These serve as powerful way to write "patterns" in a [[Pattern language]].
+Generative mantra is a short statement of the form _**if you do this then you achieve this**_. It's key feature is giving the reader an actionable item, intentionally devoid of any "why" i.e. a proof for the way things are done. Give a person something that can be done, and it will be done, allowing them to easily form a [[Habit]] out of it. These serve as powerful way to write "patterns" in a [[Pattern language]].
 
 This is deeply covered in [[Richard Gabriels]]' [[Repetition, Generativity and Patterns]]
 

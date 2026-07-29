@@ -1,3 +1,0 @@
-#principle 
-- Every piece of software, art, venture or any such human work must reflect a pre-defined philosophy. This philosophy serves as the north star during times of perils. It's the frame of reference which allows the designer to make better design decisions. 
-- Having a unique philosophy also gives you differentiation in the world of start-ups especially in the cases where the market is crowded as fuck. 

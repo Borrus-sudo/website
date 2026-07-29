@@ -1,0 +1,12 @@
+#principle 
+- Every piece of software, art, venture or any such human work must reflect a pre-defined philosophy. This philosophy serves as the north star during times of perils. It's the absolute frame of reference which allows the designer to make better design decisions. 
+- Having a unique philosophy also gives you differentiation in the world of start-ups especially in the cases where the market is crowded as fuck. 
+- Some properties of this philosophy:
+	- It should be uniform in its nature and should revolve around a central theme
+	- Preferably be composed of philosophies, principles
+	- Make assumptions explicit (if there are any)
+	- Include real life examples which reflect this philosophy or inspirations from which it is inspired.
+	- May also include a [[Pattern language]] in it?
+- Examples:
+	- [HTML Design Principles](https://www.w3.org/TR/html-design-principles/)
+	- [Smalltalk Design Principles](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)

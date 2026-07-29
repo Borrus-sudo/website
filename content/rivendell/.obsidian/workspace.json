@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7919c97361968230",
+            "id": "2285359de37d4186",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barefoot developer.md",
+                "file": "2026-07-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Barefoot developer"
-            }
-          },
-          {
-            "id": "2285359de37d4186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-07-28.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-28"
+              "title": "2026-07-29"
             }
           }
         ]
@@ -75,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -217,35 +193,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "7919c97361968230",
+  "active": "2285359de37d4186",
   "lastOpenFiles": [
-    "Design Of Everyday Things.md",
-    "Generative Mantra.md",
-    "2026-07-28.md",
-    "Pattern Bias.md",
-    "Note taking style to preserve and grow ideas.md",
-    "Information Design by Bret Victor.md",
-    "Barefoot developer.md",
-    "Pre-defined philosophy.md",
-    "Pit of Success.md",
-    "Mindstorms.md",
-    "Vow of Silence.md",
-    "Law of Leaky Abstraction.md",
-    "LLM Wikis.md",
-    "Recency Bias.md",
-    "Pattern language.md",
-    "The Collector's Fallacy.md",
-    "Spaced repetition system.md",
     "mycelium - wood wide web.md",
-    "Repetition, Generativity and Patterns.md",
-    "Reader Generated Essays.md",
-    "2026-07-27.md",
-    "The What, The How, The Why and its TL;DR.md",
-    "Untitled",
-    "Law.md",
-    "[[Law.md",
+    "Mindstorms.md",
+    "2026-07-29.md",
+    "Law of Leaky Abstraction.md",
+    "How I take notes.md",
     "Habit.md",
-    "Memex.md",
+    "Guiding Philosophy.md",
+    "Live in the future.md",
+    "2026-07-28.md",
+    "Pit of Success.md",
+    "Niche at scale.md",
+    "Postel's law.md",
+    "LLM Wikis.md",
+    "Barefoot developer.md",
+    "Untitled.md",
+    "Information Design by Bret Victor.md",
+    "Pattern language.md",
+    "Design Of Everyday Things.md",
+    "Reader Generated Essays.md",
+    "Generative Mantra.md",
+    "Richard Gabriels.md",
+    "Repetition, Generativity and Patterns.md",
+    "Recency Bias.md",
+    "Pattern Bias.md",
+    "Vow of Silence.md",
+    "The Collector's Fallacy.md",
+    "Untitled",
     "folder",
     "Clippings",
     "Untitled.base"

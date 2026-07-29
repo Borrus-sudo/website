@@ -6,7 +6,7 @@ This principle is extrapolated into the general setting that APIs, GUI interface
 One way to build such user interfaces might be to take inspiration from game design's [[Vow of Silence]]. Also similar to the constructionist approach in [[Mindstorms]]? 
 
 
-On a philosophical level, as a designer where do we draw a line in user's complaints about "pits of despair" as a design issue or the users' skill issue. Solving such an issue would generally require tradeoffs as in the case of programming languages too. One heuristic could be to pay heed to number of people who are having such an issue. Having a clear [[Pre-defined philosophy]] aids to make better design decisions whether such people are a part of your intended audience or not. Such an audience of users could be a potential [[Niche at scale|niche]] to capture!
+On a philosophical level, as a designer where do we draw a line in user's complaints about "pits of despair" as a design issue or the users' skill issue. Solving such an issue would generally require tradeoffs as in the case of programming languages too. One heuristic could be to pay heed to number of people who are having such an issue. Having a clear [[Guiding Philosophy]] aids to make better design decisions whether such people are a part of your intended audience or not. Such neglected audience of users could be a potential [[Niche at scale|niche]] to capture!
 
 In the context of programming languages, the pit of despair is generally "memory problems". Higher level languages have automated garbage collection. Rust seems to tackle it with its compile based ownership model. Either way there are tradeoffs. Can we help programmers avoid memory's pit of despair without making tradeoffs? Maybe LLMs might help here?
 
