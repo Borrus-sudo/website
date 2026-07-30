@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2026-07-29"
             }
+          },
+          {
+            "id": "4f428d78621bb75a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-07-29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-29"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,23 +218,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "2285359de37d4186",
+  "active": "4f428d78621bb75a",
   "lastOpenFiles": [
-    "mycelium - wood wide web.md",
-    "Mindstorms.md",
+    "Pace Layers.md",
     "2026-07-29.md",
+    "Mindstorms.md",
+    "Pit of Success.md",
+    "Postel's law.md",
+    "Vow of Silence.md",
+    "2026-07-28.md",
+    "2026-07-27.md",
+    "mycelium - wood wide web.md",
     "Law of Leaky Abstraction.md",
     "How I take notes.md",
     "Habit.md",
     "Guiding Philosophy.md",
     "Live in the future.md",
-    "2026-07-28.md",
-    "Pit of Success.md",
     "Niche at scale.md",
-    "Postel's law.md",
     "LLM Wikis.md",
     "Barefoot developer.md",
-    "Untitled.md",
     "Information Design by Bret Victor.md",
     "Pattern language.md",
     "Design Of Everyday Things.md",
@@ -219,8 +246,6 @@
     "Repetition, Generativity and Patterns.md",
     "Recency Bias.md",
     "Pattern Bias.md",
-    "Vow of Silence.md",
-    "The Collector's Fallacy.md",
     "Untitled",
     "folder",
     "Clippings",
