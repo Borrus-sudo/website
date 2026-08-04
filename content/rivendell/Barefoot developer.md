@@ -2,4 +2,5 @@
 - Agent based coding apps will be a great tool for them
 - They are the people to pose a threat to the jobs of programmers too?
 - Barefoot developers are mainly the ones who discover "latent" usage of various software?
-- They seem to innately possess the "hacker" mindset. 
+- They seem to innately possess the "hacker" mindset.  E.g. See the folk usages of Excel!
+- This concept is inspired from "folk lore"

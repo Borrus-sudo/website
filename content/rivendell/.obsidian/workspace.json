@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea791057ee1af7d7",
+        "id": "a28b27817d616270",
         "type": "tabs",
         "children": [
           {
-            "id": "aaa96b799425aca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pattern language.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pattern language"
-            }
-          },
-          {
-            "id": "ac2ea33ddf7957f6",
+            "id": "51e108d151e40369",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "Form fits the context"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,34 +195,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "ac2ea33ddf7957f6",
+  "active": "51e108d151e40369",
   "lastOpenFiles": [
-    "Pattern language.md",
-    "Fooled by Randomness.md",
-    "Form fits the context.md",
-    "Generative Mantra.md",
+    "2026-08-04.md",
+    "Hacking as Painting.md",
     "2026-08-03.md",
+    "Form fits the context.md",
+    "Abstraction and UNIX Philosophy.md",
+    "Fooled by Randomness.md",
+    "Conceptual Metaphor.md",
+    "2026-08-01.md",
+    "Barefoot developer.md",
+    "Analogue is the core of cognition.md",
+    "The Cone of Abstract and Concrete.md",
+    "Pattern language.md",
+    "The What, The How, The Why and its TL;DR.md",
+    "Law of Leaky Abstraction.md",
+    "Pattern Bias.md",
+    "Generative Mantra.md",
     "2026-08-02.md",
     "Postel's law.md",
     "Live in the future.md",
-    "Law of Leaky Abstraction.md",
     "Information Design by Bret Victor.md",
     "Untitled.md",
-    "Barefoot developer.md",
     "Design Of Everyday Things.md",
     "Knowledge Cycle.md",
-    "Analogue is the core of cognition.md",
     "mycelium - wood wide web.md",
     "Repetition, Generativity and Patterns.md",
     "Pace Layers.md",
-    "Recency Bias.md",
-    "Reader Generated Essays.md",
-    "Guiding Philosophy.md",
-    "2026-08-01.md",
-    "2026-07-28.md",
-    "2026-07-27.md",
-    "2026-07-31.md",
-    "Sapir Whorf Hypothesis, Metaphor and Thought.md",
     "Untitled",
     "folder",
     "Clippings",

@@ -1,0 +1,1 @@
+==TODO==: A take on abstraction viewed as a repetition and the power of composition. Does abstraction favor composition?
