@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8656947216dc4969",
+        "id": "ea791057ee1af7d7",
         "type": "tabs",
         "children": [
           {
-            "id": "2285359de37d4186",
+            "id": "aaa96b799425aca9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-07-29.md",
+                "file": "Pattern language.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-29"
+              "title": "Pattern language"
             }
           },
           {
-            "id": "4f428d78621bb75a",
+            "id": "ac2ea33ddf7957f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-07-29.md",
+                "file": "Form fits the context.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-29"
+              "title": "Form fits the context"
             }
           }
         ],
@@ -76,7 +76,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -218,34 +220,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "4f428d78621bb75a",
+  "active": "ac2ea33ddf7957f6",
   "lastOpenFiles": [
-    "Pace Layers.md",
-    "2026-07-29.md",
-    "Mindstorms.md",
-    "Pit of Success.md",
+    "Pattern language.md",
+    "Fooled by Randomness.md",
+    "Form fits the context.md",
+    "Generative Mantra.md",
+    "2026-08-03.md",
+    "2026-08-02.md",
     "Postel's law.md",
-    "Vow of Silence.md",
+    "Live in the future.md",
+    "Law of Leaky Abstraction.md",
+    "Information Design by Bret Victor.md",
+    "Untitled.md",
+    "Barefoot developer.md",
+    "Design Of Everyday Things.md",
+    "Knowledge Cycle.md",
+    "Analogue is the core of cognition.md",
+    "mycelium - wood wide web.md",
+    "Repetition, Generativity and Patterns.md",
+    "Pace Layers.md",
+    "Recency Bias.md",
+    "Reader Generated Essays.md",
+    "Guiding Philosophy.md",
+    "2026-08-01.md",
     "2026-07-28.md",
     "2026-07-27.md",
-    "mycelium - wood wide web.md",
-    "Law of Leaky Abstraction.md",
-    "How I take notes.md",
-    "Habit.md",
-    "Guiding Philosophy.md",
-    "Live in the future.md",
-    "Niche at scale.md",
-    "LLM Wikis.md",
-    "Barefoot developer.md",
-    "Information Design by Bret Victor.md",
-    "Pattern language.md",
-    "Design Of Everyday Things.md",
-    "Reader Generated Essays.md",
-    "Generative Mantra.md",
-    "Richard Gabriels.md",
-    "Repetition, Generativity and Patterns.md",
-    "Recency Bias.md",
-    "Pattern Bias.md",
+    "2026-07-31.md",
+    "Sapir Whorf Hypothesis, Metaphor and Thought.md",
     "Untitled",
     "folder",
     "Clippings",

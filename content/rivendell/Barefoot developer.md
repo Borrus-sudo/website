@@ -1,4 +1,5 @@
-A coin termed by [[Maggie Appleton]] to describe agentic individuals possessing the "builder" spirit but aren't necessarily a programmer by profession.
-Agent based coding apps will be a great tool for them
-They are the people to pose a threat to the jobs of programmers too?
-Barefoot developers are mainly the ones who discover "latent" usage of various software?
+- A coin termed by [[Maggie Appleton]] to describe agentic individuals possessing the "builder" spirit but aren't necessarily a programmer by profession.
+- Agent based coding apps will be a great tool for them
+- They are the people to pose a threat to the jobs of programmers too?
+- Barefoot developers are mainly the ones who discover "latent" usage of various software?
+- They seem to innately possess the "hacker" mindset. 

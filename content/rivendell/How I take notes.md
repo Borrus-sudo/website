@@ -3,7 +3,7 @@
 		- I just transition from ideas to notes. I think I need better re-structuring 
 		- Also think of a way to add Knowledge Cycle in my thought process
 		- Also find better tags to structure notes
-		- Figure out epistemic disclosure stuff
+		- Figure out epistemic disclosure stuff ^cc0829
 		- Do we need a linter at work here?
 	- Essay:
 		- Ideas are like clouds of enlightenment that swirl around your head which threaten to disappear themselves in the light of _stultitia_. Hence we are driven by the constant need re-visit them in our heads so that we don't lose them. Having a low friction log to quickly store them is a huge cognitive easer. Additionally we should regularly spend time to re-visit them, think and write about them in a detailed fashion. This helps us to crystallize those clouds of thoughts into a well structured notion, which upon re-calling allows us to re-live that moment of enlightenment when we first discovered them. 

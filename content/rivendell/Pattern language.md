@@ -1,1 +1,8 @@
-Be-aware of the [[Pattern Bias|pattern bias]] whilst mining patterns. 
+- A pattern language is a collection of re-usable patterns in [[Form fits the context|form/context]] pairs. 
+- The context tries, not necessarily, to be abstract so they can be applied to a variety of scenarios.
+- They provide reusable instances of a solution when faced with a problem in a given context.
+- Patterns can be applied and composed together in your particular "context" accordingly.   
+- Be-aware of the [[Pattern Bias|pattern bias]] whilst mining patterns. 
+- [[Richard Gabriels]] in his article [[Repetition, Generativity and Patterns]] makes the point that we need more pattern language miners to be published in scientific journals owing to the amount of [[Agency]] they provide to their reader. Traditionally science always demands for a clever explanation for everything, which is fairly important but also not required for a lot of cases. 
+	- Hence [[mycelium - wood wide web]] has "semantic zoom" primitives so that such explanations can be stashed in the background and referred to as and when the reader finds it fit.
+- It is necessary to not forget such proofs. See [[Fooled by Randomness]] for more reasons. 

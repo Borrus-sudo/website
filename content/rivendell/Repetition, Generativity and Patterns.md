@@ -48,8 +48,6 @@ How do you produce generative patterns? You don’t - you find them. They are in
 The work of the Hillside group is to remind us that people in teams and groups write software, and that in the absence of rituals and repetitions, recurrences, every step of the way for the individual is invention and creation. Software engineering is not yet engineering and won’t be, cannot be, for decades if not centuries, because we cannot yet recognize the important, repeatable parts. When we do we will have patterns - recurrences, predictability.
 
   
-  
-
-Rituals, repetitions, recurrences: These are simply patterns, the repeated parts, the familiar signposts that tame frightening variations  
+Rituals, repetitions, recurrences: These are simply patterns, the repeated parts, the familiar signposts that tame frightening variations  **Repetitions helps a person achieve the right balance between chaos and structure**.
   
 Link to Notes about Substack reading note and jzhao
