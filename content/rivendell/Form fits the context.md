@@ -3,6 +3,7 @@
 	- **"Context" must be described in a form agnostic way**
 	-  Every form must be tested to see if it fits the form. This especially becomes a problem when there exists a common way of designing something which makes us blind to the question of whether it actually works well or not.
 - **Unfolding**: We should iteratively create our **form**, test it's **fitness** in the **context** and repeat. This establishes a feedback loop. Analogous to the popular mantra in programming "Release early, release often".
+- Failure to do so leads to "premature designing"
 - A context is generally made up of objects in relation with each other in a coherent or non-coherent way. Some of those might be "centers". Objects that might be more connected/related than others. They are possibly focal points of attraction. ==WARNING: this point is a WIP==
 	- A form that fits the context better has more **life**. Christopher Alexander has gone to great lengths to describe what exactly is life. An approximate definition of life: that is directly proportional to the number of possibilities unlocked inside the context.
 	- In a form that has more life, every center is well connected with its neighboring center which weaves a field of well defined centers, all dancing in harmony. 

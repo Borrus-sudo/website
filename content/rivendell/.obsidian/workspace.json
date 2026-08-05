@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51e108d151e40369",
+            "id": "738ed38d5c81863e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Form fits the context.md",
+                "file": "2026-08-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "Form fits the context"
+              "title": "2026-08-05"
             }
           }
         ]
@@ -195,34 +195,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "51e108d151e40369",
+  "active": "738ed38d5c81863e",
   "lastOpenFiles": [
+    "VARK Model and Spaced Repetition.md",
+    "2026-08-05.md",
+    "Untitled.md",
     "2026-08-04.md",
+    "Abstraction and UNIX Philosophy.md",
+    "Pit of Success.md",
+    "The Cone of Abstract and Concrete.md",
+    "The What, The How, The Why and its TL;DR.md",
+    "Spaced repetition system.md",
+    "Fooled by Randomness.md",
+    "Popperian Philosophy.md",
+    "File over app.md",
+    "Guiding Philosophy.md",
+    "Generative Mantra.md",
+    "Pace Layers.md",
+    "Form fits the context.md",
     "Hacking as Painting.md",
     "2026-08-03.md",
-    "Form fits the context.md",
-    "Abstraction and UNIX Philosophy.md",
-    "Fooled by Randomness.md",
     "Conceptual Metaphor.md",
     "2026-08-01.md",
     "Barefoot developer.md",
     "Analogue is the core of cognition.md",
-    "The Cone of Abstract and Concrete.md",
     "Pattern language.md",
-    "The What, The How, The Why and its TL;DR.md",
     "Law of Leaky Abstraction.md",
     "Pattern Bias.md",
-    "Generative Mantra.md",
     "2026-08-02.md",
-    "Postel's law.md",
-    "Live in the future.md",
-    "Information Design by Bret Victor.md",
-    "Untitled.md",
-    "Design Of Everyday Things.md",
-    "Knowledge Cycle.md",
-    "mycelium - wood wide web.md",
-    "Repetition, Generativity and Patterns.md",
-    "Pace Layers.md",
     "Untitled",
     "folder",
     "Clippings",

@@ -6,3 +6,4 @@
 - Separating the "what" from "how". Also linked to A/B qn. We have an issue in solution B to problem A. Chances are you must tell about the problem "A" too.
 - Possibility space. 
 - Seeing abstractions as repetitions.
+- How do I inculcate the "breaking of rules" inside this? e.g when Nike's just paid the fines cause Jordan's shoes had too much red.
