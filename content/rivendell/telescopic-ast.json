@@ -1,0 +1,869 @@
+{
+  "meta": {
+    "title": "Rivendell: The Shape of a Thinking Garden",
+    "subtitle": "A telescopic text synthesized from the full corpus (50 notes)",
+    "type": "telescopic-text-ast",
+    "version": "1.0",
+    "root": "worldview",
+    "levels": ["worldview", "argument", "concept", "subconcept", "detail"],
+    "statuses": ["evergreen", "seed", "fruit", "principle", "idea", "philosophy", "fallacy", "bias", "book", "source", "raw"],
+    "expansion": "inline-expand: click any expandable phrase to zoom into that node's prose; click again (or the breadcrumb) to collapse. The concatenation of all segment values reproduces the full prose of a node."
+  },
+  "nodes": {
+    "worldview": {
+      "label": "Understanding is something you sense",
+      "level": "worldview",
+      "status": "evergreen",
+      "content": [
+        { "t": "text", "v": "Understanding is not something you collect; it is something you " },
+        { "t": "expand", "v": "sense", "node": "felt-knowledge" },
+        { "t": "text", "v": ", and it grows not by hoarding facts but by " },
+        { "t": "expand", "v": "repetition", "node": "repetition-generativity" },
+        { "t": "text", "v": " and the patient forming of habits. We think in " },
+        { "t": "expand", "v": "metaphor", "node": "metaphor" },
+        { "t": "text", "v": " and come to know by analogy, and the things we make must " },
+        { "t": "expand", "v": "fit the contexts they live in", "node": "form-fits-context" },
+        { "t": "text", "v": ". Because " },
+        { "t": "expand", "v": "tools are the medium of thought", "node": "tools-as-medium" },
+        { "t": "text", "v": ", the most powerful instrument we can build is not a vault of information but a " },
+        { "t": "expand", "v": "garden", "node": "digital-garden" },
+        { "t": "text", "v": " of ideas in which the reader can " },
+        { "t": "expand", "v": "move through the argument at any level of depth", "node": "telescopic-text" },
+        { "t": "text", "v": ", following their own " },
+        { "t": "expand", "v": "trail", "node": "reader-generated-essays" },
+        { "t": "text", "v": " from worldview to evidence and back — so that every reader, in the end, writes the essay they needed to read." }
+      ],
+      "links": ["felt-knowledge", "repetition-generativity", "metaphor", "form-fits-context", "tools-as-medium", "digital-garden", "telescopic-text", "reader-generated-essays"],
+      "sources": ["(entire corpus)"]
+    },
+
+    "metaphor": {
+      "label": "We think in metaphor",
+      "level": "argument",
+      "status": "evergreen",
+      "content": [
+        { "t": "text", "v": "Lakoff's 'Metaphors We Live By' argues that abstract thought is largely built from mappings of concrete bodily experience: time is 'money,' argument is 'war,' and sensory feelings can be attached to abstractions. We also come to know by " },
+        { "t": "expand", "v": "analogy", "node": "analogy" },
+        { "t": "text", "v": ", which drives categorization at the very root of cognition. If thought is metaphorical, then the " },
+        { "t": "expand", "v": "language we think in", "node": "sapir-whorf" },
+        { "t": "text", "v": " constrains what we can think, and the " },
+        { "t": "expand", "v": "tools of thought", "node": "tools-of-thought" },
+        { "t": "text", "v": " we build — graphs, notation, gardens — are metaphors that determine the shape of our ideas. Even " },
+        { "t": "expand", "v": "abstract visual thinking", "node": "visual-thinking" },
+        { "t": "text", "v": " is a conceptual metaphor: you map the abstract onto the graph." }
+      ],
+      "links": ["tools-of-thought", "visual-thinking", "felt-knowledge", "sapir-whorf"],
+      "sources": ["2026-08-01", "2026-08-02", "Conceptual Metaphor", "Sapir Whorf Hypothesis, Metaphor and Thought", "Analogue is the core of cognition"]
+    },
+
+    "analogy": {
+      "label": "Analogy is the motor of cognition",
+      "level": "concept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Analogy is the motor that drives categorization: we understand the new by mapping it onto the known. Every category, every abstraction, every metaphor is a compressed analogy — a repeated part carried across contexts. This is why the corpus treats conceptual metaphor, analogue cognition, and pattern recognition as one family of moves: the same act of seeing the repeated part in the thing that seems new." }
+      ],
+      "links": ["metaphor", "repetition-generativity"],
+      "sources": ["Analogue is the core of cognition"]
+    },
+
+    "sapir-whorf": {
+      "label": "Language shapes thought",
+      "level": "concept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "The Sapir–Whorf hypothesis — explored by Venkatesh Rao in 'Sapir Whorf Hypothesis, Metaphor and Thought' — is the claim that the language you think in shapes the thoughts you can have. Its yin-yang is that our tools of language both enable and constrain thinking. The pragmatic reading for a knowledge garden: learning is not just acquiring information, but acquiring the metaphors and notations that let you think in new shapes. The design consequence is radical — you can improve thinking itself by building better " },
+        { "t": "expand", "v": "tools of thought", "node": "tools-of-thought" },
+        { "t": "text", "v": ", which is exactly what notation, graphs, and digital gardens are for." }
+      ],
+      "links": ["tools-of-thought", "metaphor"],
+      "sources": ["Sapir Whorf Hypothesis, Metaphor and Thought", "2026-08-01", "2026-08-02"]
+    },
+
+    "tools-of-thought": {
+      "label": "Tools of thought",
+      "level": "concept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Tools of thought are instruments that change what you can think. Iverson's 'Notation as a Tool of Thought' is the canonical case: a good notation makes an idea manipulable, and a bad one makes it unthinkable. The corpus's working hypothesis is that every powerful abstraction — the graph, the pattern language, the " },
+        { "t": "expand", "v": "telescopic paragraph", "node": "telescopic-text" },
+        { "t": "text", "v": " — is a tool of thought, and that better tools are the path from metaphor to mastery. This is the bridge between the cognition pillar and the medium pillar: building a garden is building a tool of thought." }
+      ],
+      "links": ["metaphor", "telescopic-text", "visual-thinking"],
+      "sources": ["2026-08-01", "2026-08-02", "Sapir Whorf Hypothesis, Metaphor and Thought"]
+    },
+
+    "visual-thinking": {
+      "label": "Visualizations are metaphors",
+      "level": "concept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Even abstract visual thinking is a conceptual metaphor: you map the abstract idea onto a graph, a chart, a spatial layout. Every graphical visualization is, in this sense, a metaphor — and so is the " },
+        { "t": "expand", "v": "digital garden", "node": "mycelium" },
+        { "t": "text", "v": " itself. The corollary is practical: you can design better gardens by designing better conceptual metaphors to operate in. The graph view, the stacked view, the evolution view are not neutral renderings but ways of thinking made visible. 'Doing with images makes symbols.'" }
+      ],
+      "links": ["mycelium", "tools-of-thought", "semantic-zoom"],
+      "sources": ["2026-08-01", "2026-08-02", "mycelium - wood wide web"]
+    },
+
+    "felt-knowledge": {
+      "label": "Understanding is felt, not memorized",
+      "level": "argument",
+      "status": "evergreen",
+      "content": [
+        { "t": "text", "v": "Understanding is not information you hold; it is something you can sense, feel, and act on reflexively. Truly learning a thing means being able to perceive it — the experienced chess player who " },
+        { "t": "expand", "v": "sees the lines of force", "node": "mastery" },
+        { "t": "text", "v": " in a position, Einstein trying to " },
+        { "t": "expand", "v": "sense the forces of relativity", "node": "mastery" },
+        { "t": "text", "v": " while he worked. If understanding is sensing, then learning must " },
+        { "t": "expand", "v": "engage the senses", "node": "vark" },
+        { "t": "text", "v": " — seeing, hearing, reading, and doing, persistently — until the abstraction is " },
+        { "t": "expand", "v": "felt", "node": "repetition-generativity" },
+        { "t": "text", "v": ". The deepest reason 'doing with images makes symbols' is that manipulation builds the sensorium that the symbol later names." }
+      ],
+      "links": ["vark", "mastery", "repetition-generativity", "digital-garden"],
+      "sources": ["VARK Model and Spaced Repetition", "2026-08-04", "Information Design by Bret Victor"]
+    },
+
+    "mastery": {
+      "label": "Mastery is sensing the shape",
+      "level": "concept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Mastery is what sensing an idea looks like at its peak. A chess master, looking at a position, perceives the lines of force and the imbalances automatically — they do not calculate so much as feel the shape of the game. Einstein, on Alan Kay's telling, understood relativity by visualizing and sensing forces long before he could formalize them. Mastery is when the abstraction stops being a symbol you manipulate and becomes a territory you inhabit." }
+      ],
+      "links": ["felt-knowledge", "vark"],
+      "sources": ["VARK Model and Spaced Repetition"]
+    },
+
+    "vark": {
+      "label": "Learning through the senses",
+      "level": "concept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "The VARK model names four channels — visual, aural, reading, kinesthetic. The claim here goes beyond learning-style labels: real understanding is built by actively simulating across channels — visualizing in your head, hearing the words, kinesthetically rehearsing the motion — and doing so persistently. 'Doing with images makes symbols' gives way to 'playing with videos makes symbols with spacing': the senses feed the symbols, and " },
+        { "t": "expand", "v": "spaced repetition", "node": "spaced-repetition" },
+        { "t": "text", "v": " feeds the timing. Repeated action welds perception into abstraction." }
+      ],
+      "links": ["felt-knowledge", "mastery", "spaced-repetition"],
+      "sources": ["VARK Model and Spaced Repetition", "2026-08-04"]
+    },
+
+    "repetition-generativity": {
+      "label": "Repetition reveals the pattern",
+      "level": "argument",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Repetition is the engine of understanding. Patterns are repetitions — common recurrences that can be predicted — and the brain is built to find them, trading energy for predictability. Richard Gabriel's claim goes further: 'abstraction is what we know as long as what is repeated has the magic of enchantment and song of incantation.' Repetition is how the brain balances chaos and structure: what begins as effortful work becomes " },
+        { "t": "expand", "v": "habit", "node": "habits" },
+        { "t": "text", "v": ", then ritual, then a generative pattern — and from pattern, creativity departs. The interesting part: generative patterns are " },
+        { "t": "expand", "v": "found, not produced", "node": "patterns-mining" },
+        { "t": "text", "v": ". And the evidence is a matter of taste — " },
+        { "t": "expand", "v": "the oysters", "node": "oyster-story" },
+        { "t": "text", "v": " had to be tasted again and again before 'oystertaste' emerged from the poison." }
+      ],
+      "links": ["habits", "patterns-mining", "pattern-language", "abstraction-and-composition", "vark"],
+      "sources": ["Repetition, Generativity and Patterns", "VARK Model and Spaced Repetition"]
+    },
+
+    "habits": {
+      "label": "Habit as a pattern in the body",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Habits are system-one patterns: routines the brain automates to minimize effort. Ritual is the psychological face of repetition — the superstitious baseball ritual that calms, the repeated phrase that lowers blood pressure. 'Ritual calms.' A habit is a pattern that has taken residence in the body — which is why the corpus wants ideas to end as habits. An idea that reflexively appears when needed is an idea that has been truly internalized. This is where " },
+        { "t": "expand", "v": "generative mantras", "node": "generative-mantra" },
+        { "t": "text", "v": " and " },
+        { "t": "expand", "v": "spaced repetition", "node": "spaced-repetition" },
+        { "t": "text", "v": " earn their keep." }
+      ],
+      "links": ["repetition-generativity", "generative-mantra", "spaced-repetition"],
+      "sources": ["Repetition, Generativity and Patterns", "How I take notes"]
+    },
+
+    "patterns-mining": {
+      "label": "Patterns are found, not produced",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Generative patterns cannot be produced on demand; they are found. They live in systems written by virtuosos, in software that is a dream to maintain, in the folk uses that spring up around powerful tools. You do not find a single gold atom; you find veins and nuggets — accumulation. The Hillside group reminds us that teams write software, and that without rituals and repetitions every step is invention. Software is not yet engineering precisely because we cannot yet recognize the important, repeatable parts — until we can, every developer is a lonely inventor. Maybe that is why " },
+        { "t": "expand", "v": "pattern language miners", "node": "pattern-language" },
+        { "t": "text", "v": " deserve scientific journals." }
+      ],
+      "links": ["repetition-generativity", "pattern-language", "oyster-story"],
+      "sources": ["Repetition, Generativity and Patterns", "Pattern language"]
+    },
+
+    "oyster-story": {
+      "label": "Learning to taste the repeated part",
+      "level": "detail",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Gabriel's own evidence: for years, oysters tasted like poison to him. Then at Point Reyes he tasted Hog Island Sweetwaters — only slightly salty — and the 'oystertaste' revealed itself: sweet, lightly eccentric, muscularly hard, central. Sampling oysters again and again, he learned to taste the repeated part. 'Software tastes like poison. Patterns, possibly, will reveal the sweetwaters.' The detail matters because it is repetition as the slow learning to perceive — a felt example of the felt-knowledge argument, in the mouth." }
+      ],
+      "links": ["patterns-mining", "repetition-generativity"],
+      "sources": ["Repetition, Generativity and Patterns"]
+    },
+
+    "digital-garden": {
+      "label": "Ideas must be tended, not collected",
+      "level": "argument",
+      "status": "idea",
+      "content": [
+        { "t": "text", "v": "Knowledge is a living thing; it must be " },
+        { "t": "expand", "v": "tended, not collected", "node": "collector-fallacy" },
+        { "t": "text", "v": ". A digital garden is a body of notes that grows — atomic, densely linked, evolved in passes from seed to fruit to evergreen — and whose " },
+        { "t": "expand", "v": "evolution", "node": "note-taking" },
+        { "t": "text", "v": " is itself visible. Tending means " },
+        { "t": "expand", "v": "returning to old ideas", "node": "spaced-repetition" },
+        { "t": "text", "v": ", revising, connecting, pruning, and keeping a daily log for half-formed clouds of thought. The work rhythm is the " },
+        { "t": "expand", "v": "knowledge cycle", "node": "knowledge-cycle" },
+        { "t": "text", "v": ". And because the garden is a place, it can be walked: the reader, not the author, chooses the path — and the garden should be open to visitors for feedback." }
+      ],
+      "links": ["collector-fallacy", "note-taking", "knowledge-cycle", "spaced-repetition", "memex", "mycelium"],
+      "sources": ["How I take notes", "mycelium - wood wide web", "2026-07-27"]
+    },
+
+    "note-taking": {
+      "label": "From cloud to evergreen",
+      "level": "concept",
+      "status": "evergreen",
+      "content": [
+        { "t": "text", "v": "Ideas arrive as clouds of enlightenment that threaten to vanish in the light of daily dullness — stultitia — so the first job is a low-friction log that catches them. Writing grows the fragile cloud into a crystallized concept and leaves a textual artifact for the future self; but a text is not yet internalization. To internalize, you revisit, meditate, and eventually habit the idea — " },
+        { "t": "expand", "v": "spaced repetition", "node": "spaced-repetition" },
+        { "t": "text", "v": " is the scheduling of that return, and a " },
+        { "t": "expand", "v": "TL;DR", "node": "what-how-why" },
+        { "t": "text", "v": " cast as a mantra is its hand-off. Notes stay atomic and densely linked, and most nascent thoughts are not 'worthy' of essays — but they are the soil for ambitious ideas later. Everything in the garden is a note; every note has a life cycle." }
+      ],
+      "links": ["digital-garden", "spaced-repetition", "what-how-why"],
+      "sources": ["How I take notes", "2026-07-27"]
+    },
+
+    "knowledge-cycle": {
+      "label": "Short cycles of research, read, note, write",
+      "level": "concept",
+      "status": "source",
+      "content": [
+        { "t": "text", "v": "The Knowledge Cycle is the work rhythm that keeps the garden growing: research, read, take notes, write — in short loops. A short cycle moves from research to writing quickly, over and over — continuous integration for writing: you discover early whether the parts fit, instead of hoping after a 'Big Bang' assembly. It resists the " },
+        { "t": "expand", "v": "collector's fallacy", "node": "collector-fallacy" },
+        { "t": "text", "v": " and the false progress of endless research, and it rests on a counterintuitive finding: breaks — 20 minutes of work, 2 minutes off — are not a loss but a consolidation. 'Write early and write often'; 'release early, release often.'" }
+      ],
+      "links": ["digital-garden", "collector-fallacy"],
+      "sources": ["Knowledge Cycle"]
+    },
+
+    "collector-fallacy": {
+      "label": "Owning a text is not knowing it",
+      "level": "concept",
+      "status": "fallacy",
+      "content": [
+        { "t": "text", "v": "Owning a text is not knowing it. The Collector's Fallacy is the comfortable illusion that because a PDF, a clip, or a bookmark sits in your vault, its knowledge is yours. Research is addictive precisely because finding something interesting masquerades as progress. The cure is the knowledge cycle: process findings early, take lasting notes, work with the text until the knowledge is your own. A garden is measured by what grows in you, not by what is stored." }
+      ],
+      "links": ["digital-garden", "knowledge-cycle"],
+      "sources": ["The Collector's Fallacy", "Knowledge Cycle"]
+    },
+
+    "spaced-repetition": {
+      "label": "Returning just before you forget",
+      "level": "concept",
+      "status": "evergreen",
+      "content": [
+        { "t": "text", "v": "Spaced repetition schedules revisits at intervals tuned to memory: a question surfaces just as you are about to forget, forcing a recollection that re-forges the trace. Andy Matuschak's system — and the older practice of " },
+        { "t": "expand", "v": "hypomnēmata", "node": "hypomnēmata" },
+        { "t": "text", "v": ", opening a notebook each morning to meditate on a passage relevant to today's struggle — are the same idea: keep the idea alive in you until it becomes character. Morning reviews, " },
+        { "t": "expand", "v": "TL;DRs", "node": "what-how-why" },
+        { "t": "text", "v": ", and " },
+        { "t": "expand", "v": "generative mantras", "node": "generative-mantra" },
+        { "t": "text", "v": " turn the system from a memory aid into a habit factory." }
+      ],
+      "links": ["digital-garden", "habits", "generative-mantra", "hypomnēmata"],
+      "sources": ["Spaced repetition system", "How I take notes", "2026-07-27", "2026-07-28"]
+    },
+
+    "what-how-why": {
+      "label": "What, How, Why — and the TL;DR",
+      "level": "concept",
+      "status": "raw",
+      "content": [
+        { "t": "text", "v": "The What / How / Why model structures any idea into three layers. The What is the declarative key takeaway — the TL;DR that tells you what to do. The How is the imperative path — how to achieve it, more specific, more procedural. The Why is the proof — why this what, and why this how. Together they compose an essay; the What alone is a " },
+        { "t": "expand", "v": "generative mantra", "node": "generative-mantra" },
+        { "t": "text", "v": ", meditated upon until it becomes habit. It is the written form of the felt-knowledge argument: a good idea comes with the action it demands." }
+      ],
+      "links": ["generative-mantra", "note-taking", "what-vs-how"],
+      "sources": ["The What, The How, The Why and its TL;DR"]
+    },
+
+    "generative-mantra": {
+      "label": "A mantra that arms the reader with agency",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "A generative mantra is a short statement that arms the reader with agency: an actionable 'do this' with no 'why,' trusting that what can be done will be done — and, repeated, becomes habit. Gabriel: generative mantras have 'the psychological power of ritual coupled with the physical power of algorithm.' A " },
+        { "t": "expand", "v": "pattern", "node": "pattern-language" },
+        { "t": "text", "v": " is communal, abstracted for wide use; a mantra is personal, a private phrase that re-reminds its owner of the form of action their context demands. The TL;DR of every note, cast as a mantra, is the hand-off from text to life." }
+      ],
+      "links": ["what-how-why", "pattern-language", "habits"],
+      "sources": ["Generative Mantra", "The What, The How, The Why and its TL;DR", "Repetition, Generativity and Patterns"]
+    },
+
+    "memex": {
+      "label": "The memex and the missing trails",
+      "level": "concept",
+      "status": "source",
+      "content": [
+        { "t": "text", "v": "Bush's memex — the machine for organizing information — is the ancestor the corpus keeps returning to. Everything goes in; anything comes out; each source is projected, and the real power is the " },
+        { "t": "expand", "v": "trail", "node": "trails" },
+        { "t": "text", "v": ": associative indexing that stitches links across sources, so a trail becomes a new book, shareable and re-walkable. Strikingly, the modern web does everything except the trails. And Bush's leap — if the machine learns to think, it could weave trails for us from our own sources — is the ancestor of " },
+        { "t": "expand", "v": "reader-generated essays", "node": "reader-generated-essays" },
+        { "t": "text", "v": " and of " },
+        { "t": "expand", "v": "LLM wikis", "node": "llm-wikis" },
+        { "t": "text", "v": "." }
+      ],
+      "links": ["trails", "llm-wikis", "reader-generated-essays"],
+      "sources": ["Memex"]
+    },
+
+    "trails": {
+      "label": "Trails become books",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "A trail is a sequence of associative links — a path through information space. In the memex, trails become new books, shareable and alive. The radical implication: trails are what turn a garden into an essay-in-waiting. A reader's walk through the graph is a trail; a " },
+        { "t": "expand", "v": "reader-generated essay", "node": "reader-generated-essays" },
+        { "t": "text", "v": " is a trail made manifest. The corpus's ambition — user-generated, shareable trails in the digital garden — is the memex's missing feature, finally built." }
+      ],
+      "links": ["memex", "reader-generated-essays", "mycelium"],
+      "sources": ["Memex", "mycelium - wood wide web"]
+    },
+
+    "llm-wikis": {
+      "label": "The memex reborn",
+      "level": "subconcept",
+      "status": "raw",
+      "content": [
+        { "t": "text", "v": "Karpathy's LLM wiki is the memex reborn with modern parts: sources, LLM-generated markdown files, and a log plus index, with three functions — ingestion, querying, linting. The resemblance to the memex is striking: an information machine that accepts everything and can be queried. Where Bush proposed a machine that learns to think and weaves trails, the LLM wiki performs the thinking that stitches sources into retrievable knowledge — 'ships with full source code for more agency; everything is just one claude prompt away.'" }
+      ],
+      "links": ["memex", "reader-generated-essays"],
+      "sources": ["LLM Wikis", "Memex"]
+    },
+
+    "form-fits-context": {
+      "label": "Forms must fit their contexts",
+      "level": "argument",
+      "status": "principle",
+      "content": [
+        { "t": "text", "v": "The deepest rule of making: forms must fit their contexts. From Christopher Alexander: describe the context in a form-agnostic way, and test every form against it — especially the common designs we have stopped questioning. The method is " },
+        { "t": "expand", "v": "unfolding", "node": "unfolding" },
+        { "t": "text", "v": ": create a form, test its fitness, repeat — a feedback loop that is 'release early, release often' and natural selection applied to design. Failure to unfold is premature designing, the root of most useless software. And there is a deeper measure: a form that fits its context well has more " },
+        { "t": "expand", "v": "life", "node": "centers-life" },
+        { "t": "text", "v": " — it unlocks more possibilities inside the context. Our " },
+        { "t": "expand", "v": "preconceptions", "node": "abstraction-cone" },
+        { "t": "text", "v": ", our unseeing, and our hidden conceptual metaphors filter both what we can perceive in the context and what forms we can conceive. The map is not the territory; the word is not the thing. This is also the basis of " },
+        { "t": "expand", "v": "pattern languages", "node": "pattern-language" },
+        { "t": "text", "v": "." }
+      ],
+      "links": ["unfolding", "centers-life", "abstraction-cone", "pattern-language", "guiding-philosophy"],
+      "sources": ["Form fits the context", "2026-08-02"]
+    },
+
+    "unfolding": {
+      "label": "Unfold, test, repeat",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Unfolding is the iterative discipline: design, test against the real context, use the feedback to reshape — over and over, in small steps, so the form is grown rather than imposed. It is the design twin of the " },
+        { "t": "expand", "v": "knowledge cycle", "node": "knowledge-cycle" },
+        { "t": "text", "v": " and of short release loops in software. It is honest about path-dependence: how the form has unfolded so far constrains what it can become — so you must greedily design the most important " },
+        { "t": "expand", "v": "centers", "node": "centers-life" },
+        { "t": "text", "v": " first, letting the rest orbit them." }
+      ],
+      "links": ["form-fits-context", "centers-life", "knowledge-cycle"],
+      "sources": ["Form fits the context"]
+    },
+
+    "centers-life": {
+      "label": "Centers, life, and harmony",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Alexander's context is made of objects in relation; some are 'centers' — more connected, focal, attractive. A form with more life has every center well connected to its neighbors, weaving a field of centers 'dancing in harmony.' Life, roughly, is proportional to the number of possibilities unlocked inside the context. Design implication: build the centers first and let their connections generate the rest — a theory of design as the cultivation of generative structure, the same generative structure a " },
+        { "t": "expand", "v": "garden", "node": "digital-garden" },
+        { "t": "text", "v": " aims for." }
+      ],
+      "links": ["form-fits-context", "digital-garden"],
+      "sources": ["Form fits the context"]
+    },
+
+    "abstraction-cone": {
+      "label": "The cone of abstract and concrete",
+      "level": "concept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "The Cone of Abstract and Concrete is the map of where ideas live. To understand anything you must move up and down the levels of abstraction, and the classic failure is conflating the " },
+        { "t": "expand", "v": "what with the how", "node": "what-vs-how" },
+        { "t": "text", "v": " — solving problem B while the real issue is problem A. Abstraction, seen right, is " },
+        { "t": "expand", "v": "repetition", "node": "repetition-generativity" },
+        { "t": "text", "v": ": a name for what recurs. The cone also contains gwern's warning of " },
+        { "t": "expand", "v": "unseeing", "node": "leaky-abstraction" },
+        { "t": "text", "v": " — our preconceptions filter what we can see — and the escape of breaking the rules, as when Nike simply paid the fines for the Jordan shoe's too-red leather. The word is not the thing." }
+      ],
+      "links": ["what-vs-how", "leaky-abstraction", "repetition-generativity"],
+      "sources": ["The Cone of Abstract and Concrete", "Form fits the context"]
+    },
+
+    "what-vs-how": {
+      "label": "Separating the what from the how",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Separating the what from the how is the core discipline of the cone. The what is the declarative intent, the purpose, the possibility space; the how is the implementation, the imperative detail. The failure mode is answering a how while a what remains unexamined — solving problem B for problem A. Both matter — the how is still important — but never confuse the two, because the question changes what counts as a good answer. The " },
+        { "t": "expand", "v": "What / How / Why", "node": "what-how-why" },
+        { "t": "text", "v": " essay model is this same discipline applied to writing." }
+      ],
+      "links": ["abstraction-cone", "what-how-why"],
+      "sources": ["The Cone of Abstract and Concrete"]
+    },
+
+    "leaky-abstraction": {
+      "label": "Abstractions leak and blind",
+      "level": "subconcept",
+      "status": "principle",
+      "content": [
+        { "t": "text", "v": "The Law of Leaky Abstractions: every non-trivial abstraction leaks — the details you thought were hidden find you anyway. Tailwind is a leaky abstraction; so is any framework's abstraction over the browser. Gwern's 'Unseeing' pushes further: abstractions are also filters on perception; we literally cannot see what our abstractions teach us to ignore. The lesson is not to avoid abstraction — it is to know where the levels meet, and to be ready to descend through the leak when the ground level matters." }
+      ],
+      "links": ["abstraction-cone", "hypermedia-first"],
+      "sources": ["Law of Leaky Abstraction", "2026-07-28", "2026-08-02"]
+    },
+
+    "pattern-language": {
+      "label": "A language of form/context pairs",
+      "level": "concept",
+      "status": "principle",
+      "content": [
+        { "t": "text", "v": "A pattern language is a collection of reusable patterns written as form/context pairs: for this problem, in this context, this form. Contexts are kept abstract so patterns travel; patterns are recipes, not contracts. Their superpower is " },
+        { "t": "expand", "v": "composability", "node": "abstraction-and-composition" },
+        { "t": "text", "v": " — small patterns compose into larger wholes. Gabriel argues science journals should publish more pattern miners, because patterns arm readers with " },
+        { "t": "expand", "v": "agency", "node": "generative-mantra" },
+        { "t": "text", "v": ", not just explanation. Do not forget the " },
+        { "t": "expand", "v": "proofs", "node": "epistemic-humility" },
+        { "t": "text", "v": ". And beware the " },
+        { "t": "expand", "v": "pattern bias", "node": "pattern-bias" },
+        { "t": "text", "v": " once a pattern is established." }
+      ],
+      "links": ["abstraction-and-composition", "generative-mantra", "pattern-bias", "epistemic-humility", "mycelium", "semantic-zoom"],
+      "sources": ["Pattern language", "Generative Mantra", "Form fits the context"]
+    },
+
+    "abstraction-and-composition": {
+      "label": "Abstraction and the power of composition",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "The UNIX philosophy's bet is that abstraction is repetition with a name, and its payoff is composition: once a pattern is abstracted into a small tool, tools compose into systems no single author could have planned. Does abstraction favor composition? The corpus's answer is yes — but only if the abstraction is repeated enough to be felt, and only if the language of small forms stays composable. This is the knot that ties the cognition pillar (repetition becomes abstraction) to the craft pillar (small composable forms)." }
+      ],
+      "links": ["repetition-generativity", "pattern-language"],
+      "sources": ["Abstraction and UNIX Philosophy", "Pattern language"]
+    },
+
+    "pattern-bias": {
+      "label": "The blindness of the established pattern",
+      "level": "subconcept",
+      "status": "bias",
+      "content": [
+        { "t": "text", "v": "Pattern bias is the failure mode of pattern languages: the more established a pattern, the harder it is to see the contexts it does not fit, and the more its canonical form crowds out alternatives. The hedge is exactly the form-fits-context discipline — describe contexts form-agnostically and keep testing the pattern against fresh ground. Patterns should be invitations, not verdicts." }
+      ],
+      "links": ["pattern-language", "form-fits-context"],
+      "sources": ["Pattern Bias", "Pattern language"]
+    },
+
+    "epistemic-humility": {
+      "label": "Temporarily true, easily fooled",
+      "level": "subconcept",
+      "status": "philosophy",
+      "content": [
+        { "t": "text", "v": "The corpus is a Popperian at heart: all scientific theories can be disproven by an imaginable event, or they are not science — every 'true' statement is temporarily true, awaiting falsification. Taleb's 'Fooled by Randomness' adds the human failure mode: we are naive falsificationists who find patterns where there is only chance. The named biases — pattern bias, recency bias, the collector's fallacy — are the garden's weeds: always growing back. A pattern is useful even without proof, but do not mistake the pattern for the proof." }
+      ],
+      "links": ["pattern-language", "pattern-bias"],
+      "sources": ["Popperian Philosophy", "Fooled by Randomness", "Pattern Bias", "Recency Bias"]
+    },
+
+    "guiding-philosophy": {
+      "label": "A north star for making",
+      "level": "concept",
+      "status": "principle",
+      "content": [
+        { "t": "text", "v": "Every piece of serious work — software, art, venture — should carry a stated philosophy: a north star that steadies decisions in moments of peril and gives the work identity. A good guiding philosophy is uniform, centered on one theme, built from principles, explicit about assumptions, and illustrated with real examples — and it may itself be a " },
+        { "t": "expand", "v": "pattern language", "node": "pattern-language" },
+        { "t": "text", "v": ". HTML's design principles and Smalltalk's are the exemplars. The philosophy is the 'why' that holds the what and the how together — and it is what differentiates a crowded market into distinct works." }
+      ],
+      "links": ["form-fits-context", "pattern-language", "pit-of-success"],
+      "sources": ["Guiding Philosophy", "Pit of Success"]
+    },
+
+    "pit-of-success": {
+      "label": "Designing the pit of success",
+      "level": "concept",
+      "status": "principle",
+      "content": [
+        { "t": "text", "v": "Rico Mariani's Pit of Success: design APIs, interfaces, and languages so that the right way to do things is the obvious way, and the wrong way is annoying but not impossible. If users fall into the pit of despair, it is the designer's failure, not the user's. The toolkit includes " },
+        { "t": "expand", "v": "affordances", "node": "affordances" },
+        { "t": "text", "v": ", game design's " },
+        { "t": "expand", "v": "vow of silence", "node": "vow-of-silence" },
+        { "t": "text", "v": ", and " },
+        { "t": "expand", "v": "constructionist", "node": "mindstorms" },
+        { "t": "text", "v": " thinking — design that teaches by doing. But every pit-solver hides a cursed problem: fixing one despair tends to violate a core philosophy, so the choice is a values choice — which is exactly why a " },
+        { "t": "expand", "v": "guiding philosophy", "node": "guiding-philosophy" },
+        { "t": "text", "v": " is required. And the long tail of users your design neglects is not a bug; it is a " },
+        { "t": "expand", "v": "niche", "node": "niche-at-scale" },
+        { "t": "text", "v": ", most likely walked by a " },
+        { "t": "expand", "v": "barefoot developer", "node": "barefoot-developer" },
+        { "t": "text", "v": ". This is Postel's law in interface clothing — " },
+        { "t": "expand", "v": "allow all and bless some", "node": "postels-law" },
+        { "t": "text", "v": "." }
+      ],
+      "links": ["affordances", "vow-of-silence", "mindstorms", "guiding-philosophy", "niche-at-scale", "barefoot-developer", "postels-law"],
+      "sources": ["Pit of Success"]
+    },
+
+    "affordances": {
+      "label": "Affordances that explain themselves",
+      "level": "subconcept",
+      "status": "book",
+      "content": [
+        { "t": "text", "v": "Affordances are the visual and structural cues that tell a user how to interact without instructions — the handle that invites a pull, the shape that implies a press. Norman's 'Design of Everyday Things' is the manual: good design embeds the right affordances so the object explains itself. The " },
+        { "t": "expand", "v": "vow of silence", "node": "vow-of-silence" },
+        { "t": "text", "v": " is the game designer's test: does the interface teach without a word of explanation? If the user has to be told, the design has already failed." }
+      ],
+      "links": ["pit-of-success", "vow-of-silence"],
+      "sources": ["Design Of Everyday Things", "Information Design by Bret Victor"]
+    },
+
+    "vow-of-silence": {
+      "label": "Teach without a word",
+      "level": "subconcept",
+      "status": "principle",
+      "content": [
+        { "t": "text", "v": "From game design: a vow of silence is the commitment to teach the player entirely through play — no tutorials, no instructions; the interaction itself reveals the rules. It is the purest form of the affordance ideal and the strongest antidote to instruction manuals. The corpus borrows it as a design principle: interfaces, and even essays, should make the right move feel obvious rather than explained. " },
+        { "t": "expand", "v": "Information design", "node": "information-software" },
+        { "t": "text", "v": "'s quiet graphics and the " },
+        { "t": "expand", "v": "pit of success", "node": "pit-of-success" },
+        { "t": "text", "v": " are the same vow in different media." }
+      ],
+      "links": ["pit-of-success", "affordances", "information-software"],
+      "sources": ["Vow of Silence", "Information Design by Bret Victor", "Pit of Success"]
+    },
+
+    "mindstorms": {
+      "label": "Constructionism",
+      "level": "subconcept",
+      "status": "book",
+      "content": [
+        { "t": "text", "v": "Papert's Mindstorms is the constructionist manifesto: people build knowledge best by constructing things — not by being told. The " },
+        { "t": "expand", "v": "pit of success", "node": "pit-of-success" },
+        { "t": "text", "v": " and the " },
+        { "t": "expand", "v": "vow of silence", "node": "vow-of-silence" },
+        { "t": "text", "v": " are constructionist strategies: they let the user discover the right path by building with the tool. For the corpus, constructionism is the pedagogical form of the felt-knowledge argument — you understand what you have built." }
+      ],
+      "links": ["pit-of-success", "felt-knowledge"],
+      "sources": ["Mindstorms", "Pit of Success"]
+    },
+
+    "barefoot-developer": {
+      "label": "The folk hackers",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Maggie Appleton's term for people with the builder spirit who are not programmers by profession — the folk hackers who discover latent uses for software, as with Excel's underground culture. Barefoot developers are the discoverers of unintended capabilities, and the agentic coding apps of the AI era are built for them. They are the natural harvest of " },
+        { "t": "expand", "v": "Postel's law", "node": "postels-law" },
+        { "t": "text", "v": " and of design that is 'annoying but not impossible' to misuse — the creative misuse becomes the next feature, the next threat, or the next niche." }
+      ],
+      "links": ["pit-of-success", "postels-law", "niche-at-scale", "hacking-as-painting"],
+      "sources": ["Barefoot developer", "Pit of Success"]
+    },
+
+    "niche-at-scale": {
+      "label": "The long tail as opportunity",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "To every product there is a long tail of unsatisfied needs — too small for industrial software makers to notice. That tail is the barefoot developers and the niche at scale: small audiences with intense, specific wants, exactly the ones a single obsessive maker can serve. The audiences the pit of success neglects are not failures to fix; they are opportunities to court. A philosophy that chooses whom to neglect is a philosophy choosing whom to serve." }
+      ],
+      "links": ["pit-of-success", "barefoot-developer"],
+      "sources": ["Niche at scale", "Pit of Success"]
+    },
+
+    "postels-law": {
+      "label": "Be liberal in what you accept",
+      "level": "concept",
+      "status": "principle",
+      "content": [
+        { "t": "text", "v": "Postel's Law — 'be liberal in what you accept, and conservative in what you send' — is the robustness principle beneath TCP itself, and it generalizes far beyond protocols. As a design philosophy it becomes 'allow all and bless some': accept a wide range of inputs and behaviors — the creative misuses, the unusual formats, the barefoot developer — while being strict and principled about what you emit. It is the tolerance that lets a system be both robust and surprising; the same tolerance a garden extends to its walkers." }
+      ],
+      "links": ["pit-of-success", "barefoot-developer", "web-history"],
+      "sources": ["Postel's law", "Pit of Success", "2026-07-29"]
+    },
+
+    "hacking-as-painting": {
+      "label": "Hacking as painting, not engineering",
+      "level": "concept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Hacking is better understood as painting than as engineering. The hacker-painter is empathetic to users, concerned with the what over the how (though the how still matters), and treats the computer as a " },
+        { "t": "expand", "v": "new medium", "node": "tools-as-medium" },
+        { "t": "text", "v": ", not a production line. Dynamic typing and languages like JS and Python win for hacking; rigorous typing suits engineering; Rust suits better-engineered systems. The glory question hangs open: did LLMs end the hacker's golden age, or begin a new one where the how is delegated and the painting can be bigger? To " },
+        { "t": "expand", "v": "live in the future", "node": "live-in-future" },
+        { "t": "text", "v": " is to bet on the latter." }
+      ],
+      "links": ["tools-as-medium", "live-in-future", "barefoot-developer"],
+      "sources": ["Hacking as Painting", "2026-08-03", "2026-08-04"]
+    },
+
+    "live-in-future": {
+      "label": "Live in the future",
+      "level": "subconcept",
+      "status": "principle",
+      "content": [
+        { "t": "text", "v": "'Live in the future and build what interests you.' Paul Graham's principle is also an argument for optimism: for all of human history we worked toward the moment when intelligence became an algorithm — and now that it is here, the cold feet are a mistake. Progress is fueled by exploration, which inspires technology, which inspires more exploration; we have stalled at the barrier of space, and may now break it. 'We might be born too late to explore earth, too early to explore the stars — but just-in-time to solve robotics.' The pessimism around AI is not a forecast; it belongs in the Pessimist Archive." }
+      ],
+      "links": ["hacking-as-painting", "tools-as-medium"],
+      "sources": ["Live in the future", "2026-07-29"]
+    },
+
+    "pace-layers": {
+      "label": "Pace layers of software",
+      "level": "concept",
+      "status": "principle",
+      "content": [
+        { "t": "text", "v": "Systems evolve at different speeds. Stewart Brand's pace layers give the pattern for software: intelligence, apps, libraries, platforms, protocols, formats — fastest to slowest. The layer many companies die trying to own is the protocol layer: IBM's bus, Gopher, even Adobe " },
+        { "t": "expand", "v": "Flash", "node": "web-history" },
+        { "t": "text", "v": " in a sense. The lesson is to respect the layers — build on the slow, stable ones and move fast above them. " },
+        { "t": "expand", "v": "File over app", "node": "file-over-app" },
+        { "t": "text", "v": " is the personal application of pace layers: files and formats are the durable, slow layer; apps are the fast, mortal ones on top." }
+      ],
+      "links": ["file-over-app", "web-history"],
+      "sources": ["Pace Layers"]
+    },
+
+    "file-over-app": {
+      "label": "Files outlive apps",
+      "level": "subconcept",
+      "status": "philosophy",
+      "content": [
+        { "t": "text", "v": "A philosophy: your data should live in files, not inside applications, because apps die and formats persist. The slow layers — plain files, open formats, standard text — outlive the fast layers that render them. It is the storage strategy that makes a digital garden a garden rather than a walled plantation: your notes remain yours, walkable by any future tool, 'ships with full source code for more agency.'" }
+      ],
+      "links": ["pace-layers", "digital-garden"],
+      "sources": ["File over app", "Pace Layers"]
+    },
+
+    "tools-as-medium": {
+      "label": "The computer is a medium of thought",
+      "level": "argument",
+      "status": "evergreen",
+      "content": [
+        { "t": "text", "v": "The computer is not a tool for the work; it is a medium — and the medium is the message. McLuhan's insight, applied to " },
+        { "t": "expand", "v": "hypertext", "node": "hypertext" },
+        { "t": "text", "v": ", is that the form of the medium changes what can be thought and voiced. " },
+        { "t": "expand", "v": "Bret Victor", "node": "bret-victor" },
+        { "t": "text", "v": " sharpens it: software divides into information, manipulation, and communication software, each with its own native discipline. If thought is metaphorical and tool-shaped, then the tool you build for thought is part of the thought — which is why the craft here is " },
+        { "t": "expand", "v": "hacking as painting", "node": "hacking-as-painting" },
+        { "t": "text", "v": ", and the stack is " },
+        { "t": "expand", "v": "hypermedia-first", "node": "hypermedia-first" },
+        { "t": "text", "v": ". This is why the corpus's real project is not note storage but a literary medium — the garden, and its " },
+        { "t": "expand", "v": "telescopic essays", "node": "telescopic-text" },
+        { "t": "text", "v": "." }
+      ],
+      "links": ["hypertext", "bret-victor", "hypermedia-first", "mycelium", "telescopic-text"],
+      "sources": ["2026-08-03", "Information Design by Bret Victor", "2026-07-31"]
+    },
+
+    "hypertext": {
+      "label": "Hypertext as a McLuhan medium",
+      "level": "concept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Hypertext is the garden's native literary technology — and it deserves a McLuhan reading. As a medium it blends figure, ground, and voice; it lets thought be topological rather than chronological — topology over timeline; it makes novels and arguments possible in new shapes; and it gives voice to authors from outside the European linear tradition. The garden-and-stream metaphor captures it best: the stream is time-bound; the garden is space-bound and ever-present. Add epistemic statuses, and hypertext becomes a medium where what you claim, and how confident you are, are part of the writing itself." }
+      ],
+      "links": ["tools-as-medium", "digital-garden"],
+      "sources": ["2026-07-31", "2026-07-29"]
+    },
+
+    "bret-victor": {
+      "label": "Information, manipulation, communication",
+      "level": "concept",
+      "status": "source",
+      "content": [
+        { "t": "text", "v": "Bret Victor's 'Magic Ink' sorts software into three kinds. " },
+        { "t": "expand", "v": "Manipulation software", "node": "manipulation-software" },
+        { "t": "text", "v": ": the user builds and manipulates a model external to themselves, demanding a tight graphic loop and honest affordances. " },
+        { "t": "expand", "v": "Information software", "node": "information-software" },
+        { "t": "text", "v": ": the user is building a model inside their own head, so interaction should be minimized and the job is to show the right data in the right place, inviting spatial reasoning. Communication software is both. The consequences are liberating: information-heavy pages should be quiet, context-sensitive graphics — infer context, winnow data, generate the graphic — because the user is not operating a machine; they are thinking with it. A garden, and a telescopic essay, are information software; their craft is graphic design, not dashboard plumbing." }
+      ],
+      "links": ["information-software", "manipulation-software", "telescopic-text"],
+      "sources": ["Information Design by Bret Victor", "2026-07-29"]
+    },
+
+    "information-software": {
+      "label": "Quiet graphics for thinking",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Information software shows the user data so they can think — the personal-finance page that answers 'can I afford the new laptop if I skip the guacamole?' The design rules: show all the necessary data (the what), arrange it to invite spatial inference (the where), and — beyond ink and paper — make the graphic context-sensitive. Context is inferred from environment, history, and only when necessary, interaction; data is winnowed to the relevant; the graphic is generated to represent the need. Interaction is the failure mode to minimize, because every forced interaction converts information software into a manipulation of a model the user does not care about. " },
+        { "t": "expand", "v": "Telescopic text", "node": "telescopic-text" },
+        { "t": "text", "v": " is this discipline applied to prose." }
+      ],
+      "links": ["bret-victor", "telescopic-text", "vow-of-silence"],
+      "sources": ["Information Design by Bret Victor"]
+    },
+
+    "manipulation-software": {
+      "label": "Manipulating an external model",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Manipulation software lets the user create and manipulate an external model — the drawing, the simulation, the system. It is the hardest kind to build, because the interface must keep the model's state and the results of manipulation continuously visible with only keyboard and mouse, and because the user's mental model of the artifact must be respected at every step — Norman's territory, and game design's. 'Doing with images makes symbols' is its principle: the hands learn through the image what the head will later symbolize." }
+      ],
+      "links": ["bret-victor", "affordances"],
+      "sources": ["Information Design by Bret Victor", "2026-08-04"]
+    },
+
+    "hypermedia-first": {
+      "label": "HTML first, hypermedia first",
+      "level": "concept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Modern web frameworks are bloated: components wrapping HTML, CSS, and JS, reactive data models, SPA plumbing, SSR and SSG scaffolding to fix what they broke. For software that manipulates or communicates, that power is earned. But for small gardens and essays there is a leaner path: hypermedia-first, HTML-first frameworks — the AHA stack, DaisyUI, Enhance, Astro — that treat HTML as the real document and JavaScript as an enhancement that hydrates it. The browser's native language was always enough; the framework era forgot that. The web got fast again when it got humble." }
+      ],
+      "links": ["html-web-components", "web-history", "leaky-abstraction"],
+      "sources": ["2026-07-28", "2026-07-29", "2026-08-08"]
+    },
+
+    "html-web-components": {
+      "label": "HTML with superpowers",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "HTML web components are custom elements that behave as plain HTML: parsed, rendered, and styled as normal markup, then hydrated when their JavaScript runs. No shadow DOM, no templates, no slots — fully light DOM, 'HTML with superpowers.' They are progressive enhancement made first-class: JS does not own the markup; it enhances it. They need no SSR because they are HTML first; they give a garden interactivity without duplicating content in JavaScript. This is precisely the plumbing " },
+        { "t": "expand", "v": "mycelium", "node": "mycelium" },
+        { "t": "text", "v": " wants: authored in Markdown, rendered as HTML, enhanced when loaded." }
+      ],
+      "links": ["hypermedia-first", "mycelium"],
+      "sources": ["2026-07-29", "2026-07-28", "2026-08-08"]
+    },
+
+    "web-history": {
+      "label": "Why the web won",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "The web won for specific, revisable reasons. ARPANET moved from circuit switching to packet switching and TCP/IP — built on " },
+        { "t": "expand", "v": "Postel's law", "node": "postels-law" },
+        { "t": "text", "v": "; dial-up gave way to broadband; FTP, then Tim Berners-Lee's hyperlinking — HTML, HTTP, URL, and the royalty-free WWW; Mosaic popularized, Netscape followed, JavaScript added interactivity in 1995. Gopher charged money and lost; bulletin boards coexisted; the browser wars and search wars raged. Adobe Flash's death — Apple's refusal — cleared room for open standards. The pattern: open, royalty-free, slow-layer formats beat fast-layer proprietary lock-in — " },
+        { "t": "expand", "v": "pace layers", "node": "pace-layers" },
+        { "t": "text", "v": " in action." }
+      ],
+      "links": ["hypermedia-first", "pace-layers", "postels-law"],
+      "sources": ["2026-07-29", "Pace Layers"]
+    },
+
+    "mycelium": {
+      "label": "mycelium — the wood wide web",
+      "level": "concept",
+      "status": "idea",
+      "content": [
+        { "t": "text", "v": "mycelium — the wood wide web — is the corpus's home project: a pattern language for viewing digital gardens, and for authoring them by sprinkling JavaScript seamlessly into Markdown. Its patterns: bi-directional links (even to foreign sites, via web-mentions), contextual backlinks, link unfurling, stack-based horizontal scrolling, Obsidian-native authoring, an index of the graph's syntactic and semantic layers, a " },
+        { "t": "expand", "v": "graph view", "node": "visual-thinking" },
+        { "t": "text", "v": ", an " },
+        { "t": "expand", "v": "evolution view", "node": "note-taking" },
+        { "t": "text", "v": ", " },
+        { "t": "expand", "v": "user-generated and shareable trails", "node": "trails" },
+        { "t": "text", "v": ", " },
+        { "t": "expand", "v": "semantic zoom", "node": "semantic-zoom" },
+        { "t": "text", "v": ", " },
+        { "t": "expand", "v": "telescopic text", "node": "telescopic-text" },
+        { "t": "text", "v": ", Engelbart-style and " },
+        { "t": "expand", "v": "playful components", "node": "playful-components" },
+        { "t": "text", "v": ", and Command-K navigation — all built " },
+        { "t": "expand", "v": "HTML-first", "node": "html-web-components" },
+        { "t": "text", "v": " on Vite, with rebuild support and good SEO. It is a garden built as a medium: the literary technology this corpus has been circling." }
+      ],
+      "links": ["telescopic-text", "semantic-zoom", "trails", "html-web-components", "visual-thinking", "pattern-language"],
+      "sources": ["mycelium - wood wide web", "2026-07-28", "2026-07-29"]
+    },
+
+    "playful-components": {
+      "label": "Play keeps the garden fun",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "The web's fun factor is a real design requirement. The hypermedia way of doing things brings back the fun — why exactly? Because the reader becomes an explorer rather than a consumer: the click is an act of curiosity, the path is one's own. Playful components — stickerified images, Engelbart-like instruments, elements that reward fiddling — keep the garden a place you want to walk. Fun is the felt-knowledge argument in the medium: you remember what you played with." }
+      ],
+      "links": ["mycelium", "hypermedia-first"],
+      "sources": ["mycelium - wood wide web", "2026-07-29"]
+    },
+
+    "telescopic-text": {
+      "label": "Telescopic text",
+      "level": "argument",
+      "status": "idea",
+      "content": [
+        { "t": "text", "v": "Telescopic text is " },
+        { "t": "expand", "v": "semantic zooming", "node": "semantic-zoom" },
+        { "t": "text", "v": " applied to prose. A paragraph is rendered at high altitude — the worldview — and certain phrases are doors: click one, and the phrase expands into a deeper layer of the argument, whose own phrases may expand further, all the way down to evidence and detail. The reader moves between resolutions like a camera lens: zoom in on the concept that interests them, zoom out, redirect. What makes it more than hypertext is that the reader is not navigating between documents; they are zooming into the meaning of this text — a " },
+        { "t": "expand", "v": "precomputed semantic graph", "node": "dynamic-essay" },
+        { "t": "text", "v": ", presented as a single living paragraph. This document is an instance of it." }
+      ],
+      "links": ["semantic-zoom", "dynamic-essay", "reader-generated-essays", "mycelium", "information-software"],
+      "sources": ["mycelium - wood wide web", "2026-08-02", "2026-07-31"]
+    },
+
+    "semantic-zoom": {
+      "label": "Semantic zooming",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "Semantic zoom is the interface idea from spatial interfaces — the Engelbart spirit, dynamicland: the same object shows different information at different zoom levels, and the content is not merely scaled but re-created for the resolution. Applied to text, the levels run worldview, argument, concept, subconcept, evidence, detail. The resolution is semantic, not physical — what changes is how much of the idea's structure you can see. A garden view with semantic zoom shows the forest at the top and the leaf at the bottom, and the zoom is whatever the reader chooses." }
+      ],
+      "links": ["telescopic-text", "mycelium"],
+      "sources": ["mycelium - wood wide web", "2026-08-02", "Pattern language"]
+    },
+
+    "dynamic-essay": {
+      "label": "The dynamic essay",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "The dynamic essay is the format that falls out of all this: the author precomputes the semantic graph — the corpus, the connections, the levels of resolution — and the reader determines the actual trajectory through it. The writer's craft moves from ordering sentences to engineering structure: choosing which ideas are doors, how deep each branch goes, where the interesting junctions are, how the top level reads alone as a coherent worldview. The reader's craft is attention: every click is a decision, and the essay they end up with is the essay they composed. Different paths through the same graph produce different coherent interpretations — that is not a bug; it is the point." }
+      ],
+      "links": ["telescopic-text", "reader-generated-essays"],
+      "sources": ["Reader Generated Essays", "2026-08-02"]
+    },
+
+    "reader-generated-essays": {
+      "label": "Reader-generated essays",
+      "level": "argument",
+      "status": "source",
+      "content": [
+        { "t": "text", "v": "Henrik Karlsson's reader-generated essay closes the loop. With an AI that generates new text for each zoom, the essay 'changes hallucinogenically before your eyes — or rather meanders to a mountainside where you get a better view of the landscape.' From the ridge you spot something in the distance, " },
+        { "t": "expand", "v": "zoom into a note", "node": "semantic-zoom" },
+        { "t": "text", "v": ", and through that note into another — each rendering optimized, by prompt engineering, to fit your needs and your learning profile, in whatever voice you prefer. The essay is a graph of ideas; the writer builds the graph, the reader walks it and thereby writes their own essay. It is Bush's " },
+        { "t": "expand", "v": "memex", "node": "memex" },
+        { "t": "text", "v": " realizing its own prophecy: the machine that learns to think weaves trails for us. The Roman practice of " },
+        { "t": "expand", "v": "hypomnēmata", "node": "hypomnēmata" },
+        { "t": "text", "v": " was the same essay, performed daily, before computers." }
+      ],
+      "links": ["memex", "semantic-zoom", "hypomnēmata", "dynamic-essay", "telescopic-text"],
+      "sources": ["Reader Generated Essays", "2026-08-02", "Memex"]
+    },
+
+    "hypomnēmata": {
+      "label": "The ancient reader-generated essay",
+      "level": "subconcept",
+      "status": "seed",
+      "content": [
+        { "t": "text", "v": "The ancients had the reader-generated essay before the computer. The hypomnēmata was a notetaking practice: each day the notetaker opened the notebook, found a passage relevant to something they were struggling with, and meditated on it — unpacking it, making it top of mind, 'ensuring it was alive in them.' Over time, insights gathered from reading were transformed into character. The practice is a reader-generated essay performed daily: the text is the same; the reader's struggle — and therefore the essay they generate from it — is theirs alone." }
+      ],
+      "links": ["reader-generated-essays", "spaced-repetition"],
+      "sources": ["How I take notes", "Reader Generated Essays"]
+    }
+  }
+}
