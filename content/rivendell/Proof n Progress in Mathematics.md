@@ -1,0 +1,26 @@
+Source: [link](https://www.mimuw.edu.pl/~pawelst/rzut_oka/Zajecia_dla_MISH_2011-12/Lektury_files/Thurston%20Bull.%20Amer.%20Math.%20Soc.%20%28N.S.%29%201994.pdf)
+- Human thinking and understanding does not work on a single track. Our brains and minds are organized into variety of separate, powerful facilities that loosely talk together at high levels.
+- Some major division used by mathematical understanding: 
+	- Human Language: Using notations and languages to think and communicate
+	- Visual, Spatial and Kinesthetic(motion): People have very good facilities for taking in information visually, kinesthetically and thinking about spatially. However they do not have very good built-in facility for inverse vision that is turning their spatial understanding back into a two dimensional image. Consequently, mathematicians usually have fewer and poorer figures in their papers and books than in their heads.
+	- Intuition, association and metaphor
+	- Stimulus Response: When we multiple two numbers, we immediately write them one below another, draw a line and then do them. 
+	- Process and Time. 
+	- Also see [[Conceptual Metaphors for Intelligence, Thinking and Learning.]]
+- They use a wide range of mental faculties to figure out how to actually think about mathematics. 
+- According to William Thurston the fundamental goal of mathematics is to improve the human understanding of mathematics. Hence exploring the psychological and social dimensions are important. 
+- The communication of mathematics is isn't affective. It is a language that is not alive for everyone who is not in the particular field. The language doesn't do a good job at conveying the different modes of mathematical thinking. Greater effort has to be put into conveying mathematical ideas which requires paying attention to not only definitions, theorems and proofs but also ways of thinking.
+- The complicated symbolic constructions of formulae proofs might serve as a idiom or circumlocution for certain concepts and mental images which might allow them to read through jargon much easier and faster.
+- People practicing within a field of mathematics have a common body of informal knowledge (a special transmission outside scriptures) who can quickly makes sense of dense papers via informal explanations or via their own internal mental models. They use informal contact allows them to exchange ideas, share and understand "ways of thinking". 
+- For outsiders, the only access to learn about stuff is via the formal talks, textbooks, papers which are devoid of explanations that truly convey the mathematical ideas creating a higher barrier of entry.
+- A part of this communication is done via proofs.
+- What is proof?
+	- Every proof contains certain theorems and techniques that are generally known and generally accepted. They are stated in proofs as facts without necessarily citing their proofs. At times no formal written source exists. Thurston was suspicious whether certain ideas were really established but always found that explanations and proofs could be given upon asking other people. The proofs may themselves contain some references to the implicit bode of knowledge held by the practitioners in that field which might be crucial to understanding on the "thought process" behind the proof.
+	- Such mathematical knowledge and understanding is embedded in the minds and in the social fabric of the community of the people. 
+	- Proofs are built on a high level flow of ideas and social standard of validity. People are not usually good at formal correctness of proofs but quite good at detecting potential weakness or flaws in proofs. 
+	- He also raised the point that humans aren't really good at formal correctness, suggesting to use computers for this. 
+	- William argued that the reliability does not primarily come from mathematicians formally checking formal arguments; it comes from mathematicians thinking carefully and critically about mathematical ideas. Computers have far better formal correctness completeness than our current way of doing mathematics. (Today, Lean is doing a fantastic job at this.)
+- William said that people don't prove theorems only for advancing human understanding of mathematics, but also for personal satisfaction and social validity. Being able to understand a field of mathematics is really important for this. If the mathematical understanding is encoded simply in minds without the availability to the outside, the field may eventually wither. Hence we must spend time in figuring out ways of how to communicate the "thinking" behind a proof and not just the technical jargon. 
+- Having more resources that shares ways to think about these things is very useful. [[Rhetoric of the Hyperlink|Hyperlinks]] will surely help a lot. Dynabooks too!
+- William himself worked on writing down a lot of such ideas from his field of expertise as shared in his personal experiences.
+- The psychological and social dimensions of being a mathematician were neatly covered in this article. 

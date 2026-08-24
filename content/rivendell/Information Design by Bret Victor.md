@@ -30,7 +30,7 @@ https://worrydream.com/MagicInk/
 				- Interaction. (should be minimized)
 		- Winnow the data to exclude the irrelevant
 		- Generate a graphic which directly represents the needs and encourages exploration
-- The reason interaction should be avoided because the user is creating and manipulating a model that is internal to itself. It does not think of the interface like a machine. It just views it as means to see the necessary information. When the user is forced to interact, the software assumes the form of manipulation software. The external model, manipulated through navigation, is the software’s model of the context. However, unlike genuine manipulation software, the user does not care about this model—it is merely a means to the end of seeing relevant information. 
+- The reason interaction should be avoided because the user is creating and manipulating a model that is internal to itself. It does not think of the interface like a machine. It just views it as means to see the necessary information. When the user is forced to interact, the software assumes the form of manipulation software. The external model, manipulated through navigation, is the software’s model of the context. However, unlike genuine manipulation software, the user does not care about this model—it is merely a means to the end of seeing relevant information. The user's default thinking mode here is more closer to physical spaces?   
 	- The only interaction that a information heavy website might need is navigation. The user might need to navigate the data space. 
 	- To solve this there are three techniques: 
 		1) Graphical Manipulation
@@ -42,7 +42,7 @@ https://worrydream.com/MagicInk/
 			- Every user interaction must lead to a discernible change in the contextual graphic design. Similar to the Progress Effect in the Hooked Book.
 - Further reading: 
 	- [Envisioning Information](https://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=pd_bxgy_d_sccl_1/130-6976337-8012746?pd_rd_w=KFk9A&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=N06G47RESVBZ2YMYYPR7&pd_rd_wg=udg8a&pd_rd_r=4c9c5a5a-27d1-4a61-9254-363dfa54fbfd&pd_rd_i=0961392118&psc=1)
-	- [[[Design of Everyday Things]]](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=pd_sbs_d_sccl_1_1/130-8802687-9770141?pd_rd_w=4s8Xs&content-id=amzn1.sym.aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_p=aa738fbd-ad05-4d11-aae2-04b598db6305&pf_rd_r=GM239HFM31G1SBXMFQ09&pd_rd_wg=XV6s9&pd_rd_r=8eecb04b-a727-44bc-8d0c-73a1c86fc44e&pd_rd_i=0465050654&psc=1)
+	- [[Design of Everyday Things]]
 	- [The Art of Interactive Design](https://www.amazon.com/gp/product/1886411840)
 	- [Fundamental of Interactivity](https://www.erasmatazz.com/library/the-journal-of-computer/jcgd-volume-7/fundamentals-of-interactivi.html)
 

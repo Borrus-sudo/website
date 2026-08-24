@@ -10,9 +10,9 @@ On a philosophical level, as a designer where do we draw a line in users' compla
 
 In the context of programming languages, the pit of despair is generally "memory problems". Higher level languages have automated garbage collection. Rust seems to tackle it with its compile based ownership model. Either way there are tradeoffs. Can we help programmers avoid memory's pit of despair without making tradeoffs? Maybe LLMs might help here?
 
-In game design, such design dilemmas are called [Cursed Problems](https://media.gdcvault.com/gdc2019/presentations/Jaffe_Alex_Cursed_Problems_In.pdf). Having a design which solves users' pit of despair might require making a decision in contradiction with your core design philosophy. E.g in memory management, having garbage collected languages basically solves the headache of users but at the cost of performance. Giving user's the agency to manage their memory brings the perennial headache of a plethora of memory issues. Rust takes a slightly middle approach with compile time managed memory, but it too has it's idiosyncracies. Relaxing your design principles is one way you can solve it. Dropping a few is one. 
+In game design, such design dilemmas are called [[Cursed Problems]]. Having a design which solves users' pit of despair might require making a decision in contradiction with your core design philosophy. E.g in memory management, having garbage collected languages basically solves the headache of users but at the cost of performance. Giving user's the agency to manage their memory brings the perennial headache of a plethora of memory issues. Rust takes a slightly middle approach with compile time managed memory, but it too has it's idiosyncracies. Relaxing your design principles is one way you can solve it. Dropping a few is another. 
 
-Thus choosing a well defined [[Guiding Philosophy]] is pretty important. In software land (or there areas too as a matter of fact), such a philosophy could be a [[Pattern language]]
+Thus choosing a well defined [[Guiding Philosophy]] is pretty important. In software land (or other areas too as a matter of fact), such a philosophy could be a [[Pattern language]]
 
 
 
