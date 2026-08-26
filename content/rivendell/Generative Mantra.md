@@ -1,5 +1,5 @@
 #seed 
-Generative mantra is a statement whose key motive is arming the reader with [[Agency]], an actionable item intentionally devoid of any "why" i.e. a proof for the way things are done. Give a person something that can be done, and it will be done, allowing them to easily form a [[Habit]] out of it. [[Generative Mantra]] are [[Analogue is the core of cognition|analogous]] to [[Pattern language]].
+Generative mantra is a statement whose key motive is arming the reader with [[Agency]], an actionable item intentionally devoid of any "why" i.e. a proof for the way things are done. Give a person something that can be done, and it will be done, allowing them to easily form a [[Habit]] out of it. [[Generative Mantra]] are [[Analogy is the core of cognition|analogous]] to [[Pattern language]].
 
 This is deeply covered in [[Richard Gabriels]]' [[Repetition, Generativity and Patterns]]. (P.S [[Richard Gabriels]] was deeply inspired by Christopher Alexander's [[Pattern language]])
 

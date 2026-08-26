@@ -11,10 +11,24 @@
             "id": "b89f5fefdfa27d8f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Sapir Whorf Hypothesis, Metaphor and Thought.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sapir Whorf Hypothesis, Metaphor and Thought"
             }
           }
         ]
@@ -76,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.20001220703125,
-    "collapsed": true
+    "width": 244.20001220703125
   },
   "right": {
     "id": "82bedecb8374793e",
@@ -184,32 +197,32 @@
   },
   "active": "b89f5fefdfa27d8f",
   "lastOpenFiles": [
+    "Postel's law.md",
+    "Conceptual Metaphors for Intelligence, Thinking and Learning..md",
     "Abstracting.md",
+    "2026-08-01.md",
+    "Analogy is the core of cognition.md",
+    "Conceptual Metaphor.md",
+    "UNIX Philosophy.md",
+    "VARK Model and Spaced Repetition.md",
+    "Generative Mantra.md",
+    "Form fits the context.md",
     "The Collector's Fallacy.md",
     "Cursed Problems.md",
     "Barefoot developer.md",
-    "Analogue is the core of cognition.md",
     "Sapir Whorf Hypothesis, Metaphor and Thought.md",
-    "Conceptual Metaphors for Intelligence, Thinking and Learning..md",
     "().md",
     "Repetition, Generativity and Patterns.md",
-    "Generative Mantra.md",
     "File over app.md",
     "Pattern language.md",
     "mycelium - wood wide web.md",
     "Mindstorms.md",
-    "UNIX Philosophy.md",
-    "Postel's law.md",
     "2026-08-15.md",
     "2026-08-03.md",
-    "Conceptual Metaphor.md",
     "How I take notes.md",
     "Pit of Success.md",
     "The Art of UNIX Programming.md",
     "Rhetoric of the Hyperlink.md",
-    "2026-08-04.md",
-    "The Cone of Abstract and Concrete.md",
-    "Reader Generated Essays.md",
     "Untitled",
     "folder",
     "Clippings",

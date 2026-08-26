@@ -5,6 +5,7 @@
 - We compress an infinite variety of experiences into its absolute essence, where the essence is that which is repeated. This is called abstraction.
 - The signals discovered from the noise is purely dependent on the individual viewing them.
 - Historians believe our ability to abstract developed simultaneously with the ability to communicate using languages. 
-- Our ability to abstract is the [[Analogue is the core of cognition|core of our cognition]].
+- Our ability to abstract is the [[Analogy is the core of cognition|core of our cognition]].
 - Also see the [[Conceptual Metaphor]] for [[Conceptual Metaphors for Intelligence, Thinking and Learning.|intelligence]] 
-- Along with abstracting, we also developed the ability to [[Conceptual Metaphor|metaphorize]]. 
+- Along with abstracting, we also developed the ability to [[Conceptual Metaphor|metaphorize]].
+- ==WARNING==: Cover linguistic wars, sapir whorf hypothesis, how do we actually learn a language. I think the conceptual metaphors, abstraction have a deeper connection to analogy. We need to cover this well. 
