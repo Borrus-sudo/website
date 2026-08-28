@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b89f5fefdfa27d8f",
+            "id": "3ad82cdb9d403349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sapir Whorf Hypothesis, Metaphor and Thought.md",
+                "file": "Language as a TFT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sapir Whorf Hypothesis, Metaphor and Thought"
+              "title": "Language as a TFT"
             }
           }
         ]
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.20001220703125
+    "width": 203.90000915527344
   },
   "right": {
     "id": "82bedecb8374793e",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pit of Success.md",
+                "file": "Language as a TFT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,16 +168,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mycelium - wood wide web.md",
+                "file": "Language as a TFT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mycelium - wood wide web"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,34 +196,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "b89f5fefdfa27d8f",
+  "active": "3ad82cdb9d403349",
   "lastOpenFiles": [
-    "Postel's law.md",
-    "Conceptual Metaphors for Intelligence, Thinking and Learning..md",
-    "Abstracting.md",
-    "2026-08-01.md",
-    "Analogy is the core of cognition.md",
+    "Interface Design.md",
+    "Language as a TFT.md",
+    "Concurrency vs Parallelism.md",
+    "2026-08-28.md",
+    "[Ask.md",
+    "Parallel Programming.md",
+    "Sapir Whorf hypothesis.md",
+    "Playing with Videos makes Symbols.md",
+    "Abstracting 'Abstracting'.md",
+    "2026-08-16.md",
+    "File over app.md",
+    "Obsidian.md",
     "Conceptual Metaphor.md",
+    "Conceptual Metaphors for Intelligence, Thinking and Learning..md",
+    "Analogy is the core of cognition.md",
+    "Repetition, Generativity and Patterns.md",
+    "Rhetoric of the Hyperlink.md",
+    "Proof n Progress in Mathematics.md",
+    "Sapir Whorf Hypothesis, Metaphor and Thought.md",
+    "Postel's law.md",
+    "2026-08-01.md",
     "UNIX Philosophy.md",
-    "VARK Model and Spaced Repetition.md",
     "Generative Mantra.md",
     "Form fits the context.md",
     "The Collector's Fallacy.md",
     "Cursed Problems.md",
-    "Barefoot developer.md",
-    "Sapir Whorf Hypothesis, Metaphor and Thought.md",
-    "().md",
-    "Repetition, Generativity and Patterns.md",
-    "File over app.md",
-    "Pattern language.md",
-    "mycelium - wood wide web.md",
-    "Mindstorms.md",
-    "2026-08-15.md",
-    "2026-08-03.md",
-    "How I take notes.md",
-    "Pit of Success.md",
-    "The Art of UNIX Programming.md",
-    "Rhetoric of the Hyperlink.md",
     "Untitled",
     "folder",
     "Clippings",

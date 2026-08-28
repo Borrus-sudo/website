@@ -1,0 +1,12 @@
+- Concurrency:
+	- Concurrency is the property of the system which enables units of the program, algorithm or problem to be executed out-of-order or in partial order without affecting final outcome. 
+	- These units of program tend to be independent.
+	- Out-of-order execution in hardware draws upon similar properties?
+	- In ACID principles, Isolation represents the property of the database where the simultaneously executing database transactions don't see each others progress.
+	- Isolation depends on the concurrency of the database transactions!
+	- If there exists an interleaving of database transactions that doesn't give the same result as the serial execution of transactions, we say the transactions are not "serializable" i.e the "concurrency" of the system is absent.
+	- The concurrency of a system also allows one to write more [[Parallel Programming|parallelizable]] programs.
+- Parallelism: 
+	- Parallelism is a type of computation in which many computation or the execution of processes are carried out simultaneously.
+	- It exploits the concurrency of a system to achieve parallelism. 
+	
