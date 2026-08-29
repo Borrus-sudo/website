@@ -1,4 +1,4 @@
-Language is the foundational [tool](https://maggieappleton.com/tools-for-thought) [for](https://andymatuschak.org/sdac/) [thought](https://numinous.productions/ttft/) that has changed the thought patterns of the entire human civilization. By providing a medium[^1] to communicate, language has enabled the man to evolve into the dominant species it is today. There is a great debate on inter-dependence of thought and language. Is thought possible without language or did language explicitly develop to allow for thought? However may the causality turn-out, it is safe to assume , backed by ample empirical evidence, that languages **influences** thought. This is posited by the weak version of [[Sapir Whorf hypothesis]]. 
+Language is the foundational [tool](https://maggieappleton.com/tools-for-thought) [for](https://andymatuschak.org/sdac/) [thought](https://numinous.productions/ttft/) that has changed the thought patterns of the entire human civilization. By providing a medium[^1] to communicate, language has enabled the man to evolve into the dominant species it is today. There is a great debate on inter-dependence of thought and language. Is thought possible without language or did language explicitly develop to allow for thought? However may the causality turn-out, it is safe to assume , backed by ample empirical evidence, that languages **influences** thought. This is posited by the weak version of [[Sapir Whorf hypothesis]][^4]. 
 ### Linguistics
 The study of language is being carried out in the vast and rich field of Linguistics. Languages have 5 major aspects: [Morphology](https://www.youtube.com/watch?v=93sK4jTGrss&list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW&index=3), [Syntax](https://www.youtube.com/watch?v=B1r1grQiLdk&list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW&index=4), [Semantics](https://www.youtube.com/watch?v=6geQjY8b7sA), [Pragmatics](https://www.youtube.com/watch?v=MPwpk-YgvjQ) and [Phonology](https://www.youtube.com/watch?v=vyea8Ph9BOM) One of the fundamental questions in Linguistics is how do human learn languages? This is  still a hot topic of debate amongst linguists which had heightened during the Linguistic Wars of the 1960s. The point of conflict is whether we learn language Syntatically or Semantically. Noam Chomsky with his theory of Universal Grammar argued the former where-as George Lakoff and a group of other linguists posited the latter. The book [The Linguistic Wars](https://www.amazon.in/Linguistics-Wars-Randy-Allen-Harris/dp/019509834X) by Randy Allen Harris covers this in depth. The war transformed and broadened the field of linguistics for good. 
 ### Medium is not the message
@@ -30,18 +30,30 @@ George Lakoff in his seminal work [Metaphors We Live By](https://cs.uwaterloo.ca
 > 	You disagree? Okay, shoot! 
 > 	If you use that strategy, he'll wipe you out. 
 > 	He shot down all of my arguments.
+> 	I am arguing from the vantage point of ...
 
 The existence of these phrases in English affords one to think about argument as war. 
 What if arguing was not about winning or losing? What if arguing was more like dance?
 Cultures that think of argument as dance tend to argue in a fundamentally more productive way? Languages that have phrases where argument is a dance would likely "argue" in a very different fashion. There have been evidences about bilingual speakers behaving differently in similar situations according to the language they are conversing in.
 Also read [Sapir-Whorf Hypothesis and Lakoff](https://ribbonfarm.com/2007/12/16/sapir-whorf-lakoff-metaphor-and-thought/) by Venkatesh Rao for some interesting takes on this matter!
 
-Xerox PARC had spear-headed the personal computer revolution with their Xerox Star computer. They made it radically easy for the common man to use the computer by introducing the "desktop and file metaphor". By using the  "desktop and file" metaphor as the North Star, folks at Xerox PARC built a computer interface that had visual affordances similar to that of a table-top and actual physical files. This made it really easy for people to reason about it. Also see [Alan Kay's notes](https://numinous.productions/ttft/assets/Kay1989.pdf). This again in a way re-enforces that language influences thought. The English language had ways to express and think about the desks, files which were used to reason about the computer. Imagine a culture where the concept of a file and desk just didn't exist. Using the computer would still have been way tougher!
+Xerox PARC had spear-headed the personal computer revolution with their Xerox Star computer. They made it radically easy for the common man to use the computer by introducing the "desktop and file metaphor". By using the  "desktop and file" metaphor as the North Star, folks at Xerox PARC built a computer interface that had visual affordances similar to that of a table-top and actual physical files. This made it really easy for people to reason about it. This again in a way re-enforces that language influences thought. The English language had ways to express and think about the desks, files which were used to reason about the computer. Imagine a culture where the concept of a file and desk just didn't exist. Using the computer would still have been way tougher!
 
 ### Language and User Interfaces
 
-Languages are primarily thought along with sound. However it does not have to be so. We can also think languages can also be visual in nature like the sign language. Similarly we use buttons, sliders, the mouse pointers to communicate with the user-interfaces. The lack of expressivity of these actions makes the grammar pretty stunted almost like a midget. Alan Kay had popularized this with his phrase "Doing with Images Makes Symbols" back in the day when computers only had a terminal. Maybe we can come up with powerful primitives that would allow for a more expressive grammar and those richer applications? Maybe we might need to introduce a [mini-programming language](https://maggieappleton.com/programming-portals) of sorts? How do we design [notations](https://thesephist.com/posts/notation/) of such a language? 
-Matt Webb's wrote about the desirable properties on "good" notation should possess: 
+Languages communication is majorly done via an auditory medium. Although communication can also be done visually like the sign language. Using an interface is also like speaking in a language where the communication is done majorly via using the mouse pointer to click a button, push a slider or typing a textbox. This way of doing things was championed by Alan Kay. To make the Xerox PARC easier to use, they had the used the file and desktop metaphor to craft a visual medium where the user could use the mouse pointer and the keyboard to communicate with the computer their "task". Before this, computers were mainly "text" based in nature which required users to learn lots of shell commands to communicate with the computer. Hence interface design is effectively creating a language and making an interface which allows the user to communicate in it. Alan Kay summarized this technique as [Doing with Image Makes Symbols](https://numinous.productions/ttft/assets/Kay1989.pdf). 
+
+However the grammar that most of the today's interfaces speak are pretty stunted due the lack of expressivity and the communication between the user and the interface can be compared to that of a midget. This is pretty suffice for roughly 90% of the software, which Bret Victor classifies as "Information Software". Where this grammar runs its course is for "Manipulation Software". Read this awesome essay on [[Information Design by Bret Victor]] to read more about them. 
+
+So the question arises, how can we create more expressive grammars and intuitive user interfaces that would allow a user to easily learn the grammar and use it effectively to get shit done. What new primitives, techniques and principles we need that can be used to create effective grammars and user-interfaces that would allow communication between the user and the interface to be as expressive as possible whilst have an easy learning curve. 
+
+Using LLMs is one option, however we won't be exploiting the full power of human [[Playing with Videos makes Symbols|mental faculties]] by doing so as LLMs are mostly symbolic in nature. What might be ideal is to build upon Alan Kay's work but to power it with a more expressive grammar underneath. 
+
+We draw upon the [[Lego Model]] of grammars as a base to create expressive grammars. To put simply, we think of powerful new primitives, ways to compose them and create new "abstract" primitives on top of the composition. This grammar is reified into the modern interface which is visual, [spatial](https://darkblueheaven.com/spatialsoftware/), [auditory](https://interconnected.org/home/2026/02/27/asymmetry?utm_source=Robin_Sloan_sent_me) and [symbolic](https://maggieappleton.com/programming-portals) in nature which also allows us to use the full power of our mental faculties. The [[Lego Model]]  is also similar to thesephist's [Design With Materials not Features](https://thesephist.com/posts/materials/)
+
+There is also massive thinking that we need to do in each of these areas to understand which bits of our grammar can be more easily expressed in them. E.g visual is probably more suitable for studying the diagrams, visualizing an simulation. Symbolic notations are better for precise tasks.
+
+Matt Webb wrote about the desirable properties a "good" notation should possess: 
 - Composable
 - Shareable
 - Degrabable
@@ -52,8 +64,11 @@ Matt Webb's wrote about the desirable properties on "good" notation should posse
 - Suggestive
 - Intentional
 - Legible
-Also checkout his article on [notations and user-interfaces](https://interconnected.org/home/2021/08/12/notation).  Dynamic programming languages are better suited for "[hacking](https://paulgraham.com/hp.html)" cause they make it easier to just do what you want to do.
-Languages used in this part of article are more formal in nature and limited in scope compared to traditional languages. We can construct up our own symbolic notations that can afford us to have specific kind of thoughts. However the primary language where we do most of our thinking is the one that has not been quote unquote constructed by one or a group of people. English has been evolved into its current form across centuries. Can we craft a language, the one that we primarily use, with the right affordances and metaphors such that naturally we make more logical decision, become free of biases and racial prejudices?
+Also checkout his article on [notations and user-interfaces](https://interconnected.org/home/2021/08/12/notation).  
+
+
+Languages referred to in this part of article are more formal in nature and limited in scope compared to traditional languages. These languages have limited grammar expressibility compared to something like English where our primary thought and communication occurs. This is also the reason why dynamic programming languages are better suited for "[hacking](https://paulgraham.com/hp.html)" purposes.
+However the primary language where we do most of our thinking is the one that has not been quote unquote constructed to optimize our thought capabilities. English has been evolved into its current form across centuries. Can we craft a language, the one that we primarily use, with the right affordances and metaphors such that naturally we make more logical decision, become free of biases and racial prejudices?
 
 
 
@@ -62,3 +77,7 @@ Languages used in this part of article are more formal in nature and limited in 
 [^2]: I specifically wrote "easy" cause I believe in the weaker version of Sapir-Whorf. All of our tools shape thoughts and enable us to do things by removing various barriers. However we still could do those things without them. Mathematics makes it easy to build bridges but we still technically can build them without using math. 
 
 [^3]: the ease with which the language allows to express something or the existence of primitives to describe something or the absence of certain ways to do things (as would be made clearer by the examples)
+
+[^4]: The sci-fi film [Arrival](https://en.wikipedia.org/wiki/Arrival_(film)) is based on the Sapir-Whorf hypothesis!
+
+[^5]: Also see checkout this amazing post on notations
