@@ -4,8 +4,8 @@ https://worrydream.com/MagicInk/
 
 - Software programs is like a magical spell that a sorcerer incants which results in an enchantment, which can't be seen, which can't be heard, which isn't composed of matter, but it is very much real. (Similar to Structure and Interpretation of LISP program)
 - There are two three main kinds of software:
-	- Information Software
-	- Manipulation Software
+	- Information Software ^77a405
+	- Manipulation Software ^39a0fe
 	- Communication Software
 - Information Software is when the user creates and manipulates a model internal to them
 - Manipulation software is when the user creates and manipulates a model external to them

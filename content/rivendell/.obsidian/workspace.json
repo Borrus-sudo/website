@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4347e6d832354259",
+        "id": "c651e64582c6906a",
         "type": "tabs",
         "children": [
           {
-            "id": "3ad82cdb9d403349",
+            "id": "0adc7fd4a9ad46fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language as a TFT.md",
+                "file": "Concurrency vs Parallelism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Language as a TFT"
+              "title": "Concurrency vs Parallelism"
             }
           }
         ]
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.90000915527344,
-    "collapsed": true
+    "width": 219.89999389648438
   },
   "right": {
     "id": "82bedecb8374793e",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language as a TFT.md",
+                "file": "Concurrency vs Parallelism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314,
-    "collapsed": true
+    "width": 274.2999267578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,34 +195,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "3ad82cdb9d403349",
+  "active": "0adc7fd4a9ad46fc",
   "lastOpenFiles": [
-    "Interface Design.md",
-    "Language as a TFT.md",
-    "Concurrency vs Parallelism.md",
-    "2026-08-28.md",
-    "[Ask.md",
     "Parallel Programming.md",
+    "The Cone of Abstract and Concrete.md",
+    "2026-09-05.md",
+    "Form fits the context.md",
+    "Abstracting 'Abstracting'.md",
+    "2026-09-01.md",
+    "Computer Security and Communication Protocols.md",
+    "Information Design by Bret Victor.md",
+    "File over app.md",
+    "Language as a TFT.md",
+    "Barefoot developer.md",
+    "Conceptual Metaphors for Intelligence, Thinking and Learning..md",
+    "Conceptual Metaphor.md",
+    "2026-08-28.md",
+    "Concurrency vs Parallelism.md",
+    "Interface Design.md",
+    "[Ask.md",
     "Sapir Whorf hypothesis.md",
     "Playing with Videos makes Symbols.md",
-    "Abstracting 'Abstracting'.md",
     "2026-08-16.md",
-    "File over app.md",
     "Obsidian.md",
-    "Conceptual Metaphor.md",
-    "Conceptual Metaphors for Intelligence, Thinking and Learning..md",
     "Analogy is the core of cognition.md",
     "Repetition, Generativity and Patterns.md",
     "Rhetoric of the Hyperlink.md",
     "Proof n Progress in Mathematics.md",
     "Sapir Whorf Hypothesis, Metaphor and Thought.md",
-    "Postel's law.md",
-    "2026-08-01.md",
-    "UNIX Philosophy.md",
-    "Generative Mantra.md",
-    "Form fits the context.md",
-    "The Collector's Fallacy.md",
-    "Cursed Problems.md",
     "Untitled",
     "folder",
     "Clippings",
