@@ -1,7 +1,7 @@
 -  Read [Christopher](https://www.amazon.in/Nature-Order-Center-Environmental-Structure/dp/0972652906) [Alexander's](https://www.amazon.in/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199) [books](https://www.amazon.in/Notes-Synthesis-Form-Harvard-Paperbacks/dp/0674627512) or see Ryan Singer's [talk](https://www.youtube.com/watch?v=YouEpibjEWQ) and Henrik Carlson's [essay](https://www.henrikkarlsson.xyz/p/unfolding)
 - Useful excerpts:
 	- **"Context" must be described in a form agnostic way**
-	-  Every form must be tested to see if it fits the form. This especially becomes a problem when there exists a common way of designing something which makes us blind to the question of whether it actually works well or not.
+	-  Every form must be tested to see if it fits the form. This especially becomes a problem when there exists a common way of designing something which makes us blind to the question of whether it actually worksp well or not.
 - **Unfolding**: We should iteratively create our **form**, test it's **fitness** in the **context** and repeat. This establishes a feedback loop.
 - Synonyms to "Unfolding":  **Release Early, Release Often**, **Insight through Making loop**, **Natural Selection**
 - Failure to do so leads to "premature designing"

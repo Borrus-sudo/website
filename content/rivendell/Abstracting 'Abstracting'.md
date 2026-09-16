@@ -1,5 +1,9 @@
 ==TODO==: Add notes about metaphors, Sapir-Whorf and Languages. 
 
+
+- The word abstraction is polysemy meaning different thigns 
+
+
 - Our brains are wired to see [[Repetition, Generativity and Patterns|repetitions]]. This allows our brains to form patterns which provide us familiar sign-posts to tame frightening variations.
 - Abstractions feed on these repetitions. Richard Gabriel writes "Abstraction is what we know as long as what is repeated has the magic of enchantment and song of incantation".
 - We compress an infinite variety of experiences into its absolute essence, where the essence is that which is repeated. This is called abstraction.

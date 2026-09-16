@@ -11,24 +11,10 @@
             "id": "0adc7fd4a9ad46fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concurrency vs Parallelism.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Concurrency vs Parallelism"
+              "title": "New tab"
             }
           }
         ]
@@ -65,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "meto",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,9 +154,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concurrency vs Parallelism.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -197,32 +182,32 @@
   },
   "active": "0adc7fd4a9ad46fc",
   "lastOpenFiles": [
-    "Parallel Programming.md",
-    "The Cone of Abstract and Concrete.md",
-    "2026-09-05.md",
-    "Form fits the context.md",
-    "Abstracting 'Abstracting'.md",
-    "2026-09-01.md",
-    "Computer Security and Communication Protocols.md",
-    "Information Design by Bret Victor.md",
-    "File over app.md",
-    "Language as a TFT.md",
     "Barefoot developer.md",
-    "Conceptual Metaphors for Intelligence, Thinking and Learning..md",
-    "Conceptual Metaphor.md",
-    "2026-08-28.md",
-    "Concurrency vs Parallelism.md",
-    "Interface Design.md",
-    "[Ask.md",
-    "Sapir Whorf hypothesis.md",
-    "Playing with Videos makes Symbols.md",
-    "2026-08-16.md",
-    "Obsidian.md",
-    "Analogy is the core of cognition.md",
-    "Repetition, Generativity and Patterns.md",
-    "Rhetoric of the Hyperlink.md",
+    "Maggie Appleton.md",
+    "Malleable Programming.md",
     "Proof n Progress in Mathematics.md",
+    "Interface Design.md",
+    "Law of Leaky Abstraction.md",
+    "Hacking as Painting.md",
+    "Vow of Silence.md",
+    "Sapir Whorf hypothesis.md",
     "Sapir Whorf Hypothesis, Metaphor and Thought.md",
+    "The Art of UNIX Programming.md",
+    "Thought, Language and Communication.md",
+    "2026-09-14.md",
+    "Pit of Success.md",
+    "Playing with Videos makes Symbols.md",
+    "Information Design by Bret Victor.md",
+    "Medium is not the message.md",
+    "2026-09-01.md",
+    "Abstracting 'Abstracting'.md",
+    "2026-09-05.md",
+    "Analogy is the core of cognition.md",
+    "Cursed Problems.md",
+    "Computer Security and Communication Protocols.md",
+    "The Cone of Abstract and Concrete.md",
+    "The Art of Science and Engineering.md",
+    "Form fits the context.md",
     "Untitled",
     "folder",
     "Clippings",

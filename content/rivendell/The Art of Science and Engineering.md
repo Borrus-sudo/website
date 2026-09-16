@@ -1,0 +1,14 @@
+- Chapter 1:
+	- The book starts off with the importance of "style of thinking" and "vision". 
+	- It is crucial to have a vision of future that you want to guide you in the right direction. Similar to Bret Victor's point of Inventing on a Principle. 
+	- A drunk man moving randomly can only move about $\sqrt{n}$ from the origin, but if there is a pretty girl, he can move a distance proportional to $n$. 
+		- The goal should be a pretty [[The Cone of Abstract and Concrete|high level]] so that you don't end up violating [[Form fits the context]] design approach. 
+	- He also stressed the importance of having a distinct style of working with that of painting. (Linked [[Hacking as Painting]]?)
+	- You can't learn to be a great painter by simply learning how to paint. You need apprenticeship under a great painter whose "style" inspires and influences you to do what you want. 
+	- Using examples based on past is important to effectively do just this.
+	- The importance of understanding using "fundamentals" (First Principles Thinking) and JIT learning was also mentioned.
+	==TODO: Improve this==
+	- There was a tension on using past to predict the future which can be summarized with "the past always seemed obvious and yet the future feels brim with possibilities". 
+		- Hence I posit the best way to study history is not in reverse from present to past, but actually by working forwards from past to present.
+	- Hamming thus uses examples from the past as a guide to help develop future visions not caring whether past repeats itself in the future or not by concluding it to be one of the scarce resource to help mold future visions.  
+	- The author also makes the point that the future is more likely to be constrained by humans rather than technology. 

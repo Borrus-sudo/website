@@ -8,6 +8,6 @@
 - Seeing abstractions as repetitions.
 - How do I inculcate the "breaking of rules" inside this? e.g when Nike's just paid the fines cause Jordan's shoes had too much red.
 - Breaking law is sort of essentially this too. Holding the law notoriously to its letter. 
-- Seeing through the semantics and seeing the syntax and moulding it over to create some intricate effect leads to "humour" (violation of expectations), "hacking" (in the traditional sense). 
-- This was also in exponents, we went from $X^2$ to be able to towards $X^{\frac{1}{2}}$ .  We went from semantics -> syntax and then did some pattern recognition in syntax which eventually did lead to some new semantics!
+- Seeing through the semantics and seeing the syntax and moulding it over to create some intricate effect leads to "humor" (violation of expectations), "hacking" (in the traditional sense). 
+- This was also in exponents, we went from $X^2$ towards $X^{\frac{1}{2}}$ .  We went from semantics -> syntax and then did some pattern recognition in syntax which eventually did lead to some new semantics!
 - Coding agents and prompting are also about the "what" and the "how". If you are enough about the "what" you prolly won't care about the "how". Not sure how much of the "how" we should give away. Feels like we have to keep traversing this cone. I really wany LLMs that can I personalize the fuck out of. Guardian Angels article by gwern? 
