@@ -1,7 +1,7 @@
 ==TODO==: Add notes about metaphors, Sapir-Whorf and Languages. 
 
 
-- The word abstraction is polysemy meaning different thigns 
+- The word abstraction is polysemy. 
 
 
 - Our brains are wired to see [[Repetition, Generativity and Patterns|repetitions]]. This allows our brains to form patterns which provide us familiar sign-posts to tame frightening variations.

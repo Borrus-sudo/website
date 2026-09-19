@@ -1,0 +1,10 @@
+- A core set of primitives (preferably compact and orthogonal) that can be composed together and abstracted further is a classical mechanism for [Emergent Behaviour](https://jzhao.xyz/thoughts/emergent-behaviour)
+- The primitives are like spanning vector sets whose linear combinations cover the entire vector space. 
+- Examples in the wild
+	- [[The Art of UNIX Programming|UNIX Philosophy]] is a massive advocate for the **lego model** style of development.
+	- The CPU is essentially built on top of NAND gate primitive. The NAND gate can be composed to build AND, NOR, XOR, OR gates. Layers and layers of such composition and abstraction yields the CPU. [See](https://youtu.be/5rg7xvTJ8SU?si=AIRlpZWaK_u6EL4g)
+	- [Napolean](https://www.youtube.com/watch?v=E9VfahNloQA) organized his army into small, highly agentic corps which could move very quickly and live off land. During a siege or a major battle, the corps mobilized (composed) into a massive army. This allowed Napolean to surprise his enemies with speed.
+	- [Spotify's Engineering Culture](https://engineering.atspotify.com/2014/3/spotify-engineering-culture-part-1). 
+	- The [LISP](https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090) programming language has a function which does certain computations. These functions can be composed together and abstracted as new functions. 
+	- [Generative semantics](https://thomas-ede-zimmermann.de/course_materials/SemanticsComplete.pdf) in linguistics is also modelled around a similar concept. 
+	- [[Pattern language]] is structured around the Lego Model design.

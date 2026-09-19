@@ -1,11 +1,13 @@
 - A pattern language is a collection of re-usable patterns in [[Form fits the context|form/context]] pairs.
 - The context tries, not necessarily, to be abstract so they can be applied to a variety of scenarios.
-- Patterns provide reusable instances of a solution when faced with a particular problem(s) in a specific context. They are sort of a recipe, guidelines on how something can be approached and not binding legal contracts.
+- Patterns provide reusable instances of a solution when faced with a particular problem(s) in a specific context. They are a recipe on how something can be approached and not a binding legal contracts.
 - Patterns should accordingly be applied to the reader's particular "context".
+- The power of pattern language is its ability to provide actionable insights to the reader. 
 - [[UNIX Philosophy|Composability]] is a super power of pattern language.  
 - Be-aware of the [[Pattern Bias|pattern bias]] whilst mining patterns. 
-- [[Richard Gabriels]] in his article [[Repetition, Generativity and Patterns]] makes the point that we need more pattern language miners to be published in scientific journals owing to the amount of [[Agency]] they provide to their reader. Traditionally science always demands for a clever explanation for everything, which is fairly important but also not required for a lot of cases. 
+- [[Richard Gabriels]] in his article [[Repetition, Generativity and Patterns]] makes the point that we need more pattern language miners to be published in scientific journals owing to the amount of [[Agency]] they provide to their reader. Traditionally science always demands for a clever explanation for everything, which is fairly important but also not required for a lot of cases.
 	- Hence [[mycelium - wood wide web]] has "semantic zoom" primitives so that such explanations can be stashed in the background and referred to as and when the reader finds it fit.
+- Maggie Appleton describes pattern languages as:
+	> Pattern Language is a set of flexible, reusable solutions to common design problems. These patterns evolve naturally within systems, and are found rather than crafted. Identifying and recognising these patterns gives us a framework to craft solutions with.
 - It is necessary to not forget such proofs. See [[Fooled by Randomness]] for more reasons. 
 - Also see [[Generative Mantra]]
-- See 

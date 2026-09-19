@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c651e64582c6906a",
+        "id": "2a4cb9a5d3014914",
         "type": "tabs",
         "children": [
           {
-            "id": "0adc7fd4a9ad46fc",
+            "id": "3c6f846200d19aa9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Abstracting 'Abstracting'.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Abstracting 'Abstracting'"
             }
           }
         ]
@@ -154,6 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Abstracting 'Abstracting'.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -180,34 +195,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "0adc7fd4a9ad46fc",
+  "active": "3c6f846200d19aa9",
   "lastOpenFiles": [
-    "Barefoot developer.md",
-    "Maggie Appleton.md",
+    "2026-09-18.md",
+    "The Big OOPS - Anatomy of a 35 year old mistake.md",
+    "Pace Layers.md",
+    "Pattern language.md",
+    "Notes on Intelligence, Game theory and education.md",
+    "Lego Model.md",
+    "Parallel Programming.md",
+    "Guiding Philosophy.md",
+    "Generative Mantra.md",
+    "Repetition, Generativity and Patterns.md",
     "Malleable Programming.md",
-    "Proof n Progress in Mathematics.md",
-    "Interface Design.md",
-    "Law of Leaky Abstraction.md",
-    "Hacking as Painting.md",
-    "Vow of Silence.md",
-    "Sapir Whorf hypothesis.md",
-    "Sapir Whorf Hypothesis, Metaphor and Thought.md",
-    "The Art of UNIX Programming.md",
-    "Thought, Language and Communication.md",
-    "2026-09-14.md",
-    "Pit of Success.md",
-    "Playing with Videos makes Symbols.md",
-    "Information Design by Bret Victor.md",
-    "Medium is not the message.md",
-    "2026-09-01.md",
     "Abstracting 'Abstracting'.md",
-    "2026-09-05.md",
-    "Analogy is the core of cognition.md",
+    "File over app.md",
     "Cursed Problems.md",
-    "Computer Security and Communication Protocols.md",
-    "The Cone of Abstract and Concrete.md",
-    "The Art of Science and Engineering.md",
-    "Form fits the context.md",
+    "Hacking as Painting.md",
+    "How I take notes.md",
+    "Management style.md",
+    "2026-09-14.md",
+    "2026-09-05.md",
+    "The Art of UNIX Programming.md",
+    "Deep Learning.md",
+    "Popperian Philosophy.md",
+    "Fooled by Randomness.md",
+    "Sapir Whorf Hypothesis, Metaphor and Thought.md",
+    "Sapir Whorf hypothesis.md",
+    "The What, The How, The Why and its TL;DR.md",
     "Untitled",
     "folder",
     "Clippings",
