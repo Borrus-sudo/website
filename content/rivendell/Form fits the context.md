@@ -11,7 +11,7 @@
 	- The way we create our "form" is path dependent and hence we must greedily design "centers" first. 
 - The context is rich with details and information which must be harnessed by taking actions inside the context. Iteratively testing our form is the way to do. Also potential application of [[Gall's Law]]?
 - Our preconceptions can act as a filter which reduces the amount of information we can extract from the context or "forms" we can conceive. 
-- See Gwern's article [Unseeing](https://gwern.net/unseeing)  abstractions and [[The Cone of Abstract and Concrete]] for a more detailed metaphor on thinking about abstractions. 
+- See Gwern's article [Unseeing](https://gwern.net/unseeing)  abstractions and [[Abstraction Gradient]] for a more detailed metaphor on thinking about abstractions. 
 - Our implicit [[Conceptual Metaphor]] might also be a barrier from true understanding. 
 - Remember that "The word is not the thing, the map is not the territory". 
 j

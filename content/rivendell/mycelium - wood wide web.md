@@ -20,13 +20,46 @@
 	- Templating system and template support. 
 	- Good SEO support.
 	- First class support for media. 
-
 - Stuff like:
 	- Stickerification of images
 	- Engelbart component
 	- Telescopic text 
 	- Playful components
 	- Command-K navigation should nicely fit into the framework. They can be implemented by me perhaps, but should be supported in the system. 
+- After months of fucking around, I think I am getting an idea on what should be a part of the system and what should not. 
+	- A ssg built on top of Astro model. The vault will be a part of the directory
+	- There will be obsidian primitives:
+		- html web-components as markdown directives
+			- Better link affordances, decorate some links to show importance to click
+			- Engelbart component
+			- Telescopic text
+			- card hovers
+			- Icons
+			- X, Bsky and Discord components?
+			- more semantic zoom primitives?
+			- flash-card component? I low-key want to be able to
+			- transclusions. 
+			- Support having pop-ups?? (this seems low-key tougher).
+			- code editor??
+		- Spaced Repetition support
+		- Hyperlink maximalism support
+			- Semantic Index???
+			- Search index
+		- Digital Garden build support
+			- Astro support!!!
+			- Playful elements
+			- Windowing support
+			- Foreign link unfurl preview support
+			- Semantic maps should be visible.
+			- Time travel support
+			- Great typography and modular theming support
+			- Search index re-use 
+			- Contextual backlinks with text based fragments
+			- Command K
+			- good side notes support
+			- Tags support and Obsidian bases too, hopefully :>
+		- Semantic maps!!!!!! (This is gonna be needing quite some research)
+		- Time travel support
 
 - Ontology support:
-	- Not sure what to do?
+	- I have a feeling that Ontology, Knowledge Graphs, Querying might be sorta related. 

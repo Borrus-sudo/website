@@ -1,12 +1,12 @@
 Source: [link](https://www.mimuw.edu.pl/~pawelst/rzut_oka/Zajecia_dla_MISH_2011-12/Lektury_files/Thurston%20Bull.%20Amer.%20Math.%20Soc.%20%28N.S.%29%201994.pdf)
-- Human thinking and understanding does not work on a single track. Our brains and minds are organized into variety of separate, powerful facilities that loosely talk together at high levels.
+- Human thinking and understanding does not work on a single track. Our brains and minds are organized into variety of separate, powerful facilities that loosely talk together at high levels. ^1c1c30
 - Some major division used by mathematical understanding: 
 	- Human Language: Using notations and languages to think and communicate
 	- Visual, Spatial and Kinesthetic(motion): People have very good facilities for taking in information visually, kinesthetically and thinking about spatially. However they do not have very good built-in facility for inverse vision that is turning their spatial understanding back into a two dimensional image. Consequently, mathematicians usually have fewer and poorer figures in their papers and books than in their heads.
 	- Intuition, association and metaphor
 	- Stimulus Response: When we multiple two numbers, we immediately write them one below another, draw a line and then do them. 
 	- Process and Time. 
-	- Also see [[Conceptual Metaphors for Intelligence, Thinking and Learning.]]
+	- Also see [[Conceptual Metaphors for Symbolic Intelligence, Thinking and Learning.]]
 - They use a wide range of mental faculties to figure out how to actually think about mathematics. 
 - According to William Thurston the fundamental goal of mathematics is to improve the human understanding of mathematics. Hence exploring the psychological and social dimensions are important. 
 - The communication of mathematics is isn't affective. It is a language that is not alive for everyone who is not in the particular field. The language doesn't do a good job at conveying the different modes of mathematical thinking. Greater effort has to be put into conveying mathematical ideas which requires paying attention to not only definitions, theorems and proofs but also ways of thinking.

@@ -2,8 +2,9 @@
 - Compile time hierarchy of encapsulation that matches the domain model is a mistake!
 - Compile time hierarchy of encapsulation along systems is the right way to do (ECS)
 - People might argue, the stuff you said is not OOPs, Casey argues, well not what I am saying is wrong. Also points evidence towards why compile time hierarchy of encapsulation that matches domain model is the inspiration towards the creation of OOPs
-- Alan Kay later writes OOPs to me is `local retention, messaging, protection and hiding of state-process and extreme late binding of all things` ^389103
-- But they actively sort of adovocated for single rooted hierarchies. C++ does not sort of force you to do that - Bjarne Stoutsup 
+- Alan Kay later writes 
+	 > OOPs to me is local retention, messaging, protection and hiding of state-process and extreme late binding of all things ^389103
+- But they actively sort of advocated for single rooted hierarchies. C++ does not sort of force you to do that - Bjarne Stoutsup 
 - Simula used classes and inheritance inspired from C.A.R Hoare. They even put in discriminated unions. But Bjarne thought this sort of digressed from the idea of writing modular code by using virtual function and he kinda fucked away from them.  
 - C.A.R Hoare  was inspired by Douglas T Ross  to create Plex data structure, which is kinda of like fatty structs  
 - Douglas T Ross worked at MIT  lab where they created a plex data structure

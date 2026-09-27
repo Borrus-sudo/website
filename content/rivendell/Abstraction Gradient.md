@@ -1,4 +1,5 @@
 - The what vs how
+- Declarative vs imperative
 - Unseeing
 - Form fits the context, Unfolding
 - Judging technological progress and making progress

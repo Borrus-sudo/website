@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a4cb9a5d3014914",
+        "id": "e1848e3501e9d79d",
         "type": "tabs",
         "children": [
           {
-            "id": "3c6f846200d19aa9",
+            "id": "dfe8b2da1152b889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstracting 'Abstracting'.md",
+                "file": "Proof n Progress in Mathematics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Abstracting 'Abstracting'"
+              "title": "Proof n Progress in Mathematics"
+            }
+          },
+          {
+            "id": "7d7e8530c1474230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes on Intelligence, Game theory and education.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Notes on Intelligence, Game theory and education"
+            }
+          },
+          {
+            "id": "381a034283e1e90d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Musings on Thought, Intelligence and Language.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Musings on Thought, Intelligence and Language"
+            }
+          },
+          {
+            "id": "fde6a937dc230527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Symbolic Thought.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Symbolic Thought"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "meto",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.89999389648438
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "82bedecb8374793e",
@@ -106,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language as a TFT.md",
+                "file": "mycelium - wood wide web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from mycelium - wood wide web"
+              "title": "Outgoing links"
             }
           },
           {
@@ -168,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstracting 'Abstracting'.md",
+                "file": "mycelium - wood wide web.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -178,11 +252,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 274.2999267578125
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,34 +269,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "3c6f846200d19aa9",
+  "active": "7d7e8530c1474230",
   "lastOpenFiles": [
-    "2026-09-18.md",
-    "The Big OOPS - Anatomy of a 35 year old mistake.md",
-    "Pace Layers.md",
-    "Pattern language.md",
+    "Musings on Thought, Intelligence and Language.md",
+    "Symbolic Thought.md",
+    "Proof n Progress in Mathematics.md",
     "Notes on Intelligence, Game theory and education.md",
-    "Lego Model.md",
-    "Parallel Programming.md",
-    "Guiding Philosophy.md",
-    "Generative Mantra.md",
-    "Repetition, Generativity and Patterns.md",
-    "Malleable Programming.md",
-    "Abstracting 'Abstracting'.md",
+    "Language and User Interfaces.md",
+    "Does language shape thought.md",
+    "Conceptual Metaphors for Symbolic Intelligence, Thinking and Learning..md",
+    "2026-09-27.md",
+    "The Big OOPS - Anatomy of a 35 year old mistake.md",
+    "Conceptual Metaphor.md",
     "File over app.md",
-    "Cursed Problems.md",
-    "Hacking as Painting.md",
-    "How I take notes.md",
-    "Management style.md",
-    "2026-09-14.md",
-    "2026-09-05.md",
-    "The Art of UNIX Programming.md",
-    "Deep Learning.md",
-    "Popperian Philosophy.md",
-    "Fooled by Randomness.md",
-    "Sapir Whorf Hypothesis, Metaphor and Thought.md",
+    "2026-09-23.md",
+    "Malleable Programming.md",
+    "u.md",
+    "Guiding Philosophy.md",
     "Sapir Whorf hypothesis.md",
-    "The What, The How, The Why and its TL;DR.md",
+    "Memex.md",
+    "Untitled 1.md",
+    "Abstraction Gradient.md",
+    "Lego Model.md",
+    "Habit.md",
+    "Abstracting 'Abstracting'.md",
+    "Reader Generated Essays.md",
+    "Mindstorms.md",
+    "The Art of Science and Engineering.md",
+    "Sapir Whorf Hypothesis, Metaphor and Thought.md",
     "Untitled",
     "folder",
     "Clippings",

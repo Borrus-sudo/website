@@ -1,15 +1,11 @@
 ==TODO==: Add notes about metaphors, Sapir-Whorf and Languages. 
-
-
-- The word abstraction is polysemy. 
-
-
+- The word abstraction is polysemy.
 - Our brains are wired to see [[Repetition, Generativity and Patterns|repetitions]]. This allows our brains to form patterns which provide us familiar sign-posts to tame frightening variations.
 - Abstractions feed on these repetitions. Richard Gabriel writes "Abstraction is what we know as long as what is repeated has the magic of enchantment and song of incantation".
 - We compress an infinite variety of experiences into its absolute essence, where the essence is that which is repeated. This is called abstraction.
 - The signals discovered from the noise is purely dependent on the individual viewing them.
 - Historians believe our ability to abstract developed simultaneously with the ability to communicate using languages. 
 - Our ability to abstract is the [[Analogy is the core of cognition|core of our cognition]].
-- Also see the [[Conceptual Metaphor]] for [[Conceptual Metaphors for Intelligence, Thinking and Learning.|intelligence]] 
+- Also see the [[Conceptual Metaphor]] for [[Conceptual Metaphors for Symbolic Intelligence, Thinking and Learning.|intelligence]] 
 - Along with abstracting, we also developed the ability to [[Conceptual Metaphor|metaphorize]].
 - ==WARNING==: Cover linguistic wars, sapir whorf hypothesis, how do we actually learn a language. I think the conceptual metaphors, abstraction have a deeper connection to analogy. We need to cover this well. 

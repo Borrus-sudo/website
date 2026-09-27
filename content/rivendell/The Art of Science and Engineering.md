@@ -2,7 +2,7 @@
 	- The book starts off with the importance of "style of thinking" and "vision". 
 	- It is crucial to have a vision of future that you want to guide you in the right direction. Similar to Bret Victor's point of Inventing on a Principle. 
 	- A drunk man moving randomly can only move about $\sqrt{n}$ from the origin, but if there is a pretty girl, he can move a distance proportional to $n$. 
-		- The goal should be a pretty [[The Cone of Abstract and Concrete|high level]] so that you don't end up violating [[Form fits the context]] design approach. 
+		- The goal should be a pretty [[Abstraction Gradient|high level]] so that you don't end up violating [[Form fits the context]] design approach. 
 	- He also stressed the importance of having a distinct style of working with that of painting. (Linked [[Hacking as Painting]]?)
 	- You can't learn to be a great painter by simply learning how to paint. You need apprenticeship under a great painter whose "style" inspires and influences you to do what you want. 
 	- Using examples based on past is important to effectively do just this.

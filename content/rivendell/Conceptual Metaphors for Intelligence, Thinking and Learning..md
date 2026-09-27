@@ -1,9 +1,0 @@
-- [[Conceptual Metaphor|Conceptual Metaphors:]]
-	- Intelligence:
-		- Intelligence is the art of traversing [[The Cone of Abstract and Concrete]].
-		- Typically an individual finds meaningful signals from a variety of situations which can then be reified in different scenarios.
-		- Watch: [this](https://youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6&si=XDgl5iBwa56wlWRE) and [this](https://worrydream.com/LadderOfAbstraction/)
-	- Thinking: 
-		- Thinking is about finding the right linear order of ideas from our maze of ideas held inside our head by [[Memex#associations|associations]]. Isolated ideas or less traversed paths gradually fade from our memory.
-	- Learning:
-		- Exploration vs exploitation
