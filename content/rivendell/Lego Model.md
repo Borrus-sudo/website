@@ -9,13 +9,13 @@
 ### Composition
 
 - Hedges [writes](https://julesh.com/posts/2017-04-22-on-compositionality.html):
->      Compositionality is the principle that a system should be designed by composing together smaller subsystems, and reasoning about the system should be done recursively on its structure
+>      Compositionality is the principle that a system should be designed by composing together smaller subsystems, and reasoning about the system should be done recursively on its structure ^015cc3
 - The power of the system comes from the fact that various artifacts can be composed together to give rise to more powerful artifacts. A new abstraction of sorts. 
 - An added advantage of the compositionality is the ability to use artifacts without understanding how they work underneath. 
 - As long as we understand "what" something does, we don't need to bore ourselves with the "how". We can simply use the artifact using its interface and compose it with other components. 
 - Be-aware of [[Law of Leaky Abstraction]] and also see [[Abstraction Gradient]]
 - Thus good interface design for the artifact plays a key role in how easily it can afford "compositionality". 
-	- This interface can take on different forms in different contexts. In software contexts it is generally good [API design](https://youtu.be/ZQ5_u8Lgvyk?si=UtDxnD-YQX6fVnQ8). Building powerful Tools not siloed Apps which composed better is the future of computing. See [[Malleable Programming#^313f5f]]. In physical environments, composition is just built in more naturally. This is also the core principle of [Dynamicland](https://dynamicland.org/)
+	- This interface can take on different forms in different contexts. In software contexts it is generally good [API design](https://youtu.be/ZQ5_u8Lgvyk?si=UtDxnD-YQX6fVnQ8). Building powerful Tools not siloed Apps which can be composed better is the future of computing. See [[Malleable Programming#^313f5f]]. In physical environments, composition is just built in more naturally. This is also the core principle of [Dynamicland](https://dynamicland.org/)
 - Compositionality is also the opposite of [Emergent Behavior](https://jzhao.xyz/thoughts/emergent-behaviour). Composable systems are easily analyzable by applying the [reductionist approach](https://en.wikipedia.org/wiki/Reductionism) to systems recursively till we boil them down to their absolute first principles or primitives. Emergent Behavior is fundamentally different because of artifact A and B were composed, their combined effect won't be behaviour(A) + behaviour(B). Instead there would be some additional side-effect behaviour(AB) involed. This makes compositionality extremely important to sciences. [See](https://julesh.com/posts/2017-04-22-on-compositionality.html) to see more into it. 
 ### Examples in the wild
 
