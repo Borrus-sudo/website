@@ -21,5 +21,6 @@ Howard lists the following kinds of intelligences:
 ### IDGAF attitude and VARK theory 
 https://www.reddit.com/r/deaf/comments/egwjpe/if_a_deaf_person_also_suffers_from_aphantasia_how/
 
-### Metaphor and Abstraction
+### Metaphor and Abstraction Gradient
+- Metaphor as a tool of inference and The Powers of Abstraction Gradient. 
 ### Habits are software traits 

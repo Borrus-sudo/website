@@ -41,6 +41,7 @@
 			- transclusions. 
 			- Support having pop-ups?? (this seems low-key tougher).
 			- code editor??
+			- https://idyll-lang.org/docs take a look at this.
 		- Spaced Repetition support
 		- Hyperlink maximalism support
 			- Semantic Index???

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e20a17801efe57a3",
+        "id": "f08b6df9d9a268b7",
         "type": "tabs",
         "children": [
           {
-            "id": "04a5d9f38f48a14a",
+            "id": "81714bb6df6d532e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prep/VSM Project Notes.md",
+                "file": "mycelium - wood wide web.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "VSM Project Notes"
-            }
-          },
-          {
-            "id": "0fb917e7f14ec70f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prep/VSM ECell.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "VSM ECell"
+              "title": "mycelium - wood wide web"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mycelium - wood wide web.md",
+                "file": "2026-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -203,11 +178,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,36 +196,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "0fb917e7f14ec70f",
+  "active": "81714bb6df6d532e",
   "lastOpenFiles": [
-    "prep/Tyche OS.md",
-    "prep/VSM ECell.md",
-    "Untitled.md",
+    "Sapir Whorf hypothesis.md",
+    "Abstraction Gradient.md",
+    "Symbolic Intelligence.md",
+    "Language and User Interfaces.md",
+    "Lego Model.md",
+    "Musings on Thought, Intelligence and Language.md",
+    "Abstracting 'Abstracting'.md",
+    "The Art of Science and Engineering.md",
+    "Spaced repetition system.md",
+    "Sapir Whorf Hypothesis, Metaphor and Thought.md",
+    "2026-10-03.md",
+    "Richard Gabriels.md",
+    "The What, The How, The Why and its TL;DR.md",
     "prep/VSM Project Notes.md",
-    "prep",
     "Interview Prep.md",
+    "prep/VSM ECell.md",
+    "prep/Tyche OS.md",
+    "Untitled.md",
+    "prep",
     "interview",
     "Design Of Everyday Things.md",
     "Deep Learning.md",
     "Cursed Problems.md",
-    "Abstracting 'Abstracting'.md",
     "Concurrency vs Parallelism.md",
-    "Lego Model.md",
-    "Musings on Thought, Intelligence and Language.md",
     "Notes on Intelligence, Game theory and education.md",
     "Proof n Progress in Mathematics.md",
     "Mindstorms.md",
     "Medium is not the message.md",
-    "mycelium - wood wide web.md",
-    "Symbolic Intelligence.md",
-    "2026-09-27.md",
-    "2026-09-23.md",
-    "Language and User Interfaces.md",
-    "Does language shape thought.md",
-    "Conceptual Metaphors for Symbolic Intelligence, Thinking and Learning..md",
-    "The Big OOPS - Anatomy of a 35 year old mistake.md",
-    "Conceptual Metaphor.md",
-    "File over app.md",
     "folder",
     "Clippings",
     "Untitled.base"
