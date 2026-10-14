@@ -20,7 +20,12 @@ Howard lists the following kinds of intelligences:
 
 ### IDGAF attitude and VARK theory 
 https://www.reddit.com/r/deaf/comments/egwjpe/if_a_deaf_person_also_suffers_from_aphantasia_how/
+Aphantasic artist
+Alan Kay had paid special attention to mental modes and learning theory whilst developing the user-interfaces. 
+We can stick ourselves to mental modes.
+Just use tools to get whatever you want done!
 
 ### Metaphor and Abstraction Gradient
 - Metaphor as a tool of inference and The Powers of Abstraction Gradient. 
+- Alan Kay also made a point of saying that we learn the abstract from concrete. This is where metaphors play. So metaphors can explain evolution and also possibly learning as children? However there certainly a symbolic system in place. 
 ### Habits are software traits 

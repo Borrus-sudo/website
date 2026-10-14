@@ -1,0 +1,21 @@
+#idea #future  
+- The [[Malleable Programming]] post has made me realize that we need an OS built around the paradigm of malleable computing. The OS will serve as a kitchen space with well defined protocols to allow for tools-like-apps to interoperate. A community marketplace to easily share such apps. Coding agents built-in so users can easily vibe-code a tool in case they need one. LLMs can certainly play a role here. There should exist more natural ways to have a communication with the OS interface. Such an OS will obviously be built on top of Linux kernel. UNIX had achieved a fair ton of these ideas in the CLI world, we need to bring the GUI equivalent yet! [[File over app]] certainly has a role to play!
+- It feels like agents will play a huge role for these tool-like-apps which will be built by a bunch of people for their local community. Taking inspiration from Omarchy seems pretty important. 
+- This OS will be built with protocols. Protocols are going to play an interesting role here. 
+- The OS should be drivable by the agent too in a way. 
+- UNIX equivalence proof:
+	- Do one thing but do it well <==> Tools-not-Apps
+	- Composing various small programs via the PIPE operator which communicate with one another using a text based interface
+	- They pioneered the "Everything is a file app"
+- We need something like this for the GUI world!
+- Also take a look at [Scott Jensen's take](https://www.youtube.com/watch?v=V7AfAcQwLW0)  and [Andy Matuschak's interesting demo](https://www.youtube.com/watch?v=b8s9sPTEA4I). They are similar in regards to proposing a shared context that can be AI friendly.
+- Chatbot first interfaces feels like going back to the dark-ages. It feels a terminal like interface whose GUI is yet to be invented. I think we still haven't cracked the GUI equivalent of UNIX too! Lots too ponder upon. 
+- Centralization is another issue today. We need the ability to commoditize the intelligence.
+- Maybe we need personal LLMs.
+- JIT software generation is a thing now. This new OS should easily allow for this. i
+- Everybody wants to delegate tasks to agents. Especially grunt work that is well defined and requires a pain-killer like solution. You take the pain-killer and the pain is gone.  Software becoming headless in this aspect is pretty useful and the OS should have an easy way to support this. The protocol should support this. Death of [[Information Design by Bret Victor#^77a405|information software]]?
+- General vitamin-like software that sparks creativity, brings people socially closer or for entertainment like browsing Netflix for new trending shows, using Discord communities, Obsidian for writing, Photoshop for crafting are still very much going to be alive in the traditional software sense. Intelligence can be embedded in such apps easily.
+- Maybe something like Git would be integrated beforehand. 
+- Data hoarding machine idea would be beforehand.
+- Really cool window manager: https://x.com/DanFessler/status/2109901960132305311?s=20
+- https://gwern.net/guardian-angel personalized intelligence machine?
