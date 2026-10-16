@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6deba1af1b86d523",
+        "id": "c93ae3997d8793fc",
         "type": "tabs",
         "children": [
           {
-            "id": "68a203cb8475884a",
+            "id": "887f73a8d8a811c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-10-14.md",
+                "file": "2026-10-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-10-14"
-            }
-          },
-          {
-            "id": "8ea6fd5512eee6fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Future OS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Future OS"
+              "title": "2026-10-07"
             }
           }
         ]
@@ -89,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hackerspace",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,13 +86,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 316.70001220703125,
-    "collapsed": true
+    "width": 201.5
   },
   "right": {
     "id": "82bedecb8374793e",
@@ -222,34 +196,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "68a203cb8475884a",
+  "active": "78dc1c6b2a866d35",
   "lastOpenFiles": [
-    "Future OS.md",
+    "2026-10-03.md",
+    "2026-10-16.md",
     "2026-10-14.md",
-    "2026-10-07.md",
-    "Telescopic Text AST.md",
-    "Popperian Philosophy.md",
-    "2026-08-04.md",
-    "Analogy is the core of cognition.md",
-    "The Art of Science and Engineering.md",
-    "Does language shape thought.md",
-    "2026-09-01.md",
-    "Conceptual Metaphors for Symbolic Intelligence, Thinking and Learning..md",
-    "2026-07-29.md",
-    "2026-10-08.md",
-    "2026-09-18.md",
-    "Information Design by Bret Victor.md",
-    "Malleable Programming.md",
-    "2026-10-13.md",
-    "Abstraction Gradient.md",
-    "2026-10-11.md",
-    "Musings on Thought, Intelligence and Language.md",
-    "Abstracting 'Abstracting'.md",
-    "Sapir Whorf hypothesis.md",
+    "Abstraction Gradient - The Art of Zooming in and out.md",
+    "Language and User Interfaces.md",
+    "Lego Model - Mental Model for designing mediums.md",
+    "Symbolic Intelligence.md",
+    "Postel's law.md",
+    "Mindstorms.md",
+    "Pattern Bias.md",
     "Reader Generated Essays.md",
-    "Lego Model - Mental Model for designing apps.md",
-    "Concurrency vs Parallelism.md",
-    "Design Of Everyday Things.md",
+    "UNIX Philosophy.md",
+    "2026-10-13.md",
+    "Future OS.md",
+    "2026-10-15.md",
+    "The Art of Science and Engineering.md",
+    "Musings on Thought, Intelligence and Language.md",
+    "LLM Wikis.md",
+    "Memex.md",
+    "Parallel Programming.md",
+    "Medium is not the message.md",
+    "The Art of UNIX Programming.md",
+    "Repetition, Generativity and Patterns.md",
+    "Pattern language.md",
+    "Abstracting 'Abstracting'.md",
+    "Does language shape thought.md",
     "prep",
     "interview",
     "folder",

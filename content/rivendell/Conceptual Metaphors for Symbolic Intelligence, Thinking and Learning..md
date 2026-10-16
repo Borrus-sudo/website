@@ -1,6 +1,6 @@
 - [[Conceptual Metaphor|Conceptual Metaphors:]]
 	- Symbolic Intelligence:
-		- Symbolic Intelligence is the art of traversing [[Abstraction Gradient]].
+		- Symbolic Intelligence is the art of traversing [[Abstraction Gradient - The Art of Zooming in and out]].
 		- Symbolic Intelligence can also be viewed as compression. Typically an individual extracts meaningful signals from a variety of situations which can then be reified into specific scenarios.
 		- Watch: [this](https://youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6&si=XDgl5iBwa56wlWRE) and [this](https://worrydream.com/LadderOfAbstraction/)
 	- Thinking: 

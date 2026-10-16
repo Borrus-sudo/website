@@ -24,8 +24,13 @@ Aphantasic artist
 Alan Kay had paid special attention to mental modes and learning theory whilst developing the user-interfaces. 
 We can stick ourselves to mental modes.
 Just use tools to get whatever you want done!
-
+An artist will always find their way through. 
 ### Metaphor and Abstraction Gradient
 - Metaphor as a tool of inference and The Powers of Abstraction Gradient. 
 - Alan Kay also made a point of saying that we learn the abstract from concrete. This is where metaphors play. So metaphors can explain evolution and also possibly learning as children? However there certainly a symbolic system in place. 
 ### Habits are software traits 
+- Live in the future
+- Be curious, be interdisciplinary. Esp in the LLM era. Use LLMs aggressively. Be more ambitious. 
+- Take a questions first approach. Use LLMs to get shit done. View everything as a problem to be solved. Self Effecacy; Link to [[2026-10-07#^2c8f2b]]
+- Learn by doing things. Do experiments. 
+- Writing is thinking. 
