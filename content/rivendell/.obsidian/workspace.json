@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c93ae3997d8793fc",
+        "id": "9b1eb8d6561ae5da",
         "type": "tabs",
         "children": [
           {
-            "id": "887f73a8d8a811c1",
+            "id": "6eb7693de5659ec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-10-07.md",
+                "file": "Lego Model - Mental Model for designing mediums.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-10-07"
+              "title": "Lego Model - Mental Model for designing mediums"
+            }
+          },
+          {
+            "id": "ed98133854dc2d2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-10-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-19"
+            }
+          },
+          {
+            "id": "446643b1f53c6715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-10-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-24"
             }
           }
         ]
@@ -65,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "human coll",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,12 +129,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,34 +248,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "78dc1c6b2a866d35",
+  "active": "6eb7693de5659ec7",
   "lastOpenFiles": [
-    "2026-10-03.md",
-    "2026-10-16.md",
-    "2026-10-14.md",
-    "Abstraction Gradient - The Art of Zooming in and out.md",
-    "Language and User Interfaces.md",
+    "2026-10-19.md",
+    "2026-10-24.md",
     "Lego Model - Mental Model for designing mediums.md",
-    "Symbolic Intelligence.md",
-    "Postel's law.md",
-    "Mindstorms.md",
-    "Pattern Bias.md",
-    "Reader Generated Essays.md",
-    "UNIX Philosophy.md",
-    "2026-10-13.md",
+    "Musings on Thought, Intelligence and Learning.md",
     "Future OS.md",
-    "2026-10-15.md",
-    "The Art of Science and Engineering.md",
-    "Musings on Thought, Intelligence and Language.md",
-    "LLM Wikis.md",
-    "Memex.md",
-    "Parallel Programming.md",
-    "Medium is not the message.md",
-    "The Art of UNIX Programming.md",
-    "Repetition, Generativity and Patterns.md",
-    "Pattern language.md",
-    "Abstracting 'Abstracting'.md",
+    "2026-10-07.md",
+    "2026-10-22.md",
+    "Language and User Interfaces.md",
     "Does language shape thought.md",
+    "2026-10-20.md",
+    "Form fits the context.md",
+    "The Art of Science and Engineering.md",
+    "How I take notes.md",
+    "Abstraction Gradient - The Art of Zooming in and out.md",
+    "mycelium - wood wide web.md",
+    "UNIX Philosophy.md",
+    "Malleable Programming.md",
+    "2026-10-10.md",
+    "2026-10-15.md",
+    "2026-10-16.md",
+    "2026-10-17.md",
+    "2026-09-18.md",
+    "2026-10-03.md",
+    "2026-10-14.md",
+    "2026-07-29.md",
+    "2026-07-28.md",
+    "noise_cv",
     "prep",
     "interview",
     "folder",

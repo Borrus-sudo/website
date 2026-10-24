@@ -16,3 +16,4 @@
 - Dealing with higher levels of abstraction in CS might cause the fears that [[Law of Leaky Abstraction]] warns but more abstract mathematical definitions just improve understanding. I think this is because mathematics tries to encapsulate the essence of bunch of definitions. Where as CS abstractions do the same, but under-the-hood use one specific implementation which might leak. 
 - Using LLMs to be more ambitious stuff. 
 - Sol Lewitt vs Van Gogh and Jean-Pierre vs Alexander Grothendieck.
+- We are still better at at zooming out because of abductive reasoning and more real world agency? Can world models and robots change that?

@@ -1,4 +1,9 @@
-Lego Model is a system containing a set of primitives and a way to **compose** them together and further abstract them to create more powerful sub-systems on top of them. We have explored this model more from the lens of HCI however its inherent structure might be reflected/applied in [[Lego Model - Mental Model for designing mediums#^39510a|other cases]] too! Given below is a very abstract take but I conjecture it to be very useful mental model!
+
+> a kit of parts, with rules about the way these parts may be combined
+
+— Christopher Alexander, *Systems Generating Systems* (1968)
+
+Lego Model is a system containing a set of primitives and a way to **compose** them together and further abstract them to create more powerful sub-systems on top of them. We have explored this model more from the lens of HCI however its inherent structure might be reflected/applied in [[Lego Model - Mental Model for designing mediums#^39510a|other cases]] too! Given below is a very abstract take but I conjecture it to be very useful mental model for implementing the philosophy "Design with materials not features"!
 ### Primitives & Derivatives
 
  - The set of primitives are like spanning vectors sets. Just how the linear combination spanning vector set cover the entire vector space, the composition of these primitives should enable a user to achieve their desired goal. The primitives can't be further decomposed.
@@ -14,17 +19,24 @@ Lego Model is a system containing a set of primitives and a way to **compose** t
 - The power of the system comes from the fact that various primitives can be composed together to give rise to a powerful derivative. A new abstraction of sorts. 
 - An added advantage of the compositionality is the ability to use artifacts without understanding how they work underneath. 
 - As long as the user understands "what" something does, they don't need to bore themselves with the "how". This reduces the cognitive load!
-- Compositionality is also the opposite of [Emergent Behavior](https://jzhao.xyz/thoughts/emergent-behaviour). Composable systems are easily analyzable by applying the [reductionist approach](https://en.wikipedia.org/wiki/Reductionism) to systems recursively till we boil them down to their absolute first principles or primitives. Emergent Behavior is fundamentally different because of artifact A and B were composed, their combined effect won't be behaviour(A) + behaviour(B). Instead there would be some additional side-effect behaviour(AB) involed. This makes compositionality extremely important to sciences. [See](https://julesh.com/posts/2017-04-22-on-compositionality.html) to see more into it. 
+- Composition is synonymous to interfaces. The physical lego blocks have dots that act as an interface to guide composition with other blocks. The Facet API interface allows plugins in Obsidian to compose with each other. Everything within an interface can be iterated upon faster but the interface itself has to be built with long term maintainability in mind to not break interoperability with other blocks.
+- Compositionality is also the opposite of [Emergent Behavior](https://jzhao.xyz/thoughts/emergent-behaviour). Composable systems are easily analyzable by applying the [reductionist approach](https://en.wikipedia.org/wiki/Reductionism) to systems recursively till we boil them down to their absolute first principles or primitives. Emergent Behavior is fundamentally different because of artifact A and B were composed, their combined effect won't be behaviour(A) + behaviour(B). Instead there would be some additional side-effect behaviour(AB) involed. This makes compositionality extremely important to sciences. [See](https://julesh.com/posts/2017-04-22-on-compositionality.html) more into this. 
+
+## How to reify these ideas?
+
+[Instrumental interaction](https://dl.acm.org/doi/10.1145/332040.332473) and information substrates is probably one way to do this. Take a look at this [awesome video](https://www.youtube.com/watch?v=qs9d4ilMU-I) to see more details. Obsidian uses [Facets](https://marijnhaverbeke.nl/blog/facets.html) based composable plugin system that is built to work upon the markdown substrate. [Dynamicland](https://dynamicland.org/) uses the physical space to compose various stuff together. 
 ## Strengths
 
-- This model is a nice way to implement the philosophy of [design with materials not features](https://thesephist.com/posts/materials/)
-- Developing a good Lego Model for the app is also similar to Alexander Grothendiecks's "[mansions approach](https://www.thebigquestions.com/2014/11/13/the-rising-sea/)". Instead of building a list of features, you design a Lego Model like system which have primitives (materials) where these features are automatically represented in the system. This is analogous to the Rising Sea metaphor too. Instead of your apps supporting a few chisel-kind of ways to break a chest-nut, you have an ocean available which can soften the chest-nut such that it can break by applying hand pressure. Your app designed with a lego model architecture is such an ocean! 
-- Learnability also comes for free due to the structured imposed by compositionality. The combinatorics of compositionality would arm the user with a range of functionality! 
+- This model is a nice way to implement the philosophy of [design with materials not features](https://thesephist.com/posts/materials/). The above philosophy resonates with Alexander Grothendiecks's "[mansions approach](https://www.thebigquestions.com/2014/11/13/the-rising-sea/)". Instead of building a list of features, you design a Lego Model like system which have primitives (materials) and the ability to compose them. Features don't need to be supported in a one-off fashion. They come for free within a well designed Lego system. This is analogous to the Rising Sea metaphor too. Instead of your apps supporting a few chisel-kind of ways to break a chest-nut, you have an ocean available which can soften the chest-nut such that it can break by applying hand pressure. Your app designed with a lego model architecture is such an ocean and the chest-nut is the user's goal!
+- Learnability also comes for free due to the structured imposed by compositionality. The combinatorics of compositionality would arm the user with a range of functionality!
+- The structure of the system to build upon from a few base primitives and composing on top of them makes it satisfy [Gall's Law](https://en.wikipedia.org/wiki/John_Gall_(author)#Gall's_law) too!
 ## Limitations
 
-- Malleability of the primitives is a bottle-neck in such a system. You are limited by the primitives that the system provides. If the user wants a fusion of the primitives or include the system to have a new kind of primitive, it becomes a non-trivial issue.  
+- Malleability of the primitives is a bottle-neck in such a system. You are limited by the primitives that the system provides. If the user wants to include into the system new kind of primitive or define their own derivatives, it becomes a non-trivial issue.  
 	- If the primitives are parameterized, maybe this issue can mitigated a bit. For example if you have a drawing app, instead of providing a way to draw a parabola, you can introduce a primitive to draw a conic. This primitive is parameterized so it can take the shape of drawing a circle, hyperbola, parabola, ellipse each of which are a good candidate for a derivative. However it won't be possible for the user to draw a new kind of curve without changing the underlying source[^1].  Take a look at [[Malleable Programming]]
-	- Coding agents changing the source code in real time could be a possible future too. 
+	- Finding an easy way to add custom derivatives is tricky but supporting it would basically enable abstraction in the system making reusability trivial.  
+	- Coding agents changing the source code in real time could be a possible future too.
+- Emergence is killed by compositionality. Lucky for us there is (probably) an easy [way](https://newsletter.squishy.computer/p/compositionality) to fix this though. 
 ### Examples in the wild reflecting this model in strong and loose ways 
 ^39510a
 

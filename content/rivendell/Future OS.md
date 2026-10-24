@@ -19,3 +19,6 @@
 - Data hoarding machine idea would be beforehand.
 - Really cool window manager: https://x.com/DanFessler/status/2109901960132305311?s=20
 - https://gwern.net/guardian-angel personalized intelligence machine?
+- Should be built to support learning. 
+- https://www.youtube.com/watch?v=qs9d4ilMU-I awesome video. really cool. maybe we can learn from this
+- The future OS will have spatial fabric for tools to compose. Contextuality, memories for LLM integration. Everything will be with File Over App Philosophy. The spatial fabric can also be suited for big desktops. Micro-Macro principle is also really cool. 

@@ -58,9 +58,11 @@
 			- Contextual backlinks with text based fragments
 			- Command K
 			- good side notes support
-			- Tags support and Obsidian bases too, hopefully :>
+				- Tags support and Obsidian bases too, hopefully :>
 		- Semantic maps!!!!!! (This is gonna be needing quite some research)
 		- Time travel support
+		- History feature? 
+			- The ability to easily refer to read stuff. Might require support from a data hoarding tool. 
 
 - Ontology support:
 	- I have a feeling that Ontology, Knowledge Graphs, Querying might be sorta related. 

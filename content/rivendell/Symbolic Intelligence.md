@@ -1,4 +1,4 @@
-==NOTE==: The following points are highly speculative in nature. However I think they serve as a wonderful mental model for Symbolic Thought. Also see [[Musings on Thought, Intelligence and Language]]. 
+==NOTE==: The following points are highly speculative in nature. However I think they serve as a wonderful mental model for Symbolic Thought. Also see [[Musings on Thought, Intelligence and Learning]]. 
 
 - The Language of Thought, popularly nick-named as mentalese is the "computational" or the "representational" theory of mind that posits that mind is like a Turing machine.
 - Just how a Turing machine takes inputs from an infinite tape containing symbols and performs various operations by moving up and down the tape, the mind similarly is a processor that acts upon these symbols using a fixed set of rules to generate outputs. Ideas are represented as symbols in this system upon which the brain acts using a fix set of rules/reflexes to generate new pieces of symbols. This is essentially what we would call "reasoning". The **Language of Thought Hypothesis** posits just this! 

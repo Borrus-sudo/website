@@ -12,11 +12,12 @@ The takeaway being to form more associations by reading far and wide and digesti
 The human thoughts and understanding are not organized around a single track. Our brain is multi-faceted in the kind of thoughts it can support. This is best explained with the help of Howard Gartner's theory of intelligences.
 Howard lists the following kinds of intelligences:
 - Musical Intelligence: This area includes having high sensitivity to sounds, rhythms, pitch and tones of music. Individuals high in music intelligence maybe able to sing, play instruments or compose music.
-- Visual-Spatial Intelligence: The ability to use the mind's eye to imagine and hold mental pictures vividly and perform various operations like transformation, rotation and manipulation on them! People demonstrating high visuo-spatial intelligence are able to navigate and orient themselves more easily without requiring a map. Judging distance and angle is naturally easier for them. Architects, Artists, Industrial Designers, Chess players, Athletes tend to possess this intelligence in abundance. Some tasks may require one more than the other. Landscape artists need to hold detailed mental pictures but are not really required to manipulate them. I am conjecturing that you can better at these skills by practicing and they are also showing to be transferrable. See [this](https://www.youtube.com/watch?v=5rTDZ59H4ao) Engineering graphics is the ultimate test of spatial skills. The use of CAD software allows one to rely more on the computer than their mind eye. Hence there is a need to change how Engineering Graphics is taught in colleges since it still uses traditional paper and ruler method.
+- Spatio-Visual Intelligence: The ability to use the mind's eye to imagine and hold mental pictures vividly and perform various operations like transformation, rotation and manipulation on them! People demonstrating high visuo-spatial intelligence are able to navigate and orient themselves more easily without requiring a map. Judging distance and angle is naturally easier for them. Architects, Artists, Industrial Designers, Chess players, Athletes tend to possess this intelligence in abundance. Some tasks may require one more than the other. Landscape artists need to hold detailed mental pictures but are not really required to manipulate them. I am conjecturing that you can better at these skills by practicing and they are also showing to be transferrable. See [this](https://www.youtube.com/watch?v=5rTDZ59H4ao) Engineering graphics is the ultimate test of spatial skills. The use of CAD software allows one to rely more on the computer than their mind eye. Hence there is a need to change how Engineering Graphics is taught in colleges since it still uses traditional paper and ruler method.
 - Logical-Mathematical: This area concerns logic, abstractions, reasoning. This sort of intelligence is required in mathematics, programming, accounting, finance, banking etc. I personally like to refer to this intelligence as the "Symbolic Intelligence". Most of our [[Symbolic Intelligence|symbolic thought]] occurs in a language called mentalese which is universal and independent of your mother tongue. We represent entities symbolically in the system. Our mind is like a processor which performs logical operations upon these symbols to generate output symbols. Certain logical operations that the mind performs are baked into our brain due to evolution. This is also probably the reason why we fall a prey to so many #bias . Look into Daniel Kahneman's Behavioral economics to read more about them. Metaphor is also a powerful tool of inference that this system affords where similar looking symbolic patterns remind us of those thoughts. We cover metaphor and abstraction in the following sections in detail! 
 - Linguistic intelligence: The capability of being sensitive to words and their meanings. People with high linguistic intelligence display an expressive use of language and verbal comprehension. They are typically good at reading, writing, telling stories, rhetoric and memorizing words. 
 - Physical Intelligence: Being able to control the bodily movements and having fine motor skills. This can be decomposed into two main types of intelligence: kinesthetic and tactile. Kinesthetic is being able to control, coordinate and plan bodily movements accurately and tactile is being able to use hands skillfully. They can use their bodies to express their thoughts and emotions. Athletes, Potterers, Carpenters, Law Enforcement Officers, dancers display high physical intelligence! 
 - and [more](https://www.youtube.com/watch?v=5rTDZ59H4ao)... (they are excluded cause I don't think they are particularly relevant to our central question.)
+ As William Thurston says, these mental faculties are at a talk with each other at a high level.
 
 ### IDGAF attitude and VARK theory 
 https://www.reddit.com/r/deaf/comments/egwjpe/if_a_deaf_person_also_suffers_from_aphantasia_how/
@@ -24,13 +25,19 @@ Aphantasic artist
 Alan Kay had paid special attention to mental modes and learning theory whilst developing the user-interfaces. 
 We can stick ourselves to mental modes.
 Just use tools to get whatever you want done!
-An artist will always find their way through. 
+Material intelligence.
+An artist will always find their way through. Humans are tool creators fundamentally. Steve Jobs example.
+VARK theory focusses on using the right intelligence for the job. A lots of people who do science have used spatio-visual and muscular intelligence. Again Alan Kay talk reference here.  
+Johnny Harris focus on Visual Storytelling and Scott Mcclouds': Understanding Comics.
+Mind in Motion by Barbara Tversky
 ### Metaphor and Abstraction Gradient
 - Metaphor as a tool of inference and The Powers of Abstraction Gradient. 
 - Alan Kay also made a point of saying that we learn the abstract from concrete. This is where metaphors play. So metaphors can explain evolution and also possibly learning as children? However there certainly a symbolic system in place. 
 ### Habits are software traits 
 - Live in the future
 - Be curious, be interdisciplinary. Esp in the LLM era. Use LLMs aggressively. Be more ambitious. 
-- Take a questions first approach. Use LLMs to get shit done. View everything as a problem to be solved. Self Effecacy; Link to [[2026-10-07#^2c8f2b]]
-- Learn by doing things. Do experiments. 
+- Take a questions first approach. Use LLMs to get shit done. View everything as a problem to be solved. Self Effecacy; Link to [[2026-10-07#^2c8f2b]] Follow the questions you love. 
+- Be agentic. Learn by doing things. Do experiments. [[Form fits the context]] 
 - Writing is thinking. 
+- Bayesian Thinking
+- Learn to hyper-compartmentalize like elite racing drivers. Focus on the task at hand. Don't left the uncertainty of future distract you too much. Focus on what you can do and what you need to do at the moment. 
