@@ -27,6 +27,7 @@ We can stick ourselves to mental modes.
 Just use tools to get whatever you want done!
 Material intelligence.
 An artist will always find their way through. Humans are tool creators fundamentally. Steve Jobs example.
+We shape our tools and then our tools shape us
 VARK theory focusses on using the right intelligence for the job. A lots of people who do science have used spatio-visual and muscular intelligence. Again Alan Kay talk reference here.  
 Johnny Harris focus on Visual Storytelling and Scott Mcclouds': Understanding Comics.
 Mind in Motion by Barbara Tversky
@@ -35,9 +36,13 @@ Mind in Motion by Barbara Tversky
 - Alan Kay also made a point of saying that we learn the abstract from concrete. This is where metaphors play. So metaphors can explain evolution and also possibly learning as children? However there certainly a symbolic system in place. 
 ### Habits are software traits 
 - Live in the future
-- Be curious, be interdisciplinary. Esp in the LLM era. Use LLMs aggressively. Be more ambitious. 
-- Take a questions first approach. Use LLMs to get shit done. View everything as a problem to be solved. Self Effecacy; Link to [[2026-10-07#^2c8f2b]] Follow the questions you love. 
+- Be curious, be interdisciplinary (T-shaped and U-shaped hybrids). Have interest in a wide variety of things. Esp in the LLM era. Use LLMs aggressively (How to use Claude Code). Be more ambitious. Being addicted to learning. 
+- Take a questions first approach. Use LLMs to get shit done. View everything as a problem to be solved. Self Efficacy; Link to [[2026-10-07#^2c8f2b]] Follow the questions you love.  Invisible problems. 
+	- It is really to important to also spend some time doing more explorative stuff too. Most of the times whilst doing exploratory stuff, you will come with breakthroughs. 
 - Be agentic. Learn by doing things. Do experiments. [[Form fits the context]] 
 - Writing is thinking. 
 - Bayesian Thinking
-- Learn to hyper-compartmentalize like elite racing drivers. Focus on the task at hand. Don't left the uncertainty of future distract you too much. Focus on what you can do and what you need to do at the moment. 
+- Learn to hyper-compartmentalize like elite racing drivers. Focus on the task at hand. Don't left the uncertainty of future distract you too much. Focus on what you can do and what you need to do at the moment.
+- Be a part of a small group! Like Benjamin Franklin was part of Junto Club, Tolkien and C.S Lewis were a part of The Inklings, Steve Jobs and Steve Wozniak were a part of 
+- Timed reviews: Weekly, monthly and 3 monthly to align yourself well with high level goals. 
+- Play and have fun!!! Be optimistic about the future!

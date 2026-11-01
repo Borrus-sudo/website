@@ -22,3 +22,4 @@
 - Should be built to support learning. 
 - https://www.youtube.com/watch?v=qs9d4ilMU-I awesome video. really cool. maybe we can learn from this
 - The future OS will have spatial fabric for tools to compose. Contextuality, memories for LLM integration. Everything will be with File Over App Philosophy. The spatial fabric can also be suited for big desktops. Micro-Macro principle is also really cool. 
+- The system has to be open-ended, evolvable, emergent!
