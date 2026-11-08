@@ -33,16 +33,21 @@ Johnny Harris focus on Visual Storytelling and Scott Mcclouds': Understanding Co
 Mind in Motion by Barbara Tversky
 ### Metaphor and Abstraction Gradient
 - Metaphor as a tool of inference and The Powers of Abstraction Gradient. 
-- Alan Kay also made a point of saying that we learn the abstract from concrete. This is where metaphors play. So metaphors can explain evolution and also possibly learning as children? However there certainly a symbolic system in place. 
+- Alan Kay also made a point of saying that we learn the abstract from concrete. This is where metaphors play. So metaphors can explain evolution and also possibly learning as children? However there certainly a symbolic system in place.
+## Peripheral Thinking 
+
+## Maintain a pattern language!
+[[Pattern language for Out-of-the-box thinking]]
+
 ### Habits are software traits 
 - Live in the future
-- Be curious, be interdisciplinary (T-shaped and U-shaped hybrids). Have interest in a wide variety of things. Esp in the LLM era. Use LLMs aggressively (How to use Claude Code). Be more ambitious. Being addicted to learning. 
-- Take a questions first approach. Use LLMs to get shit done. View everything as a problem to be solved. Self Efficacy; Link to [[2026-10-07#^2c8f2b]] Follow the questions you love.  Invisible problems. 
-	- It is really to important to also spend some time doing more explorative stuff too. Most of the times whilst doing exploratory stuff, you will come with breakthroughs. 
+- Be curious, be interdisciplinary (T-shaped and U-shaped hybrids). Have interest in a wide variety of things. Esp in the LLM era. Use LLMs aggressively (How to use Claude Code). Be more ambitious. Being addicted to learning. See [[Knowledge Cycle]] on how to do it aptly. 
+- Take a questions first approach. Use LLMs to get shit done. View everything as a problem to be solved. Self Efficacy; Link to [[2026-10-07#^2c8f2b]] Follow the questions you love.  Invisible problems. Follow bit of learning with building something, even small so you can play with it! Inventing On Principles. [[Generative Mantra]]. "Just do it"
+	- It is really to important to also spend some time doing more explorative stuff too. Most of the times whilst doing exploratory stuff, you will come with breakthroughs. Peripheral thinking of sorts.  
 - Be agentic. Learn by doing things. Do experiments. [[Form fits the context]] 
 - Writing is thinking. 
-- Bayesian Thinking
+- Bayesian Thinking. Can I bet upon it?. Fooled by Randomness thoughts No Survivorship bias!
 - Learn to hyper-compartmentalize like elite racing drivers. Focus on the task at hand. Don't left the uncertainty of future distract you too much. Focus on what you can do and what you need to do at the moment.
 - Be a part of a small group! Like Benjamin Franklin was part of Junto Club, Tolkien and C.S Lewis were a part of The Inklings, Steve Jobs and Steve Wozniak were a part of 
 - Timed reviews: Weekly, monthly and 3 monthly to align yourself well with high level goals. 
-- Play and have fun!!! Be optimistic about the future!
+- Play and have fun!!! Be optimistic about the future! Have self efficacy, be optimistic and that no matter what you will come out on top!

@@ -9,5 +9,5 @@
 - C.A.R Hoare  was inspired by Douglas T Ross  to create Plex data structure, which is kinda of like fatty structs  
 - Douglas T Ross worked at MIT  lab where they created a plex data structure
 - Ivan Sutherland used plex like data structure  inspired from Douglas T Ross but he used ECS
--  Alan Kay loved Ivan Surtherland's and Simula's approach. Kay took the concept of plex data structure and created class. He promoted compile time hierarchy of encapsulation that matched the domain model. His past work sort of motivated him to do so. But then he later [[The Big OOPS - Anatomy of a 35 year old mistake#^389103|retracts]] it in a way
+-  Alan Kay loved Ivan Surtherland's and Simula's approach. Kay took the concept of plex data structure and created class. He promoted compile time hierarchy of encapsulation that matched the domain model. But the foremost thing for him was the message passing aspect of it.  His past work sort of motivated him to do so. But then he later [[The Big OOPS - Anatomy of a 35 year old mistake#^389103|retracts]] it in a way
 - Bjarne Strousoup also sort of did similar stuff but did not force you to do it. They had this concept of classes as types which has evolved into C++ templates. Thank God for that!

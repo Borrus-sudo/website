@@ -1,0 +1,23 @@
+
+- Decomposing the problem: breaking down the problem into manageable subproblems. 
+- Reductionism
+	- Being able to explain how a complex system works by being able to break the system down to its fundamental constituents. It assumes that a system is a sum of its parts. Works best for [[Lego Model - Mental Model for designing mediums#^015cc3|compositional systems]]. Ofc breaks for emergent systems. It's a spectrum.   
+- Relaxing the problem.
+- [[Abstraction Gradient - The Art of Zooming in and out]]: Beautifully covers all 3. 
+	- First Principles Thinking: Challenging your assumptions by breaking things down further and further till you reach a ground state of truth. The goal is to debug the logical inferencing used to come on particular conclusions. Along the way maybe you can find something clever you can do to niftily achieve your desired outcome.  Using 5 whys here is a good way to do so.
+	- Thinking possibilities and brute forcing
+	- Abstraction: Focus on the important details.
+- Wishful Thinking
+	- Alan Kay also made a reference to it in User Interface: A personal view. He viewed Wishful Thinking as romance. 
+- Approximating solutions.
+- Finding Invariants.
+	- Symmetries are very useful invariants.
+	- Self Recurring.
+	- Recursion.
+- Finding useful pivots to hinge upon them.
+- Paying attention to relation between things. Makes it useful for metaphoring it in foreign situations. 
+- VARK theory.
+- Reverse thinking. 
+- Composing 
+- Morphological analysis: Finding movable parts in the system, finding the possibility space and figuring out the desired configuration among them.
+- Develop more pattern languages for the specific things you are interested in. Trying viewing them from this generic lens, compose further. The pattern languages gotta compose together. 

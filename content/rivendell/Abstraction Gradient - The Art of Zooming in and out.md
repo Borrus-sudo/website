@@ -1,7 +1,7 @@
 - The what vs how. The macro vs micro way to think about stuff. 
 - Declarative vs imperative
 - Unseeing
-- Form fits the context, Unfolding
+- Form fits the context, Unfolding. Form vs Function. You need to find a form that fits your function. 
 - Judging technological progress and making progress
 - Moving Up and Down the levels of abstraction.
 - Separating the "what" from "how". Also linked to A/B qn. We have an issue in solution B to problem A. Chances are you must tell about the problem "A" too.

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a23b6a3e50e89dd",
+            "id": "06e3acde54ea0c3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Musings on Thought, Intelligence and Learning.md",
+                "file": "2026-11-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Musings on Thought, Intelligence and Learning"
+              "title": "2026-11-08"
+            }
+          },
+          {
+            "id": "84c7f1feef9f61b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lego Model - Mental Model for designing mediums.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lego Model - Mental Model for designing mediums"
+            }
+          },
+          {
+            "id": "f80d754911187b4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-11-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-11-08"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "computing",
+                "query": "pattern",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,34 +248,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "9a23b6a3e50e89dd",
+  "active": "f80d754911187b4f",
   "lastOpenFiles": [
-    "2026-11-01.md",
-    "2026-11-02.md",
-    "Musings on Thought, Intelligence and Learning.md",
-    "2026-10-20.md",
-    "2026-10-31.md",
-    "2026-10-24.md",
-    "2026-10-25.md",
-    "2026-10-19.md",
-    "2026-10-30.md",
-    "2026-10-07.md",
-    "2026-10-26.md",
-    "2026-10-27.md",
-    "Abstraction Gradient - The Art of Zooming in and out.md",
-    "How I take notes.md",
     "Lego Model - Mental Model for designing mediums.md",
+    "Pattern language for Out-of-the-box thinking.md",
+    "2026-11-08.md",
+    "2026-08-02.md",
+    "Abstraction Gradient - The Art of Zooming in and out.md",
+    "2026-10-19.md",
+    "Musings on Thought, Intelligence and Learning.md",
+    "2026-10-16.md",
     "2026-10-10.md",
+    "2026-10-27.md",
+    "2026-10-07.md",
+    "2026-10-24.md",
+    "2026-11-01.md",
+    "2026-10-25.md",
+    "2026-11-02.md",
+    "The Big OOPS - Anatomy of a 35 year old mistake.md",
+    "2026-10-26.md",
+    "2026-10-31.md",
+    "2026-10-30.md",
+    "How I take notes.md",
     "2026-10-15.md",
     "2026-07-28.md",
     "Abstracting 'Abstracting'.md",
-    "2026-10-16.md",
     "2026-10-17.md",
     "2026-10-14.md",
     "2026-10-03.md",
-    "2026-07-29.md",
-    "2026-08-16.md",
-    "2026-08-02.md",
     "noise_cv",
     "prep",
     "interview",
