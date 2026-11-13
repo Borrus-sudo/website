@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06e3acde54ea0c3c",
+            "id": "84c7f1feef9f61b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-11-08.md",
+                "file": "2026-10-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-11-08"
+              "title": "2026-10-07"
             }
           },
           {
-            "id": "84c7f1feef9f61b9",
+            "id": "f80d754911187b4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-11-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-11-11"
+            }
+          },
+          {
+            "id": "e6705b75b25f1f13",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,30 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "Lego Model - Mental Model for designing mediums"
-            }
-          },
-          {
-            "id": "f80d754911187b4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-11-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-11-08"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pattern",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mycelium - wood wide web.md",
+                "file": "Lego Model - Mental Model for designing mediums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-10-03.md",
+                "file": "Lego Model - Mental Model for designing mediums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -234,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,34 +247,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "f80d754911187b4f",
+  "active": "e6705b75b25f1f13",
   "lastOpenFiles": [
+    "Musings on Thought, Intelligence and Learning.md",
     "Lego Model - Mental Model for designing mediums.md",
+    "The culture we deserve.md",
+    "Abstraction Gradient - The Art of Zooming in and out.md",
+    "Future OS.md",
+    "2026-11-11.md",
+    "2026-10-07.md",
+    "2026-11-12.md",
+    "2026-10-25.md",
+    "2026-11-01.md",
+    "2026-10-26.md",
+    "Abstracting 'Abstracting'.md",
     "Pattern language for Out-of-the-box thinking.md",
     "2026-11-08.md",
     "2026-08-02.md",
-    "Abstraction Gradient - The Art of Zooming in and out.md",
     "2026-10-19.md",
-    "Musings on Thought, Intelligence and Learning.md",
     "2026-10-16.md",
     "2026-10-10.md",
     "2026-10-27.md",
-    "2026-10-07.md",
     "2026-10-24.md",
-    "2026-11-01.md",
-    "2026-10-25.md",
     "2026-11-02.md",
     "The Big OOPS - Anatomy of a 35 year old mistake.md",
-    "2026-10-26.md",
     "2026-10-31.md",
     "2026-10-30.md",
     "How I take notes.md",
     "2026-10-15.md",
-    "2026-07-28.md",
-    "Abstracting 'Abstracting'.md",
-    "2026-10-17.md",
-    "2026-10-14.md",
-    "2026-10-03.md",
     "noise_cv",
     "prep",
     "interview",
